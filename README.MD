@@ -9,7 +9,7 @@ I converted two failure patterns from the interviews into controlled evaluation 
 
 For each failure pattern, I designed five task variants and tested them with DeepSeek, Gemini, and OpenAI. Detailed model outputs and PASS / PARTIAL / FAIL results are recorded in the Excel file.
 
-I also reviewed several papers and resources on benchmark and evaluation design. I found Scale AI's *Research Rubrics* particularly relevant and am continuing to study how to design more reliable evaluation criteria.
+I also reviewed several papers and resources on benchmark and evaluation design. I found Scale AI's *Research Rubrics* particularly relevant and am continuing to study how to design more reliable evaluation criteria. https://labs.scale.com/papers/researchrubrics 
 
 ### Preliminary Observation
 
