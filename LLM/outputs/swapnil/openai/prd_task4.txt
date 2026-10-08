@@ -1,0 +1,16 @@
+## ConnectHub V1 Product Scope
+
+**Approved for V1**
+- Direct Messaging
+- Group Channels
+- User Profiles & Authentication
+- File Sharing
+- Notification System
+- Admin & Moderation Tools
+
+**Under review**
+- Video/Voice Calling: engineering proposed moving it out of V1 because of timeline constraints, but the proposal has not been approved.
+
+**Is Video/Voice Calling planned for V1?** It was originally planned for V1, but its current V1 status is undecided.
+
+**Expected release phase:** Post-Launch, if the proposed move is approved.

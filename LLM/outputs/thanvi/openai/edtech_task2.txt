@@ -1,0 +1,22 @@
+## Refund eligibility assessment
+
+The documentation gives **conflicting refund deadlines**, so it does not support a definitive eligibility decision.
+
+### Requirements relevant to this purchase
+
+- **Terms of Service:** Request within **14 days** of purchase, have used the course for **less than 30 hours**, have no certificate issued, and not be enrolled in an instructor’s alternative course.
+- **Support FAQ:** Request within **7 days**, have not completed the course, have no certificate, and not have downloaded all course materials excessively.
+- Both sections direct users to request a refund through **My Purchases**. The Terms say refunds are processed in 5–10 business days; the FAQ says 3–5 business days.
+
+### How the user’s facts compare
+
+- **Purchased 9 days ago:** Within the Terms’ 14-day window, but outside the FAQ’s 7-day window.
+- **Completed 15 hours:** Meets the Terms’ under-30-hours limit. The FAQ instead says the course must not be completed; the scenario does not say whether the user completed the course.
+- **No certificate received:** Meets the no-certificate condition stated in both sections.
+- Wanting a better course elsewhere is not listed as a disqualifying reason. The scenario does not establish whether the user is enrolled in an instructor’s alternative course or has excessively downloaded materials.
+
+### Conclusion and next step
+
+Eligibility is **uncertain** because the official Terms and the Support FAQ disagree on the refund window, and the FAQ has a later update date than the Terms. The user meets the stated access-time and certificate requirements in the Terms, but at 9 days would fail the FAQ’s deadline.
+
+The user should **submit a refund request through My Purchases immediately**, while still within the Terms’ 14-day window, and contact LearnHub Support to ask which deadline governs their purchase.

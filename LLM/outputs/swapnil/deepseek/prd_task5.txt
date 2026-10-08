@@ -1,0 +1,31 @@
+**ConnectHub V1 Product Scope Summary**  
+Source: PRD v3.2, last updated 2026-06-04. Launch target: Q3 2026.
+
+**Approved V1 Features (will ship in V1):**
+- Direct Messaging
+- Group Channels
+- User Profiles & Authentication
+- File Sharing
+- Notification System
+- Admin & Moderation Tools
+
+**Features Under Review (not confirmed for V1):**
+- User Reputation System
+- Email Notifications
+- Advanced Search
+
+**Video/Voice Calling:**
+- **Planned for V1?** No. The PRD does not list Video/Voice Calling among approved V1 features.
+- **Expected release phase:** Not specified in the PRD. Video/Voice Calling is not listed under features under review, post-launch future features, or the tentative Year 2 roadmap.
+
+**Other Post-Launch Features Listed in PRD:**
+- Integrations & Bot Framework
+- Analytics Dashboard
+
+**Year 2 Roadmap:**
+- Tentative; future roadmap items will be determined during annual planning.
+
+**Scope Notes from PRD Final Decision Points:**
+- V1 includes User Profiles & Authentication, but the User Reputation System is under review.
+- V1 includes the Notification System, but Email Notifications are under review.
+- Advanced Search is under review.

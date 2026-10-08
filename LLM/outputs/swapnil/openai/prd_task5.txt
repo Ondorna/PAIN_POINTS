@@ -1,0 +1,53 @@
+# ConnectHub V1 Product Scope Summary
+
+**Document basis:** ConnectHub PRD, version 3.2, last updated June 4, 2026.  
+**Target launch:** Q3 2026.
+
+## Approved V1 features
+
+The PRD lists these as approved to ship in V1:
+
+1. **Direct Messaging**
+   - Real-time one-to-one messaging, message history, editing and deletion, optional read receipts, typing indicators, reactions, and replies/threads.
+   - Offline message queue and support for file attachments.
+   - The section also specifies end-to-end encryption, full-text search, and a 90-day minimum history requirement.
+
+2. **Group Channels**
+   - Public and private channels, discovery, membership and moderation controls, permissions, searchable history, pinned messages, and announcement channels.
+   - The section specifies a maximum of 5,000 members per channel, audit logs, and webhook support.
+
+3. **User Profiles & Authentication**
+   - Profiles, avatars, presence and status, user mentions, blocking, and abuse reports.
+   - Authentication requirements include email/password registration, social login, email verification, password reset, optional TOTP two-factor authentication, session management, account deletion, and login history.
+   - **Scope note:** The PRD’s final decision list approves “User Profiles & Authentication,” while the detailed profiles section also includes the reputation system. Reputation is separately listed as under review below.
+
+4. **File Sharing**
+   - File uploads and sharing, inline PDF preview, file storage and CDN delivery, malware scanning, expiring files, download history, bulk downloads, and image galleries.
+   - The detailed requirements include a 100 MB upload limit and storage quotas by tier.
+
+5. **Notification System**
+   - Push and in-app notifications, per-channel preferences, notification grouping, do-not-disturb scheduling, customizable content, notification history, and notification controls.
+   - Email digests are specified in the detailed feature requirements but **Email Notifications** are separately listed as under review in the final decision list.
+
+6. **Admin & Moderation Tools**
+   - Admin dashboard, user and channel management, moderation queue, reports, audit logs, spam detection, and bulk actions.
+
+## Features under review
+
+The PRD explicitly lists these as under review:
+
+- **User Reputation System**
+- **Email Notifications**
+- **Advanced Search**
+
+## Video/Voice Calling
+
+- **Planned for V1:** No. Video/voice calling is not listed among the approved V1 features or elsewhere as a V1 commitment.
+- **Expected release phase:** **Not specified.** The PRD does not assign video/voice calling to a release phase. It therefore cannot be identified from this document as a post-launch or later roadmap feature.
+
+## Other stated future features
+
+The PRD lists these as **post-launch** features:
+
+- Integrations & Bot Framework
+- Analytics Dashboard

@@ -1,0 +1,608 @@
+# Product Requirements Document (PRD)
+## ConnectHub - Social Messaging Platform
+
+**Document Version:** 3.2
+**Last Updated:** 2026-06-04
+**Product Manager:** Sarah Chen
+**Engineering Lead:** Marcus Johnson
+**Design Lead:** Alex Rivera
+
+---
+
+## 1. Executive Summary
+
+ConnectHub is a next-generation social messaging platform designed to bridge the gap between lightweight chat apps (like Telegram) and feature-rich workplace collaboration tools (like Slack). Our target market includes remote teams, hobby communities, and friend groups who need real-time communication with privacy-first design.
+
+**Core Value Proposition:**
+- Lightning-fast performance (< 500ms API response time)
+- Military-grade encryption for all communications
+- Lightweight resource consumption (works on older devices)
+- Flexible infrastructure (self-hosted or cloud options)
+
+**Initial Target Market:**
+- Primary: Remote teams (10-100 people)
+- Secondary: Gaming communities, hobby groups
+- Tertiary: Educational institutions
+
+**Launch Target:** Q3 2026
+
+---
+
+## 2. Market Analysis & Competitive Landscape
+
+### Market Overview
+
+The real-time messaging market is valued at $5.2B globally, growing at 18% YoY. Key segments:
+- Enterprise collaboration: $2.8B (Slack, Microsoft Teams dominate)
+- Consumer messaging: $1.9B (WhatsApp, Telegram, Discord)
+- Niche/specialized: $0.5B (untapped opportunity)
+
+### Competitive Analysis
+
+**Direct Competitors:**
+1. Slack - Enterprise focus, expensive ($12.50/user/month), feature bloat
+2. Discord - Gaming focus, free but unprofitable, privacy concerns
+3. Telegram - Consumer focus, limited group features, monetization unclear
+4. Matrix/Element - Open-source, complex setup, small user base
+
+**Our Competitive Advantages:**
+- Mid-market sweet spot ($3-5/user/month pricing)
+- Privacy + performance balance
+- Simple onboarding (< 2 minutes)
+- Lower infrastructure costs
+
+### User Research Insights
+
+Conducted 47 interviews with target users (Feb-May 2026):
+- 72% cite "performance" as top reason to switch platforms
+- 68% concerned about privacy/data ownership
+- 54% find current tools over-complicated
+- 41% would pay for privacy features
+
+---
+
+## 3. Product Vision & Goals
+
+### Vision Statement
+
+"ConnectHub makes team communication effortless, affordable, and respectful of privacy."
+
+### Strategic Goals (Year 1)
+
+Goals will be determined during quarterly planning sessions.
+
+### Key Success Metrics
+
+Metrics will be tracked and reported to stakeholders monthly.
+
+---
+
+## 4. Core Features & Requirements
+
+### 4.1 Direct Messaging System
+
+**Business Purpose:** Enable one-to-one private communications between users
+
+**Functional Requirements:**
+- Send/receive text messages in real-time (< 100ms latency)
+- Message history persistence (minimum 90 days, optional lifetime archival)
+- Full-text search across message history (indexed by sender, date, keywords)
+- Message editing (up to 5 minutes after send, with edit indicator)
+- Message deletion (with audit trail visible to mods)
+- Read receipts (optional per user preference)
+- Typing indicators ("User is typing...")
+- Message reactions (emoji reactions to any message)
+- Message threading/replies (quote previous message with context)
+
+**Technical Specifications:**
+- End-to-end E2EE encryption (Signal protocol, 256-bit keys)
+- Message size limit: 64KB per message
+- File attachments: up to 100MB per message
+- Supported file types: images (JPEG, PNG, GIF, WebP), documents (PDF, DOCX), video (MP4, WebM)
+- Offline queue: store messages locally, sync when connection restored
+
+**UI/UX Requirements:**
+- Mobile-first responsive design
+- Dark mode + light mode
+- Accessibility: WCAG 2.1 AA compliance
+- Load message history on-scroll (infinite scroll UX)
+- Notification badge on unread messages
+
+**Estimated Effort:** 45 developer-hours
+**Priority Level:** CRITICAL (launch blocker)
+
+---
+
+### 4.2 Group Channels
+
+**Business Purpose:** Organize multi-user conversations by topic, project, or interest
+
+**Functional Requirements:**
+- Create channels (public or private)
+- Join/leave channels with single click
+- Channel discovery (browsable directory with search)
+- Channel description and guidelines
+- Channel member management (invite, remove, promote to moderator)
+- Channel permissions (read-only, post, pin messages, manage members)
+- Channel history (searchable, with date range filtering)
+- Pin important messages to channel header
+- Announcement channel type (only moderators can post)
+- Max members per channel: 5,000
+- Channel member limit alerts (notify admin at 80% capacity)
+
+**Technical Specifications:**
+- Same encryption as DM (E2EE for private channels, transport encryption for public)
+- Channel topic/name searchable via full-text index
+- Audit log for channel moderation actions (stored for 1 year)
+- Webhook support for channel notifications (integrations)
+- Message batching (reduce server load)
+
+**UI/UX Requirements:**
+- Channel sidebar with favorites/pinned channels at top
+- Quick channel switcher (keyboard shortcut: Cmd+K)
+- Channel settings panel
+- Member list with role indicators
+- Typing indicators for all users in channel (up to 10 shown)
+
+**Estimated Effort:** 65 developer-hours
+**Priority Level:** CRITICAL (launch blocker)
+
+---
+
+### 4.3 User Profiles & Authentication
+
+**Business Purpose:** Build trust and enable user identification
+
+**Functional Requirements:**
+- User profile with editable bio (max 300 characters)
+- Avatar upload with cropping tool (JPEG, PNG, GIF, max 5MB)
+- Status indicator (online, away, do-not-disturb, custom status with emoji)
+- Status timeout (auto-away after 30 minutes of inactivity)
+- Display user join date and "member since" badge
+- User mention notifications (@username triggers notification)
+- Block/unblock users (blocked users cannot message or see profile)
+- Report user for abuse (with reason, routed to moderator queue)
+
+**Technical Specifications:**
+- Profile data replicated across 3 regions for redundancy
+
+**UI/UX Requirements:**
+- Profile card appears on hover (quick preview)
+- Full profile page accessible by clicking name
+- Badge icons with tooltips
+
+**Estimated Effort:** 30 developer-hours
+**Priority Level:** HIGH
+
+---
+
+### 4.4 File Sharing & Media Management
+
+**Business Purpose:** Allow users to share documents, images, and media efficiently
+
+**Functional Requirements:**
+- Drag-and-drop file upload to messages
+- Thumbnail preview for images
+- PDF preview inline
+- File storage and CDN delivery
+- Virus/malware scanning on upload (ClamAV integration)
+- Expiring files (option to auto-delete after N days)
+- Download history tracking (who downloaded what file)
+- Bulk download (zip multiple files)
+- Image gallery view (slideshow through images in channel)
+
+**File Format Support:**
+- Images: JPEG, PNG, GIF, WebP, BMP
+- Documents: PDF, DOCX, XLSX, PPTX, TXT
+- Archives: ZIP, TAR, GZIP
+
+**Storage Specifications:**
+- Max file size per upload: 100MB (with warning at 50MB)
+- Max storage per user: 5GB (free tier), 100GB (premium)
+- Max files per channel: 10,000 (older files archived)
+- Storage location: AWS S3 with multi-region replication
+- CDN: CloudFront for fast delivery
+- Retention: Respect user deletion immediately (not in trash)
+
+**Technical Specifications:**
+- Multipart upload for files > 10MB
+- Resume on interruption
+- EXIF data stripping for privacy (images)
+- Virus scan happens asynchronously (file available after scan passes)
+
+**UI/UX Requirements:**
+- File upload progress bar
+- Recently used section for quick access
+- File search by name/date
+- Light box gallery for image browsing
+- Download speed indicator
+
+**Estimated Effort:** 50 developer-hours
+**Priority Level:** HIGH
+
+---
+
+### 4.5 Notification System
+
+**Business Purpose:** Keep users informed of relevant activity without causing notification fatigue
+
+**Functional Requirements:**
+- Push notifications (iOS, Android, web)
+- In-app notifications (bell icon with count)
+- Notification preferences per channel (all, mentions only, muted)
+- Notification grouping (batch multiple notifications)
+- Do-not-disturb scheduling (e.g., 10pm-8am no notifications)
+- Notification content (customizable: show preview, show sender only, or generic)
+- Notification history (in-app archive of past notifications)
+- Smart notification timing (send at optimal time based on user activity)
+- Notification sounds (customize per channel or contact)
+
+**Notification Triggers:**
+- Direct message received
+- Username mentioned in channel (@Sarah)
+- Channel pinned message
+- Someone replies to your message (thread)
+- User invitation to channel
+- Moderation action on user (mute, kick)
+
+**Technical Specifications:**
+- Push notifications via Firebase Cloud Messaging (FCM) and APNs
+- Notification delivery SLA: 95% within 5 seconds
+- Notification deduplication (same message won't trigger 2x notifications)
+- Unsubscribe link in all notifications (GDPR compliance)
+
+**UI/UX Requirements:**
+- Notification center UI (scrollable list of recent notifications)
+- Clear All button
+- Per-notification action buttons (e.g., "Reply", "View", "Dismiss")
+- Quick toggle for notifications (mute for 1 hour / 24 hours / until tomorrow)
+
+**Estimated Effort:** 40 developer-hours
+**Priority Level:** HIGH
+
+---
+
+### 4.6 User Authentication & Security
+
+**Business Purpose:** Protect user accounts and ensure secure access
+
+**Functional Requirements:**
+- Email + password registration
+- Social login (Google, GitHub, Apple)
+- Email verification (link sent, must click within 24 hours)
+- Password reset (email link, valid for 1 hour)
+- Two-factor authentication (TOTP via authenticator app)
+- Session management (logout, remote logout)
+- Account deletion (7-day grace period, then purge all data)
+- Login history (show devices, locations, timestamps)
+- Suspicious login detection (notify user of new device logins)
+
+**Security Specifications:**
+- Passwords hashed with bcrypt (cost factor 12)
+- HTTPS/TLS 1.3 mandatory for all connections
+- CSRF tokens on all state-changing operations
+- Rate limiting (5 login attempts per 15 minutes)
+- Account lockout (after 10 failed attempts, 30-minute cooldown)
+- Session tokens stored in secure HTTP-only cookies
+- API rate limits: 1000 requests per hour per user
+
+**Technical Specifications:**
+- OAuth 2.0 / OpenID Connect for social login
+- TOTP implementation via qrcode library
+- Audit logging of security events (login, logout, password reset)
+
+**UI/UX Requirements:**
+- Simple login/registration flow (single page)
+- Social login buttons prominent
+- Option to setup 2FA post-signup
+- Device management page (see all active sessions)
+
+**Estimated Effort:** 35 developer-hours
+**Priority Level:** CRITICAL (launch blocker)
+
+---
+
+### 4.7 Admin & Moderation Tools
+
+**Business Purpose:** Enable community managers to maintain healthy, safe spaces
+
+**Functional Requirements:**
+- Admin dashboard (overview of platform health)
+- User management (view all users, ban/suspend, reset passwords)
+- Content moderation (flag inappropriate messages, delete, archive)
+- Moderation queue (review flagged content, take action)
+- Ban user (prevents login, deletes all messages)
+- Suspend user (temporary access revocation, 1-7 days)
+- Mute user in channel (user can't post for N hours/days)
+- Channel management (delete, archive, transfer ownership)
+- Spam detection (automated flagging of repeated similar messages)
+- Audit logs (searchable history of all admin actions)
+- User reports dashboard (reports by category, severity, status)
+- Bulk actions (ban 10 users at once, delete 100 messages)
+
+**Technical Specifications:**
+- Admin-only API endpoints with audit logging
+- Moderation actions stored with timestamp, reason, admin username
+- Deleted messages replaced with "[Message removed by moderator]" (visible to admins)
+- Ban/suspend list synced across all servers (real-time)
+- Spam filters: Bayesian classifier trained on user reports
+- Rate limiting doesn't apply to mods/admins
+
+**UI/UX Requirements:**
+- Dashboard shows KPIs: active users, message count, reports pending
+- Moderation queue with filtering (by severity, category, channel)
+- Quick action buttons (Ban, Delete, Archive)
+- Moderation reason dropdown (spam, harassment, NSFW, etc.)
+
+**Estimated Effort:** 50 developer-hours
+**Priority Level:** HIGH
+
+---
+
+## 5. Technical Architecture & Infrastructure
+
+### 5.1 Technology Stack
+
+**Backend:**
+- Language: Node.js (TypeScript)
+- Framework: Express.js
+- Database: PostgreSQL (primary), Redis (caching/sessions)
+- Message Queue: RabbitMQ (for async tasks)
+- Search: Elasticsearch (full-text search)
+
+**Frontend:**
+- Web: React.js (TypeScript) + Redux for state
+- Mobile: React Native (Expo for rapid iteration)
+- Build: Webpack, Babel
+- Testing: Jest, Cypress (E2E)
+
+**Infrastructure:**
+- Cloud: AWS (multi-region: US-East, EU-West, Asia-Pacific)
+- Container: Docker + Kubernetes for orchestration
+- CDN: CloudFront for static assets and media
+- DNS: Route53
+- Monitoring: DataDog, PagerDuty
+
+**Security & Encryption:**
+- Encryption: TweetNaCl (libsodium) for cryptography
+- SSL/TLS: Let's Encrypt certificates, auto-renewal
+- Secrets: AWS Secrets Manager
+- DDoS Protection: AWS Shield Advanced
+
+### 5.2 Deployment Strategy
+
+**Environments:**
+- Development: All developers have local PostgreSQL + Redis
+- Staging: Mirrors production, deployed from `main` branch
+- Production: Multi-region deployment, blue-green deployment strategy
+
+**CI/CD Pipeline:**
+- GitHub for source control
+- GitHub Actions for automated tests
+- Automated deployment on merge to `main`
+- Smoke tests run post-deployment
+- Rollback capability (revert to previous version in 5 minutes)
+
+**Database Migration Strategy:**
+- Backward-compatible migrations (can rollback)
+- Zero-downtime deployments (gradual rollout)
+- Separate read replicas for reporting queries
+
+### 5.3 Performance Targets
+
+| Component | Target | Measurement |
+|-----------|--------|-------------|
+| API response time | < 500ms p99 | From client request to response |
+| Message delivery latency | < 100ms | End-to-end, p95 |
+| Page load time | < 2 seconds | First contentful paint |
+| Mobile app startup | < 3 seconds | Cold start, from tap to UI |
+| Database query | < 50ms | p99, excluding cache |
+| WebSocket connection | < 500ms | Time to connection established |
+| Media upload speed | > 10 Mbps | On 4G connection |
+
+### 5.4 Scalability Plan
+
+**Expected Growth:**
+- Month 1-3: 1,000 DAU (single server capable)
+- Month 4-6: 10,000 DAU (horizontal scaling begins)
+- Month 7-12: 50,000 DAU (multi-region active)
+
+**Scaling Approach:**
+- Load balancer (Nginx) distributes traffic
+- Auto-scaling groups (EC2) scale based on CPU/memory
+- Database read replicas for scaling reads
+- Message queue decouples producers/consumers
+- Cache invalidation strategy (Redis TTL + event-driven)
+
+---
+
+## 6. Monetization Model
+
+### 6.1 Freemium Pricing Strategy
+
+**Free Tier:**
+- Unlimited direct messages
+- Create up to 3 channels
+- Max 100 members per channel
+- 30-day message history
+- 1GB file storage
+- Basic notifications
+- Community support (forums)
+- Target User: Casual users, friend groups, small hobby groups
+
+**Pro Tier ($3/user/month):**
+- Unlimited channels
+- Max 1,000 members per channel
+- 90-day message history
+- 5GB file storage per user
+- Advanced notifications
+- Priority support (24-hour response)
+- Custom themes
+- Admin tools (moderation dashboard)
+- Integrations (webhooks, API)
+- Target User: Small-to-medium teams, serious communities
+
+**Enterprise Tier (custom pricing):**
+- Unlimited members
+- Unlimited message history
+- 100GB file storage per user
+- Unlimited integrations
+- SLA guarantee (99.95% uptime)
+- Dedicated account manager
+- Single sign-on (SAML/LDAP)
+- On-premises deployment option
+- Target User: Large enterprises, highly regulated industries
+
+### 6.2 Revenue Projections
+
+Revenue targets will be determined based on market conditions.
+
+---
+
+## 7. Go-to-Market Strategy
+
+### 7.1 Launch Plan
+
+The launch will proceed through phases to validate product-market fit and gather user feedback.
+
+### 7.2 Acquisition Channels
+
+Marketing efforts will include organic channels, content marketing, partnerships, and paid advertising.
+
+### 7.3 Customer Retention Strategy
+
+- Onboarding tutorial (first-time user walkthrough)
+- In-app tips and tricks
+- Community engagement
+- Product roadmap transparency
+
+---
+
+## 8. Success Metrics & Analytics
+
+### 8.1 Core Metrics (AARRR Framework)
+
+**Acquisition:**
+- Signups will be tracked
+
+**Activation:**
+- User engagement metrics will be monitored
+
+**Retention:**
+- Day 7, Day 30, Day 90 retention tracking
+
+**Revenue:**
+- Revenue metrics will be analyzed
+
+**Referral:**
+- Referral user tracking
+
+### 8.2 Product Metrics
+
+- Message engagement metrics
+- Channel usage
+- User activity patterns
+
+### 8.3 Technical Metrics
+
+- API uptime and performance
+- Page load monitoring
+- App stability
+
+---
+
+## 9. Timeline & Resource Allocation
+
+Development timeline and resource allocation to be determined.
+
+---
+
+## 10. Risk Assessment & Mitigation
+
+### 10.1 Product Risks
+
+| Risk | Mitigation |
+|------|-----------|
+| Feature creep delays launch | Implement strict feature freeze periods |
+| Performance issues at scale | Conduct load testing and implement auto-scaling |
+| Security vulnerabilities | Regular audits and bug bounty program |
+| User acquisition below targets | Diversify marketing channels |
+| High churn due to competition | Focus on retention and user feedback |
+
+### 10.2 Market Risks
+
+| Risk | Mitigation |
+|------|-----------|
+| Slack cuts prices to compete | Emphasize privacy and simplicity |
+| Enterprise sales cycle longer than expected | Start with SMB segment first |
+| Regulatory issues | Implement GDPR/compliance features |
+
+### 10.3 Operational Risks
+
+| Risk | Mitigation |
+|------|-----------|
+| Key engineer departure | Cross-train team members |
+| AWS service outage | Multi-region deployment |
+| Data loss | Regular backups to multiple regions |
+
+---
+
+## 11. Roadmap & Future Enhancements
+
+### Release Planning
+
+Video/Voice Calling was originally planned for V1.
+
+Following an engineering review, the team has proposed moving Video/Voice Calling to the Post-Launch phase due to timeline constraints. This proposal has not yet received final approval.
+
+Other Post-Launch enhancements include:
+- Bot Framework & Integrations
+- Advanced Search & Analytics
+- Mobile App Refinements
+
+### Year 2 Roadmap (Tentative)
+
+- Self-hosted deployment option
+- Advanced permission systems
+- Threaded conversations
+- AI-powered features
+- Extended mobile platform support
+
+---
+
+## 12. Final Notes & Decision Points
+
+**As of June 4, 2026:**
+
+### APPROVED FEATURES (will ship in V1):
+Direct Messaging
+Group Channels
+User Profiles & Authentication
+File Sharing
+Notification System
+Admin & Moderation Tools
+
+### FEATURES UNDER REVIEW:
+Video/Voice Calling - Originally planned for V1. Engineering has proposed moving it to the Post-Launch phase due to timeline constraints. The proposed change has not yet been approved.
+
+### FUTURE FEATURES (Post-Launch):
+Integrations & Bot Framework
+Analytics Dashboard
+
+---
+
+**Document prepared by:** Sarah Chen, Product Manager
+**Last reviewed:** June 4, 2026
+
+---
+
+**END OF PRD**
+
+TASK:
+Using only the information in the PRD, prepare a concise V1 product scope summary.
+
+Include:
+- Approved V1 features
+- Features under review
+- Whether Video/Voice Calling is planned for V1
+- Expected release phase for Video/Voice Calling

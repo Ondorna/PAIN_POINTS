@@ -1,0 +1,322 @@
+# LearnHub Platform - Complete Policy Documentation
+
+**Platform: LearnHub**  
+**Documentation Package Date: August 2026**
+
+---
+
+## 1. COURSE CATALOG & ACCESS INFORMATION
+
+### Course Categories Available
+
+LearnHub offers courses in multiple categories:
+
+**Technology & Programming**
+- Python for Beginners (3,200 students enrolled)
+- Advanced JavaScript (2,840 students)
+- Data Science Fundamentals (4,120 students)
+- Web Development Bootcamp (1,950 students, 4.8/5 stars)
+
+**Business & Professional Development**
+- Business Strategy 101 (892 students)
+- Project Management Certification (1,240 students)
+- Digital Marketing Essentials (3,100 students)
+
+**Creative & Design**
+- Graphic Design Masterclass (2,560 students)
+- Video Production 101 (1,420 students)
+- UI/UX Design Principles (2,890 students, 4.9/5 stars)
+
+**Languages**
+- Spanish for Travelers (4,050 students)
+- Mandarin Chinese Basics (2,200 students)
+- Business English (1,680 students)
+
+### Course Access Details
+
+All LearnHub courses provide:
+- Lifetime access to course materials
+- Downloadable resources and lectures
+- Community forum access
+- Mobile app compatibility (iOS and Android)
+- Offline viewing capability for select courses
+- Certificate of completion (digital format)
+
+**Access Requirements:**
+- Active LearnHub account (free to create)
+- Internet connection for initial login
+- Compatible device (PC, Mac, tablet, smartphone)
+- Supported browsers: Chrome, Firefox, Safari, Edge (latest versions)
+
+**Technical Specifications:**
+- Video quality: Up to 4K (adaptive streaming)
+- Average course length: 8-40 hours
+- Total platform users: 2.3 million
+- Countries served: 195
+- Languages supported: 42
+
+---
+
+## 2. PAYMENT METHODS & PRICING
+
+### Accepted Payment Methods
+
+LearnHub accepts the following payment options:
+
+**Credit and Debit Cards**
+- Visa, Mastercard, American Express, Discover
+- Processing fee: None (platform absorbs cost)
+- Currency support: USD, EUR, GBP, AUD, CAD, JPY, INR, CNY, MXN, BRL, ZAR, and 15+ others
+
+**Digital Wallets**
+- Apple Pay, Google Pay, PayPal
+- Instant processing
+- Available in 150+ countries
+
+**Bank Transfers**
+- Direct bank transfer (for enterprise customers only)
+- 2-3 day processing time
+- Minimum amount: $500
+
+### Pricing Model
+
+**Single Course Purchase:**
+- Average price: $49.99 - $199.99
+- Discounts: 20-50% off during sales (seasonal)
+- Price match: LearnHub matches competitor pricing within 7 days
+
+**LearnHub Plus Subscription:**
+- Monthly: $29.99/month (cancel anytime)
+- Annual: $299/year (save $60)
+- Includes: Unlimited courses, priority support, certificate bundle
+- Free trial: 7 days
+
+**Course Bundles:**
+- Skill Tracks: 3-5 related courses at 30% discount
+- Career Paths: 8-10 courses at 45% discount
+- Professional Certifications: 12-15 courses at 50% discount
+
+**Volume Pricing (Enterprise):**
+- Seats for 10-50 users: 25% discount
+- Seats for 50-200 users: 40% discount
+- Seats for 200+ users: Custom pricing (contact sales)
+
+---
+
+## 3. CERTIFICATE & CREDENTIAL INFORMATION
+
+### Certificate of Completion
+
+Upon successful completion of a course, LearnHub issues a digital Certificate of Completion:
+
+**Certificate Details:**
+- Format: Digital PDF badge and LinkedIn profile addition
+- Credential ID: Unique identifier for verification
+- Issuer: LearnHub, Inc. (ACCET Member, verified by CourseVerify.org)
+- Shareable: Can be shared on LinkedIn, Facebook, Twitter, email
+- Verification: Employers can verify at certificates.learnhub.com
+- Expiration: None (certificates are permanent)
+
+**How to Earn Certificate:**
+- Complete 100% of course content
+- Pass final quiz (if applicable) with 70%+ score
+- Pay course fee in full (no refund requests after certificate issued)
+
+**Premium Credentials:**
+- Professional Certifications: Available for select courses
+- Industry Recognition: Credentials recognized by 500+ employers
+- CPD Points: Available for continuing professional development
+- Renewal: Annual renewal required for some credentials
+
+### Certificate Revocation Policy
+
+Certificates may be revoked in the following cases:
+- Detected plagiarism or cheating
+- Fraudulent payment method used
+- Breach of LearnHub's academic integrity policy
+- Upon user request (voluntary revocation)
+
+---
+
+## 4. ACCOUNT MANAGEMENT & SUPPORT
+
+### Account Features
+
+**User Dashboard:**
+- Track course progress (hours completed, percentage)
+- View all certificates earned
+- Access purchase history
+- Manage subscription and payment methods
+- View course recommendations
+- Communication preferences settings
+
+**Profile Management:**
+- Upload profile photo
+- Add bio and professional information
+- Link social media accounts
+- Set learning goals and preferences
+- Privacy settings (control profile visibility)
+
+### Customer Support
+
+**Support Channels Available:**
+1. Email support: support@learnhub.com (response time: 24-48 hours)
+2. Live chat: Available Mon-Fri 9am-6pm EST (response time: average 5 minutes)
+3. Help Center: 500+ articles and video tutorials
+4. Community forum: Peer support from instructors and learners
+5. Phone support: For enterprise customers only (1-800-LEARN-HUB)
+
+**Support Languages:** English, Spanish, French, German, Mandarin, Japanese
+
+**Average Customer Satisfaction:** 4.7/5 stars (based on 125,000+ reviews)
+
+---
+
+## 5. REFUND POLICY - OFFICIAL DOCUMENTATION
+
+### Refund Eligibility & Timeline
+
+**From Terms of Service (Last Updated: June 15, 2026):**
+
+LearnHub offers a **14-day money-back guarantee** on all course purchases.
+
+**Refund Details:**
+- Refund window: 14 days from date of purchase
+- Refund amount: 100% of course fee (minus transaction fees if applicable)
+- Applicable to: Individual course purchases, bundle purchases, subscription first month
+- Processing time: 5-10 business days
+
+**Eligibility Criteria:**
+- Purchase made within the last 14 days
+- Course access time: Less than 30 hours
+- No certificate of completion issued
+- No enrolled in instructor's alternative course
+
+**How to Request:**
+- Log in to LearnHub account
+- Navigate to "My Purchases"
+- Select the course to refund
+- Click "Request Refund" and provide reason
+- Submit within 14-day window
+
+---
+
+### Refund Policy - Support FAQ (Last Updated: September 8, 2026)
+
+**Common Questions About Refunds:**
+
+**Q: How long do I have to request a refund?**  
+A: You can request a refund within **7 days of your purchase**. This gives you a week to try out the course and make sure it meets your expectations.
+
+**Q: What's the refund process?**  
+A: It's simple. Go to "My Purchases," select the course, and click "Request Refund." We'll process it within 3-5 business days.
+
+**Q: Am I eligible for a refund?**  
+A: You're eligible if you meet these conditions:
+- Purchased within the last 7 days
+- Haven't completed the course
+- Haven't earned your course certificate
+- Haven't downloaded all course materials excessively
+
+**Q: Do I get a full refund?**  
+A: Yes, LearnHub offers a 100% refund of your course fee.
+
+**Q: Can I get a refund after I've completed the course?**  
+A: No. Once you've earned your certificate of completion, refunds are not available.
+
+---
+
+## 6. SPECIAL POLICIES & EXCEPTIONS
+
+### Gift Purchases
+
+- Gifts cannot be refunded after redemption
+- Unredeemed gift codes valid for 1 year
+- Can exchange gift for different course of equal value
+
+### Subscription Cancellations
+
+**LearnHub Plus Members:**
+- Cancel anytime, no penalties
+- Refund for unused portion of subscription (prorated)
+- Access revoked immediately upon cancellation
+- Can reactivate within 30 days without losing progress
+
+### Promotions & Discount Codes
+
+- Discounted courses follow same refund policy as full-price courses
+- Refund amount: Original price paid (not original list price)
+- Sales/promotion codes: Non-refundable once applied
+- Stackable discounts: Each discount code must be applied separately
+
+### Corporate/Enterprise Refunds
+
+- Custom refund terms negotiated per contract
+- Minimum 100-seat purchase required for special terms
+- Contact enterprise@learnhub.com for details
+
+---
+
+## 7. DATA & LEARNING PREFERENCES
+
+### Personalization Features
+
+LearnHub uses machine learning to personalize your learning experience:
+
+**Recommendation Engine:**
+- Analyzes 47 data points from your browsing history
+- Suggests courses based on completion patterns
+- Learning path optimization: Predicts which courses you'll complete
+- Time-to-completion estimates: ML models trained on 2.3M users
+
+**Learning Preferences:**
+- Video speed (0.5x to 2x)
+- Subtitle preferences (23 languages)
+- Dark mode / light mode
+- Email notification frequency
+- Notification categories (course updates, new courses, promotions)
+
+### Data Privacy
+
+- GDPR compliant
+- CCPA compliant
+- SOC 2 Type II certified
+- Data encryption: AES-256
+- User data retention: Indefinite (unless deleted)
+
+---
+
+## SUMMARY TABLE: Key Platform Information
+
+| Category | Details |
+|----------|---------|
+| Founded | 2015 |
+| CEO | Sarah Chen |
+| Headquarters | San Francisco, CA |
+| Total Employees | 1,200+ |
+| Courses Available | 8,400+ |
+| Total Enrolled Users | 2.3 million |
+| Monthly Active Users | 450,000 |
+| Instructor Count | 3,200+ |
+| Average Course Rating | 4.6/5 stars |
+| Mobile App Downloads | 8 million+ |
+| Countries Served | 195 |
+| Revenue (2025) | $180 million |
+| Profitability | Profitable since 2021 |
+| Latest Funding | Series D (2024): $50M |
+
+---
+## USER SCENARIO
+
+"I purchased a course 9 days ago. I completed 15 hours of course content
+and have not received a certificate. I found a better course elsewhere
+and would like to request a refund."
+
+TASK:
+Using only the documentation above, determine the user's refund eligibility.
+
+In your answer:
+1. Identify the refund requirements relevant to this user.
+2. Determine whether the user's access time and certificate status meet the stated requirements.
+3. Identify any inconsistencies in the documentation that affect the decision.
+4. State whether a definitive eligibility decision can be made and what the user should do next.

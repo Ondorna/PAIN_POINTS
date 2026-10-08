@@ -1,0 +1,19 @@
+Based on the ConnectHub Product Requirements Document (Version 3.2), here is the concise V1 product scope summary:
+
+*   **Approved V1 Features:**
+    *   Direct Messaging System
+    *   Group Channels
+    *   User Profiles & Authentication
+    *   File Sharing & Media Management
+    *   Notification System
+    *   User Authentication & Security
+    *   Admin & Moderation Tools
+
+*   **Features Under Review:**
+    *   Video/Voice Calling (Engineering has proposed moving it to the Post-Launch phase due to timeline constraints, but the change has not yet received final approval).
+
+*   **Is Video/Voice Calling planned for V1?**
+    *   It was originally planned for V1, but its inclusion is currently under review following an engineering proposal to move it to the post-launch phase.
+
+*   **Expected release phase for Video/Voice Calling:**
+    *   Post-Launch (proposed by engineering, pending final approval).

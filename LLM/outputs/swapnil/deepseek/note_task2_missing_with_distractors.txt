@@ -1,0 +1,9 @@
+**Project Update: Therapeutic Social Robot (“Ro-Mee-Bo (?)”)**
+
+- **Project purpose:** A therapeutic social robot for autistic children overwhelmed by stimulation. It lets a therapist/instructor with a limited vocabulary drive and interact with a student who has speech pathology. The project also aims to develop an open-source robotics software stack and lower the robot’s cost.
+- **Project lead:** Cory (presenting and developing the software stack; notes do not name a formal project lead).
+- **Current robot cost:** $700.
+- **Target cost:** $150.
+- **Technology stack:** node.js with a Blockly component; open-source robotics software stack.
+- **Robotics group meeting day/time:** Not specified in the notes; Cory says they meet to talk about robots at the slightest opportunity.
+- **Distribution/manufacturing plan:** Open-source it, create a kit of parts that can be purchased, with manufacturers interested in manufacturing. It can be manufactured in a makerspace. Potential for a package sold at Noisebridge, manufactured there, with money going to Noisebridge for parts and materials. Trent also suggested a workshop route where people pay for a kit and build it with someone knowledgeable.

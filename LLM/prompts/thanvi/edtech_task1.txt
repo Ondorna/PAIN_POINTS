@@ -1,0 +1,79 @@
+# LearnHub Platform - Refund Policy Documentation
+
+**Platform: LearnHub (Leading Online Education Platform)**  
+**Last Updated: Various dates (see source notes)**
+
+---
+
+## REFUND POLICY - SOURCE A: Terms of Service
+
+**Document Date:** June 15, 2026  
+**Document Type:** Official Terms of Service  
+**Authority Level:** Platform Legal Document
+
+### Refund Window
+
+LearnHub offers a **14-day money-back guarantee** for all course purchases. If you are not satisfied with a course within 14 days of purchase, you may request a full refund with no questions asked.
+
+**Details:**
+- Refund period: 14 days from date of purchase
+- Refund amount: 100% of course fee
+- Process: Submit refund request through account settings
+- Processing time: 5-10 business days after approval
+
+### Eligibility Requirements
+
+To qualify for a refund, you must meet ALL of the following conditions:
+1. Request submitted within 14 days of purchase
+2. Course access time less than 30 hours
+3. No certificate of completion issued
+4. Original payment method still valid
+
+---
+
+## REFUND POLICY - SOURCE B: Help Center FAQ
+
+**Document Date:** September 8, 2026  
+**Document Type:** Help Center Article  
+**Authority Level:** Customer Support Documentation
+
+### Can I get a refund for my course?
+
+Yes, LearnHub allows refunds within **7 days of purchase**. This applies to individual courses purchased on our platform.
+
+**Refund Details:**
+- Refund window: 7 days from purchase date
+- Full refund: Yes, 100% refund available
+- How to request: Go to "My Purchases" > Select course > Click "Request Refund"
+- Timeline: Refund processed within 3-5 business days
+
+### Who is eligible for a refund?
+
+You can request a refund if:
+- You purchased within the last 7 days
+- You have not completed the course
+- You have not earned the course certificate
+
+---
+
+## REFUND POLICY - SOURCE C: Course Purchase Page (Standard Footer)
+
+**Location:** Appears at checkout  
+**Document Date:** Updated August 2, 2026  
+**Authority Level:** User-facing Information
+
+> "LearnHub's refund policy: All courses come with a 14-day satisfaction guarantee. Request a refund at any time within 14 days of purchase for a full refund."
+
+---
+
+
+User Question:
+"I purchased a course 10 days ago and want to request a refund. Am I eligible?"
+
+TASK:
+Using only the provided documentation, answer the user's question.
+
+State:
+1. Whether the user's refund eligibility can be determined.
+2. Any inconsistency in the provided refund policies.
+3. What information, if any, is missing to make a definitive determination.

@@ -1,0 +1,6 @@
+1. **Refund eligibility:** YES
+
+2. **Applicable refund window:** 14 days from date of purchase
+
+3. **Reason for the decision:**  
+The controlling policy is the **Terms of Service** (Platform Legal Document), which provides a **14-day money-back guarantee**. The user purchased the course **10 days ago**, so they are still within the 14-day window. They also state they have **not completed the course** and have **not received a certificate**, which satisfies the relevant eligibility conditions given in the scenario. Although the Help Center FAQ lists a shorter **7-day** window, that source is lower authority and conflicts with the official Terms of Service and the checkout page, so it does not control here. Therefore, based on the provided facts, the user is eligible for a refund.

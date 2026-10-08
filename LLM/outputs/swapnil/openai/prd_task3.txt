@@ -1,0 +1,17 @@
+## ConnectHub V1 Product Scope
+
+**Approved for V1**
+- Direct messaging
+- Group channels
+- User profiles and authentication
+- File sharing
+- Notifications
+- Admin and moderation tools
+
+**Under review**
+- User reputation system
+- Advanced search
+
+**Video/Voice Calling**
+- **Planned for V1:** No. The PRD says previous discussions considered calling, but current priorities are elsewhere.
+- **Expected release phase:** Not specified. Calling is not listed among the post-launch features or Year 2 roadmap items.

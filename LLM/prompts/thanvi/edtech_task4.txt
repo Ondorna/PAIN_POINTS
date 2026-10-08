@@ -1,0 +1,144 @@
+# LearnHub Platform - Refund Policy Evolution (Temporal Ambiguity Test)
+
+**Platform: LearnHub**  
+**Scenario: Policy changes over time
+
+---
+
+## CHRONOLOGICAL REFUND POLICY HISTORY
+
+### Policy Version 1: Original Policy (Published January 10, 2026)
+
+**Document Status:** Original Platform Policy  
+**Effective Date:** Not explicitly stated  
+**Last Updated:** January 10, 2026
+
+---
+
+**LEARNHUB REFUND POLICY - ORIGINAL**
+
+LearnHub is committed to learner satisfaction. We offer a full refund for any course purchased on our platform if you request it within **7 days of purchase**.
+
+**Refund Details:**
+- Refund window: 7 days from purchase date
+- Refund amount: 100% of course fee
+- Processing time: 3-5 business days after approval
+- Eligibility: Request within 7 days, no certificate earned
+
+**How to Request:**
+Contact our support team at support@learnhub.com with your course name and purchase confirmation.
+
+---
+
+### Policy Version 2: Interim Update (Published May 2, 2026)
+
+**Document Status:** Platform Policy Update  
+**Effective Date:** Not explicitly stated ("As of May 2, 2026")  
+
+---
+
+**LEARNHUB REFUND POLICY - INTERIM UPDATE**
+
+Based on customer feedback, LearnHub has expanded its refund guarantee. We now offer **10 days** for refund requests to give learners more time to explore their courses.
+
+**Updated Details:**
+- Refund window: 10 days from purchase date (expanded from 7 days)
+- Refund amount: 100% of course fee
+- Processing time: 3-5 business days after approval
+- Eligibility: Request within 10 days, less than 25 hours of access, no certificate issued
+
+**Reason for Change:**
+"Our analysis of learner feedback indicated that 7 days was not sufficient time for many students to determine if a course met their needs. We've extended this to 10 days while maintaining our quality standards."
+
+---
+
+### Policy Version 3: Current Policy (Published June 15, 2026)
+
+**Document Status:** Current Official Policy  
+**Effective Date:**"Effective June 15, 2026" 
+**Replaces:** Not explicitly stated
+
+---
+
+**LEARNHUB REFUND POLICY - CURRENT VERSION**
+
+LearnHub continues to enhance the learning experience. Our refund policy now reflects industry-leading standards with a **14-day money-back guarantee**.
+
+**Current Details:**
+- Refund window: 14 days from purchase date
+- Refund amount: 100% of course fee
+- Processing time: 5-10 business days after approval
+- Eligibility: Request within 14 days, less than 30 hours of access, no certificate earned, no previous refunds on same course
+
+**What's New:**
+- Extended refund window from 10 days to 14 days
+- Increased access time allowance from 25 hours to 30 hours
+- Added clause about previous refund eligibility
+
+---
+
+## CUSTOMER COMMUNICATIONS TIMELINE
+
+**May 1, 2026 - Email to All Users:**
+
+Subject: "We've heard your feedback - Refund policy update coming"
+
+Dear LearnHub Community,
+
+We're listening to your needs. Next week, we'll be rolling out an updated refund policy with more time to explore your courses. Stay tuned!
+
+Best,  
+LearnHub Team
+
+---
+
+**May 3, 2026 - Blog Post:**
+
+Title: "Extending Our Refund Guarantee to 10 Days"
+
+"Effective immediately, all new course purchases qualify for our extended 10-day refund window. This change reflects our commitment to learner satisfaction and gives you more time to make informed decisions about your education."
+
+---
+
+**June 10, 2026 - Internal Memo (Published on Support Portal):**
+
+"Policy Change Announcement: Upcoming Refund Period Extension"
+
+"Starting June 15, 2026, LearnHub will extend the refund window to 14 days for all course purchases. Existing policies may reference 7 or 10 days, but please direct all customer inquiries to the current policy."
+
+---
+
+**June 15, 2026 - Official Terms of Service Update:**
+
+"LearnHub's Terms of Service have been updated. See attached for full details. All policies are effective as of today."
+
+(New policy: 14-day refund window)
+
+---
+
+**August 2, 2026 - Course Purchase Page Update:**
+
+"LearnHub's refund guarantee: 14-day satisfaction guarantee. Request a refund within 14 days of purchase for a full refund."
+
+---
+
+**September 8, 2026 - Help Center Updated:**
+
+"Q: How long do I have to request a refund?  
+A: You can request a refund within 7 days of your purchase."
+---
+
+User Scenario:
+
+"I purchased a course on June 8, 2026. I am requesting a refund on
+June 20, 2026. Am I eligible for a refund?"
+
+TASK:
+
+Using only the provided documentation, determine the user's refund eligibility.
+
+In your answer:
+1. Identify the policy or policies relevant to this purchase.
+2. State whether refund eligibility can be determined definitively.
+3. Identify any timing or policy-version uncertainty that affects the decision.
+4. State what additional information, if any, would be needed.

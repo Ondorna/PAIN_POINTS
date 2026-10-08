@@ -1,0 +1,5 @@
+1. Refund eligibility: NO
+
+2. Applicable refund window: 7 days from purchase date (Source B) / 14 days from purchase date (Sources A and C)
+
+3. Reason for the decision: The user purchased the course 10 days ago. Under the Help Center FAQ (Source B), the refund window is 7 days, which the user has exceeded. Furthermore, under the Terms of Service (Source A), although the 14-day window is met, eligibility requires that course access time be less than 30 hours, and the provided scenario fails to confirm whether this requirement was met. Most definitively, because the official Help Center documentation (Source B) strictly limits the refund window to 7 days, the request falls outside the allowable timeframe.

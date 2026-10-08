@@ -1,0 +1,3 @@
+1. **Refund eligibility: NO**
+2. **Applicable refund window: 7 days from purchase**, according to the Help Center FAQ, the most recent dated policy source provided.
+3. **Reason:** The purchase was 10 days ago, outside the FAQ’s 7-day refund window. Although the Terms of Service and checkout footer state a 14-day guarantee, the provided documents conflict. Under the FAQ’s stated window, the user is not eligible.

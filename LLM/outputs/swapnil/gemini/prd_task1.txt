@@ -1,0 +1,20 @@
+Based on the provided Product Requirements Document, here is the concise V1 product scope summary:
+
+*   **Approved V1 Features:**
+    *   Direct Messaging
+    *   Group Channels
+    *   User Profiles & Authentication
+    *   File Sharing
+    *   Notification System
+    *   Admin & Moderation Tools
+
+*   **Features Under Review:**
+    *   User Reputation System
+    *   Email Notifications
+    *   Advanced Search
+
+*   **Is Video/Voice Calling planned for V1?**
+    *   No. Video/Voice Calling is not mentioned anywhere in the PRD and is not included in the approved V1 features list or future roadmap notes.
+
+*   **Expected Release Phase for Video/Voice Calling:**
+    *   Not specified in the document.

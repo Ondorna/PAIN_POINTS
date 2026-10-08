@@ -1,0 +1,9 @@
+### Robotics project update
+
+- **Purpose:** Develop an open-source, lower-cost robotics kit and software stack, starting with work on a therapeutic social robot for autistic children.
+- **Project lead:** Cory.
+- **Current robot cost:** About **$700**.
+- **Target cost:** About **$150**.
+- **Technology stack:** **Node.js** with a **Blockly** component.
+- **Robotics group meeting:** The group was considering moving meetings to **Saturday afternoons**; no specific time was given.
+- **Distribution/manufacturing plan:** Explore making and selling kits through Noisebridge, with interested manufacturers potentially producing parts. Kits could be assembled in a workshop, and proceeds could support Noisebridge’s parts and materials.

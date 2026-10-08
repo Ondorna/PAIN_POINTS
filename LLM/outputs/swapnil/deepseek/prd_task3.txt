@@ -1,0 +1,19 @@
+**V1 Product Scope Summary (as of June 4, 2026)**
+
+- **Approved V1 features:**
+  - Direct Messaging
+  - Group Channels
+  - User Profiles & Authentication
+  - File Sharing
+  - Notification System
+  - Admin & Moderation Tools
+
+- **Features under review:**
+  - User Reputation System
+  - Advanced Search
+
+- **Video/Voice Calling planned for V1?**  
+  No. It is not listed among approved V1 features.
+
+- **Expected release phase for Video/Voice Calling:**  
+  Not specified. The PRD states video/voice calling was previously discussed, but current priorities focus on Bot Framework & Integrations, Advanced Search & Analytics, and Mobile App Refinements. It is not listed in V1, under review, or the Year 2 roadmap.

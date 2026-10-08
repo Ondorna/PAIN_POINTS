@@ -1,0 +1,30 @@
+**Refund eligibility cannot be determined definitively from the provided documentation alone.**
+
+### 1. Relevant policy versions
+- **Policy Version 2 (Interim, 10 days):** Appears to be the policy in effect at the time of purchase. It was rolled out around **May 2–3, 2026**, and the purchase was **June 8, 2026**. It requires refund request within **10 days**, with **less than 25 hours of access** and **no certificate issued**.
+- **Policy Version 3 (Current, 14 days):** Effective **June 15, 2026**, which is before the refund request on **June 20, 2026**. It allows **14 days**, with **less than 30 hours of access**, **no certificate earned**, and **no previous refunds on the same course**. However, the documents do **not clearly state whether this policy applies retroactively to purchases made before June 15, 2026**.
+- **Policy Version 1 (7 days)** is superseded. The **September 8, 2026 Help Center** says 7 days, but that date is after the June 20 request and conflicts with the current policy, so it does not control the June 20 decision.
+
+### 2. Timing analysis
+Purchase date: **June 8, 2026**  
+Refund request date: **June 20, 2026**  
+Elapsed time: **12 days**
+
+- Under the **7-day** policy: deadline would be **June 15** → too late.
+- Under the **10-day** policy: deadline would be **June 18** → too late.
+- Under the **14-day** policy: deadline would be **June 22** → timely.
+
+### 3. Definitive determination?
+No. The key ambiguity is whether the **June 15 14-day policy** applies to a course purchased on **June 8**, or whether only the **10-day interim policy** applies because that was in effect when the user purchased.
+
+- If the **purchase-date policy** controls, the user is **not eligible** because June 20 is outside the 10-day window.
+- If the **request-date/current policy** controls, or if the 14-day policy applies retroactively to all purchases, the request is **timely**, but final eligibility still depends on the other criteria.
+
+### 4. Additional information needed
+- Whether LearnHub applies the refund policy in effect at **purchase date** or at **request date**.
+- Whether the June 15 14-day policy applies retroactively to purchases made before June 15.
+- The user’s course **access hours**.
+- Whether the user **earned/issued a certificate**.
+- Whether the user had any **previous refund on the same course**.
+
+**Bottom line:** Under the 10-day interim policy, the user would not be eligible by timing. Under the 14-day current policy, the timing would qualify, but eligibility still cannot be confirmed without the access/certificate/previous-refund details and clarification on retroactivity.

@@ -1,0 +1,673 @@
+# LearnHub Platform - Complete Refund Policy Documentation
+
+**Platform:** LearnHub - Online Learning Platform  
+**Document Version:** 3.1  
+**Last Updated:** June 15, 2026  
+**Effective Date:** June 15, 2026  
+**Document Status:** Official Platform Policy (Current)
+
+---
+
+## 1. COMPANY OVERVIEW
+
+### About LearnHub
+
+LearnHub is a leading global online learning platform founded in 2015, headquartered in San Francisco, California. We serve 2.3 million learners across 195 countries in 42 languages.
+
+**Company Statistics:**
+- Founded: 2015
+- CEO: Sarah Chen
+- Total Employees: 1,200+
+- Courses Available: 8,400+
+- Instructors: 3,200+
+- Total Enrolled Users: 2.3 million
+- Monthly Active Users: 450,000
+- Mobile App Downloads: 8 million+
+- Average Course Rating: 4.6/5 stars
+- Annual Revenue (2025): $180 million
+- Profitability Status: Profitable since 2021
+- Latest Funding: Series D (2024): $50M
+
+### Platform Certifications & Compliance
+
+- ACCET Member (Accrediting Commission for Career Schools and Colleges of Technology)
+- SOC 2 Type II Certified
+- GDPR Compliant
+- CCPA Compliant
+- CourseVerify.org Verified Credentials
+
+---
+
+## 2. COURSE CATALOG & ACCESS
+
+### Course Categories
+
+LearnHub offers courses across multiple domains:
+
+**Technology & Programming:**
+- Python for Beginners (3,200 students, 4.8/5 rating)
+- Advanced JavaScript (2,840 students, 4.7/5 rating)
+- Data Science Fundamentals (4,120 students, 4.9/5 rating)
+- Web Development Bootcamp (1,950 students, 4.8/5 rating)
+- Machine Learning Essentials (1,600 students, 4.7/5 rating)
+
+**Business & Professional Development:**
+- Business Strategy 101 (892 students, 4.5/5 rating)
+- Project Management Certification (1,240 students, 4.6/5 rating)
+- Digital Marketing Essentials (3,100 students, 4.7/5 rating)
+- Leadership Skills for Managers (1,450 students, 4.8/5 rating)
+- Financial Analysis Fundamentals (820 students, 4.6/5 rating)
+
+**Creative & Design:**
+- Graphic Design Masterclass (2,560 students, 4.9/5 rating)
+- Video Production 101 (1,420 students, 4.7/5 rating)
+- UI/UX Design Principles (2,890 students, 4.9/5 rating)
+- Photography Essentials (1,780 students, 4.8/5 rating)
+- Content Writing for Web (1,320 students, 4.6/5 rating)
+
+**Languages:**
+- Spanish for Travelers (4,050 students, 4.8/5 rating)
+- Mandarin Chinese Basics (2,200 students, 4.7/5 rating)
+- Business English (1,680 students, 4.7/5 rating)
+- French Intermediate (950 students, 4.6/5 rating)
+- German for Beginners (620 students, 4.5/5 rating)
+
+### Course Access & Features
+
+**Access Model:**
+- Lifetime access to course materials
+- Immediate access upon enrollment
+- No expiration dates on course access
+- Available on web and mobile platforms
+- Downloadable resources (PDFs, code files, templates)
+- Offline viewing capability
+
+**Technical Requirements:**
+- Active LearnHub account (free to create)
+- Internet connection for initial setup and updates
+- Compatible device: PC, Mac, iPad, iPhone, Android
+- Supported browsers: Chrome, Firefox, Safari, Edge (latest versions)
+- Minimum internet speed: 2 Mbps for video streaming
+
+**Platform Features Included with All Courses:**
+- HD video lectures (up to 4K resolution with adaptive streaming)
+- Downloadable lecture materials
+- Quizzes and assignments
+- Community forum for course discussion
+- Instructor Q&A access
+- Certificate of completion (upon finishing)
+- Mobile app access
+- Progress tracking dashboard
+
+**Average Course Specifications:**
+- Average course length: 8-40 hours
+- Video quality options: 360p, 720p, 1080p, 4K (automatic selection based on connection)
+- Playback speed: 0.5x to 2x speed
+- Subtitles: Available in 23 languages
+- Download limit: Unlimited
+- Device streaming: 2 simultaneous devices per account
+
+---
+
+## 3. PRICING & PAYMENT OPTIONS
+
+### Pricing Structure
+
+**Individual Course Purchase:**
+- Price range: $49.99 - $199.99
+- Average price: $89.99
+- One-time payment model
+- Lifetime access included
+- No subscription required for individual courses
+
+**Seasonal Promotions:**
+- Spring Sale (March): 20-30% discount
+- Summer Flash Sale (June-July): 30-40% discount
+- Black Friday/Cyber Monday (November): 40-50% discount
+- New Year Sale (January): 25-35% discount
+- Regular pricing: 10-15% discount codes available year-round
+
+**LearnHub Plus Subscription:**
+- Monthly: $29.99/month (cancel anytime, no lock-in)
+- Annual: $299/year (equivalent to $24.92/month, save $60)
+- Benefits: Unlimited course access, priority support, certificate bundles
+- Free trial: 7 days (full access, then charges begin)
+- Cancellation: Immediate, no questions asked
+
+**Course Bundles:**
+- Skill Tracks: 3-5 related courses, 30% discount
+- Career Paths: 8-10 courses, 45% discount
+- Professional Certifications: 12-15 courses, 50% discount
+- Bundled courses include lifetime access to all
+
+**Enterprise/Corporate Licensing:**
+- Group discounts: 10-50 seats at 25% off, 50-200 seats at 40% off, 200+ custom pricing
+- Minimum order: $500
+- Dedicated account manager for 100+ seats
+- Custom reporting and analytics
+- SSO (Single Sign-On) integration available
+- Contact: enterprise@learnhub.com
+
+### Accepted Payment Methods
+
+**Credit & Debit Cards:**
+- Visa, Mastercard, American Express, Discover
+- Processing fee: None (platform absorbs cost)
+- Instant processing
+- Currencies: USD, EUR, GBP, AUD, CAD, JPY, INR, CNY, MXN, BRL, ZAR, and 15+ others
+
+**Digital Wallets:**
+- Apple Pay, Google Pay, PayPal
+- Instant processing
+- Available in 150+ countries
+- No additional fees
+
+**Bank Transfers (Enterprise Only):**
+- Direct bank transfer for corporate accounts
+- 2-3 day processing
+- Minimum: $500
+- Contact enterprise@learnhub.com
+
+**Price Match Guarantee:**
+- LearnHub matches competitor pricing within 7 days of purchase
+- Request via support@learnhub.com
+- Refund issued for price difference
+
+---
+
+## 4. CERTIFICATE & CREDENTIAL SYSTEM
+
+### Certificate of Completion
+
+Upon successful course completion, LearnHub issues a digital Certificate of Completion.
+
+**Certificate Specifications:**
+- Format: Digital PDF and LinkedIn badge integration
+- Credential ID: Unique 12-digit identifier
+- Issuer: LearnHub, Inc. (ACCET Member)
+- Verification: Employers can verify at certificates.learnhub.com
+- Sharing: LinkedIn, Facebook, Twitter, email
+- Expiration: None (permanent credential)
+- Branding: LearnHub logo and instructor name
+
+**How to Earn Certificate:**
+1. Complete 100% of course content (watch all lectures)
+2. Pass final assessment (if applicable) with 70%+ score
+3. Meet course prerequisites (if any)
+4. Maintain active account (not terminated for policy violation)
+5. Certificate issued automatically upon completion
+
+**Certificate Timeline:**
+- Issued: Immediately after final requirement met
+- Processing: Instant (within seconds)
+- Delivery: Email notification + dashboard access
+- Reissuance: Available at no charge if lost (via dashboard)
+
+### Professional Certifications
+
+**Premium Credential Programs:**
+- Available for select advanced courses
+- Industry recognition by 500+ employers
+- CPD (Continuing Professional Development) points
+- Renewal: Annual renewal required for some credentials
+- Verification: Employer verification system available
+- Additional benefit: Inclusion in LearnHub Professional Directory
+
+**Supported Professional Certifications:**
+- Google Analytics Certified
+- Salesforce Administrator
+- AWS Cloud Practitioner
+- Digital Marketing Professional
+- Project Management Professional
+- UI/UX Designer Certified
+- Data Science Specialist
+- Business Strategy Analyst
+
+### Certificate Revocation Policy
+
+Certificates may be revoked ONLY in these circumstances:
+1. Verified academic misconduct or cheating detected
+2. Fraudulent payment method used (disputed charge)
+3. Clear violation of LearnHub's Academic Integrity Code
+4. User request for voluntary revocation
+
+**Non-Revocation Reasons:**
+- User later requests refund (certificate issued first)
+- Poor course performance or low satisfaction
+- Course provider disputes or content issues
+- Platform policy changes
+
+**Revocation Process:**
+- User notified in writing with specific reason
+- 30-day appeal period
+- Appeal reviewed by academic integrity team
+- Final decision communicated within 14 days
+
+---
+
+## 5. REFUND POLICY (OFFICIAL)
+
+### Core Refund Guarantee
+
+**LearnHub's Commitment:** All learners have the right to assess whether a course meets their expectations before making a final commitment.
+
+**The 14-Day Money-Back Guarantee:**
+
+LearnHub offers a **14-day satisfaction guarantee** on all individual course purchases.
+
+**Refund Window:**
+- Period: 14 calendar days from date of purchase
+- Start date: The timestamp in your account payment history
+- End date: 11:59 PM EST on the 14th day
+- Example: Purchase June 15 at 3:45 PM EST → Refund deadline June 29 at 11:59 PM EST
+
+**Refund Amount:**
+- 100% of course fee paid
+- Transaction fees: Typically $0-2 (platform absorbs majority; some payment processors charge small fee)
+- Promotional discounts: Refund based on actual amount paid (after discount)
+- Special offers: Refund reflects discounted price paid
+- Currency: Refund issued in same currency as original payment
+
+**Processing Timeline:**
+- Step 1: Submit refund request via account dashboard (immediate)
+- Step 2: LearnHub review (1-2 business days)
+- Step 3: Approval decision made (same timeframe)
+- Step 4: Process refund to original payment source (instantaneous)
+- Step 5: Funds appear in account (3-10 business days depending on payment method)
+- Total average time: 5-10 business days from submission to receipt
+
+**Processing Notes:**
+- Bank holidays may add 1-2 business days
+- International transfers may take up to 15 business days
+- Debit card refunds: Typically 3-5 business days
+- Credit card refunds: Typically 5-7 business days
+- PayPal refunds: Typically 2-3 business days
+- Status updates: Check "Account" → "Refund Requests" for real-time status
+
+### Eligibility Requirements (All Must Be Met)
+
+**Requirement 1: Within 14-Day Window**
+- Refund request submitted within 14 calendar days of purchase
+- Purchase date: Determined by timestamp in account payment history
+- Verification: System automatically checks at submission
+- No exceptions: Even 1 day late is outside window
+
+**Requirement 2: Access Time Limit (Less Than 30 Hours)**
+- Total course access time: Must be less than 30 hours
+- What counts: Video watching, quiz attempts, material downloads, forum time, all activities
+- What doesn't count: Account login without course access
+- Tracking: Platform tracks automatically in real-time
+- Verification: System shows total hours at refund request time
+- No partial access: Even 30 hours and 1 minute exceeds limit
+
+**Requirement 3: No Certificate Issued**
+- Certificate of Completion status: Must NOT be earned
+- Automatic issuance: Certificates issued automatically upon course completion
+- Gray area: If you haven't "completed" course but certificate was earned, still ineligible
+- Permanent: Once certificate issued, refund eligibility permanently lost
+- Check status: Visible in your "My Certificates" dashboard
+
+**Requirement 4: No Previous Refund on Same Course**
+- Each user limited to ONE refund per course
+- Covers both 1st purchase and any repurchases
+- Permanent: If you previously refunded, cannot request again
+- Applies to: Identical course, different course versions, or course updates
+
+**Requirement 5: Valid Payment Account**
+- Original payment method: Must still be valid/active
+- Account status: No disputes, chargebacks, or fraud flags
+- Refund destination: Must match original payment source
+- Exceptions: For closed accounts, refund may be issued to registered email account
+
+**Requirement 6: Account in Good Standing**
+- No policy violations (academic integrity, harassment, spam)
+- Account not restricted or suspended
+- No pending investigations or disputes
+- Terms of service accepted and followed
+
+### How to Request a Refund
+
+**Step-by-Step Process:**
+
+1. **Log into LearnHub account**
+   - Go to learnhub.com
+   - Click "Sign In"
+   - Enter credentials
+
+2. **Navigate to Purchase History**
+   - Click "My Account" (top right menu)
+   - Select "My Purchases"
+   - Locate the course to refund
+
+3. **Initiate Refund Request**
+   - Click three-dot menu icon next to course
+   - Select "Request Refund"
+   - System displays refund eligibility check
+
+4. **Complete Refund Form**
+   - Course name: Auto-filled (verify accuracy)
+   - Purchase date: Auto-filled (verify accuracy)
+   - Current access hours: Auto-filled (informational)
+   - Certificate status: Auto-filled (informational)
+   - Reason for refund: Select from dropdown OR write custom reason
+   - Available reasons:
+     * Course not matching expectations
+     * Content too advanced or too basic
+     * Better course found elsewhere
+     * No longer need the skill
+     * Technical issues with course
+     * Other (please specify)
+   - Comments: Optional text field (helpful for special circumstances)
+   - Terms acknowledgment: Check box to confirm terms
+
+5. **Review & Submit**
+   - Review all information
+   - Click "Submit Refund Request"
+   - Confirmation message appears
+
+6. **Receive Confirmation Email**
+   - Sent within 1 hour of submission
+   - Includes refund request ID
+   - Confirmation of eligibility check
+   - Timeline expectations
+
+7. **Track Refund Status**
+   - Go to "Account" → "Refund Requests"
+   - Status updates in real-time:
+     * "Submitted" (just sent)
+     * "Under Review" (being evaluated)
+     * "Approved" (ready to process)
+     * "Processing" (funds being sent)
+     * "Completed" (funds received)
+   - Estimated completion date shown
+
+### Refund Appeals & Disputes
+
+**If Refund Request Is Denied:**
+
+You have the right to appeal:
+- **Timeline:** Submit appeal within 7 days of denial notice
+- **Method:** Email support@learnhub.com with subject "Refund Appeal - [Refund Request ID]"
+- **Required information:**
+  * Your refund request ID
+  * Reason for appeal (2-3 sentences)
+  * Any supporting information
+  * Screenshots if technical issue involved
+- **Review process:** Appeals reviewed by senior support team member
+- **Decision timeline:** Response within 3-5 business days
+- **Final decision:** Cannot be appealed further; accepted as final
+
+**Common Appeal Scenarios:**
+
+**Scenario 1: "I was just outside the 14-day window"**
+- If you submitted request on day 15 or later: Ineligible (window has passed)
+- If system shows outside window but you believe you submitted on time: Appeal with email timestamp evidence
+
+**Scenario 2: "My access hours are over 30 but I was still learning"**
+- Platform counts all activities as "access"
+- 30-hour limit applies regardless of learning depth
+- Exceeding limit makes you ineligible
+- No exceptions for "just barely over"
+
+**Scenario 3: "I earned a certificate immediately after purchase"**
+- Once certificate issued: Refund eligibility lost permanently
+- No exceptions even if certificate issued within 14 days
+- Certificate earned = course completed in system
+
+**Scenario 4: "The course had technical problems"**
+- Technical issues: Reason for appeal
+- Document problem: Screenshots, error messages, etc.
+- Possible outcomes: Refund approved or access to replacement course offered
+- Support team will investigate
+
+**Scenario 5: "I see conflicting information about the policy"**
+- If multiple LearnHub documents show different policies: Appeal is valid
+- Document the conflicting sources
+- Explain which policy you relied on when purchasing
+- Senior team will review and make determination
+
+---
+
+## 6. NON-REFUNDABLE ITEMS & EXCEPTIONS
+
+### Situations Where Refunds Are NOT Available
+
+**Bundle Purchases (Non-Refundable):**
+- Skill Tracks: If you've completed any course in the bundle, entire bundle is non-refundable
+- Career Paths: If you've accessed multiple courses, non-refundable
+- Professional Certifications: Bundle purchase is non-refundable after first course started
+- Partial bundles: Cannot refund individual courses from purchased bundle
+
+**Subscription Services (Special Terms):**
+- Monthly subscription: Cancelled immediately; no refund for current month
+- Annual subscription: Prorated refund available (refund for unused days only, not full amount)
+- Calculation: (Days remaining ÷ 365) × Annual price
+- Example: Cancel after 100 days of $299/year → Refund = (265 ÷ 365) × $299 = $217
+- Free trial period: No refund if within 7-day free trial
+
+**Gift Purchases:**
+- Unredeemed gift codes: Can be refunded (within 30 days of purchase)
+- Redeemed gift codes: Cannot be refunded after code claimed
+- Refund request: Must be submitted by original gift purchaser
+- Alternative: Can request different course of equal value instead
+
+**Corporate/Enterprise Purchases:**
+- Custom terms: Subject to negotiated contract
+- Minimum 100-seat purchase required
+- Refund terms: Specified in enterprise agreement
+- Contact: enterprise@learnhub.com for enterprise-specific refund policies
+
+**Certification Exams (Non-Refundable):**
+- Exam fees: Cannot be refunded once exam started
+- Retake fees: Half price, available within 30 days
+- Failing grade: No automatic refund; retake at half price
+
+**Lifetime Access Premium Courses:**
+- Marked as "Lifetime Premium" in course description
+- Shorter refund window: 5 days instead of 14 days
+- All other refund policies apply
+- Clearly labeled at purchase time
+
+**Completed Courses:**
+- If you've earned certificate: Never refundable
+- If completion is 100%: Never refundable
+- If you've spent 30+ hours: Never refundable
+- No exceptions under any circumstance
+
+---
+
+## 7. CUSTOMER SUPPORT
+
+### Support Channels
+
+**Email Support:**
+- Email: support@learnhub.com
+- Response time: 24-48 hours (average 36 hours)
+- Languages: English, Spanish, French, German, Mandarin, Japanese
+- Best for: Complex issues, detailed questions, non-urgent matters
+
+**Live Chat:**
+- Available: Monday-Friday, 9 AM - 6 PM EST
+- Response time: Average 5 minutes during business hours
+- Languages: English, Spanish, French, German
+- Best for: Quick questions, account access issues, immediate help
+- Offline: Auto-reply with email option during non-business hours
+
+**Help Center:**
+- 500+ articles and FAQ entries
+- Video tutorials (50+)
+- Searchable by keyword
+- Community contributions welcome
+- Updated daily with new common issues
+
+**Community Forum:**
+- Peer-to-peer support from other learners
+- Instructor participation in course-specific forums
+- Free and open to all registered users
+- Moderated for safety and relevance
+
+**Phone Support:**
+- Number: 1-800-LEARN-HUB (1-800-532-7648)
+- Available: Enterprise customers only (with active support contract)
+- Hours: Monday-Friday, 8 AM - 8 PM EST
+- Not available: Free/individual tier users
+
+**Response Times & SLA:**
+
+| Channel | Response Time | Availability |
+|---------|---------------|--------------|
+| Email | 24-48 hours | 24/7 submission |
+| Live Chat | 5 minutes (avg) | Mon-Fri 9am-6pm EST |
+| Help Center | N/A (self-service) | 24/7 |
+| Community Forum | Varies (peer support) | 24/7 |
+| Phone (Enterprise) | Immediate | Mon-Fri 8am-8pm EST |
+
+**Customer Satisfaction:**
+- Average rating: 4.7/5 stars
+- Total reviews: 125,000+
+- First-contact resolution rate: 78%
+- Customer satisfaction trend: Improving monthly
+
+---
+
+## 8. SPECIAL POLICIES & TERMS
+
+### Subscription Cancellation
+
+**LearnHub Plus Cancellation:**
+- Anytime cancellation: No penalties, no lock-in contracts
+- Immediate effect: Access revoked immediately upon cancellation
+- Refund eligibility: Prorated for unused portion of subscription
+- Reactivation: Can reactivate within 30 days without losing progress
+- Progress retained: Course progress saved for 90 days after cancellation
+- Certificates earned: Remain in your account permanently
+
+**Refund Calculation for Annual Subscription:**
+- Formula: (Days remaining ÷ 365) × Annual subscription cost
+- Example: Cancel after 100 days of $299/year subscription
+- Calculation: (265 days ÷ 365) × $299 = $217.17 refund
+- Processing: 5-10 business days as with course refunds
+
+### Promotions & Discount Codes
+
+**Discount Code Application:**
+- Codes apply to single purchase at checkout
+- Cannot be stacked (one code per transaction)
+- Refund calculation: Based on amount actually paid (after discount)
+- Expiration: Codes have individual expiration dates shown at checkout
+- Non-transferable: Cannot be transferred to other users
+
+**Promotion Period Refunds:**
+- Discounted courses: Follow same 14-day refund policy
+- Price matching: If price drops within 7 days of purchase, claim price match refund
+- Unused codes: Cannot be refunded; codes valid for duration specified
+- Percentage discounts: Refund reflects discounted price paid
+
+**Black Friday/Sale Refunds:**
+- Sale courses: Same 14-day refund policy applies
+- No exceptions for seasonal sales
+- Price match guarantee: 7-day price match available
+
+### Account Closure & Data Deletion
+
+**Account Deletion Process:**
+- Initiated via "Account Settings" → "Delete Account"
+- 7-day grace period before permanent deletion
+- Can cancel deletion within 7 days
+- After 7 days: All data permanently deleted (unrecoverable)
+
+**Upon Account Deletion:**
+- Course access revoked immediately
+- Certificates: Retained and can be viewed via public verification link
+- Purchase history: Deleted
+- Personal data: Deleted (GDPR compliant)
+- Refund requests: Processed before account deletion if pending
+
+---
+
+## 9. PLATFORM POLICIES & COMPLIANCE
+
+### Academic Integrity Policy
+
+LearnHub prohibits:
+- Cheating on quizzes/exams
+- Plagiarism in assignments
+- Sharing account access
+- Purchasing completion from third parties
+- Using unauthorized tools to bypass assessments
+
+**Violations:** Can result in certificate revocation, account suspension, or permanent banning
+
+### Data Privacy & Security
+
+- GDPR Compliant: EU user data protected under GDPR
+- CCPA Compliant: California user data protected under CCPA
+- SOC 2 Type II Certified: Annual security audits
+- Data Encryption: AES-256 for all sensitive data
+- User data retention: Indefinite unless deleted by user
+- Third-party access: Only with explicit user consent
+
+### Accessibility & Inclusion
+
+- WCAG 2.1 AA compliance: All courses accessible to users with disabilities
+- Subtitle support: 23 languages across all video content
+- Keyboard navigation: Full site accessible via keyboard
+- Screen reader compatible: All course materials work with assistive technology
+- Accommodations: Contact accessibility@learnhub.com for special needs
+
+---
+
+## 10. UPDATES & CHANGES TO POLICY
+
+### Policy Effectiveness
+
+**Current Policy Effective Date:** June 15, 2026
+
+**Previous Policy Versions:**
+- Version 1.0: January 2015 (original 7-day refund)
+- Version 2.0: May 2, 2026 (extended to 10 days)
+- Version 3.0: June 15, 2026 (extended to 14 days)
+- Version 3.1: June 15, 2026 (clarifications to version 3.0)
+
+### Future Policy Changes
+
+- Notification: Users notified 30 days before policy changes
+- Effective date: Changes take effect on stated date
+- Grandfather clause: Purchases before change date follow previous policy
+- Announcement channels: Email, platform announcement, website update
+
+### Policy Contact Information
+
+**Questions about this policy?**
+- Email: policy@learnhub.com
+- Subject: "Refund Policy Question"
+- Response time: 24-48 hours
+- Escalation: Contact legal@learnhub.com for legal questions
+
+---
+
+## QUICK REFERENCE SUMMARY
+
+| Aspect | Details |
+|--------|---------|
+| **Refund Window** | 14 days from purchase |
+| **Refund Amount** | 100% of course fee (minus transaction fees) |
+| **Access Limit** | Less than 30 hours |
+| **Certificate Rule** | No certificate issued |
+| **Processing Time** | 5-10 business days |
+| **How to Request** | Account → My Purchases → Request Refund |
+| **Appeal Timeline** | 7 days after denial |
+| **Non-Refundable** | Bundles, subscriptions (prorated), gifts (redeemed), exams |
+| **Support Email** | support@learnhub.com |
+| **Support Hours** | 24/7 email, Mon-Fri 9am-6pm EST live chat |
+
+---
+
+**Document Prepared By:** LearnHub Policy Team  
+**Approved By:** Sarah Chen, CEO  
+**Last Updated:** June 15, 2026  
+**Next Review Date:** December 15, 2026
+
+---
+
+**END OF EDTECH COMPLETE ORIGINAL**

@@ -1,0 +1,81 @@
+## Refund Eligibility Determination
+
+### 1. Relevant refund requirements
+
+The documentation provides two conflicting sets of refund requirements:
+
+**Terms of Service (updated June 15, 2026):**
+- Refund window: **14 days from purchase**
+- Course access time: **less than 30 hours**
+- No certificate of completion issued
+- Not enrolled in instructor’s alternative course
+- Request via “My Purchases”
+- Refund amount: **100% minus transaction fees if applicable**
+- Processing time: **5–10 business days**
+
+**Support FAQ (updated September 8, 2026):**
+- Refund window: **7 days from purchase**
+- Must not have completed the course
+- Must not have earned certificate
+- Must not have downloaded all course materials excessively
+- Request via “My Purchases”
+- Refund amount: **100%**
+- Processing time: **3–5 business days**
+
+### 2. Does the user meet the stated requirements?
+
+User facts:
+- Purchased **9 days ago**
+- Completed **15 hours** of course content
+- Has **not received a certificate**
+
+Applying the requirements:
+- **Purchase window:**  
+  - Under the Terms of Service: **meets** the 14-day requirement.  
+  - Under the Support FAQ: **does not meet** the 7-day requirement.
+- **Access time:**  
+  - Under the Terms of Service: **meets** the less-than-30-hours requirement, because 15 hours is under 30.  
+  - Under the Support FAQ: there is no explicit hourly limit, but the user has not completed the course according to the facts given.
+- **Certificate status:**  
+  - **Meets both policies**, because no certificate has been issued.
+
+Unspecified facts:
+- Whether the user is enrolled in an instructor’s alternative course, which matters under the Terms of Service.
+- Whether the user downloaded all course materials excessively, which matters under the Support FAQ.
+- Whether “completed 15 hours” means the course itself was fully completed or only partially completed.
+
+### 3. Inconsistencies in the documentation
+
+The main inconsistency directly affects the outcome:
+
+- **Refund window conflict:**  
+  - Terms of Service says **14 days**.  
+  - Support FAQ says **7 days**.
+- **Processing time conflict:**  
+  - Terms of Service says **5–10 business days**.  
+  - Support FAQ says **3–5 business days**.
+- **Refund amount wording differs:**  
+  - Terms of Service says **100% minus transaction fees if applicable**.  
+  - Support FAQ says simply **100%**.
+- **Eligibility criteria differ:**  
+  - Terms of Service mentions a **30-hour access limit** and no enrollment in an instructor’s alternative course.  
+  - Support FAQ does not mention the 30-hour limit but adds an excessive-download condition.
+- **Effective dates:**  
+  - The FAQ is updated later, September 8, 2026, while the Terms of Service is dated June 15, 2026. However, the FAQ does not explicitly state that it supersedes the Terms of Service.
+
+### 4. Definitive decision and next steps
+
+A **definitive eligibility decision cannot be made solely from the documentation** because the refund window is materially inconsistent.
+
+- If the **Terms of Service controls**, the user appears **eligible**: purchased 9 days ago, under 14 days; completed 15 hours, under 30 hours; and no certificate issued. This assumes the user is not enrolled in an instructor’s alternative course.
+- If the **Support FAQ controls**, the user appears **not eligible** because the purchase was 9 days ago, which is outside the 7-day window.
+
+**What the user should do next:**
+1. Immediately log in and go to **“My Purchases.”**
+2. Select the course and click **“Request Refund.”**
+3. Submit the request within the 14-day window while it is still available under the Terms of Service.
+4. If the system blocks the request due to the 7-day FAQ limit, contact LearnHub support via email or live chat and ask which refund policy governs.
+5. Reference the inconsistency: the Terms of Service states **14 days**, the user is at **9 days**, has completed only **15 hours**, and has **no certificate**.
+6. Avoid completing the course, earning a certificate, exceeding 30 hours of access, or excessively downloading materials while the refund request is pending.
+
+Bottom line: The user is **likely eligible under the Terms of Service**, but **not eligible under the Support FAQ**. Because the documentation conflicts, the user should submit a refund request immediately and escalate through support for a policy clarification.

@@ -1,0 +1,176 @@
+# LearnHub Platform - Refund Policy (Authority Ambiguity Test)
+
+**Platform: LearnHub**  
+**Test Scenario: Two equally authoritative sources with different presentations**
+
+---
+
+## REFUND POLICY - DETAILED VERSION
+
+### Comprehensive Refund Policy Overview
+
+LearnHub is committed to customer satisfaction. We offer a 14-day money-back guarantee on all course purchases to ensure learners can assess whether a course meets their expectations before making a final commitment.
+
+#### Refund Eligibility Window
+
+**Primary Refund Period: 14 Days**
+
+The refund window begins on the date of purchase and extends for 14 calendar days. For example:
+- Purchase date: June 15, 2026 at 3:45 PM EST
+- Refund deadline: June 29, 2026 at 11:59 PM EST
+
+This 14-day period applies to all individual course purchases, course bundles, and the first month of LearnHub Plus subscriptions.
+
+#### Eligibility Requirements (All Must Be Met)
+
+**Requirement 1: Purchase Recency**
+- Refund request must be submitted within 14 days of the original purchase date
+- Purchase date is determined by the timestamp in your account payment history
+- If you purchased on June 15, you have until June 29 to request a refund
+
+**Requirement 2: Course Access Limitation**
+- Total access time to course materials must be less than 30 hours
+- This includes: video watching, quiz attempts, downloading materials, forum participation
+- Platform tracks access time automatically in your account dashboard
+- If you exceed 30 hours of access, you become ineligible for refund
+
+**Requirement 3: No Certificate Issued**
+- You must not have earned or been issued a Certificate of Completion
+- Certificates are issued automatically upon course completion
+- If a certificate has been issued, no refund is available under any circumstance
+- Note: Even if you don't officially "complete" the course, if the certificate was earned, refund eligibility is lost
+
+**Requirement 4: No Previous Refunds on Same Course**
+- Each user is eligible for ONE refund per course
+- If you previously refunded this course, you cannot request another refund
+- This applies even if you repurchase the same course later
+
+**Requirement 5: Valid Refund Request Channel**
+- Refund request must be submitted through official LearnHub channels (account dashboard, email, or chat support)
+- Informal requests (social media, comments, etc.) are not valid
+- Request must include course name, purchase date, and reason for refund
+
+#### Refund Processing Details
+
+**Refund Amount:**
+- 100% of the course fee paid
+- Transaction fees may be deducted depending on payment method (typically $0-2)
+- Promotional discounts already applied; refund is based on amount actually paid
+- Currency of refund matches original payment currency
+
+**Refund Processing Timeline:**
+- Step 1: Submit refund request (instantaneous)
+- Step 2: LearnHub reviews request (1-2 business days)
+- Step 3: If approved, process refund (3-5 business days)
+- Step 4: Refund appears in original payment account (bank/card dependent, typically 5-10 business days total)
+- Total time: 5-10 business days average from submission to completion
+
+**Exceptions to Processing Timeline:**
+- Bank holidays may add 1-2 days
+- International transfers may take longer (up to 15 business days)
+- Debit card refunds typically faster than credit cards (3-5 days)
+
+#### Non-Refundable Situations
+
+The following purchases or circumstances are NOT eligible for refund under any circumstance:
+
+1. **Bundles Partially Accessed:** If you've purchased a course bundle (3+ courses) and completed courses in the bundle, the entire bundle is ineligible for refund even if you only want to refund one course.
+
+2. **Corporate/Enterprise Licenses:** Courses purchased through corporate accounts have different refund terms (see Enterprise section).
+
+3. **Subscription Services:** LearnHub Plus subscription cancellations do not refund already-paid months; only prorated refunds for unused time apply.
+
+4. **Gift Codes:** Refunds cannot be requested on gifts after the code has been redeemed. Only the gift purchaser can request a refund on an unredeemed gift code (within 30 days of purchase).
+
+5. **Lifetime Access Courses:** Certain courses with "lifetime access" branding may have shorter refund windows (5 days); check course description.
+
+6. **Certification Exams:** Exam fees are non-refundable once the exam has been started.
+
+7. **Already-Completed Courses:** If you've completed the course and earned the certificate, even within 14 days, no refund is available.
+
+#### How to Request a Refund
+
+**Step-by-Step Process:**
+
+1. Log into your LearnHub account
+2. Navigate to "My Courses" → "My Purchases"
+3. Find the course you wish to refund
+4. Click the three-dot menu icon next to the course
+5. Select "Request Refund"
+6. Complete the refund request form:
+   - Course name (auto-filled)
+   - Purchase date (auto-filled)
+   - Reason for refund (select from dropdown or write custom reason)
+   - Confirm access hours (system shows current hours)
+   - Accept terms and conditions
+7. Submit the request
+8. You'll receive a confirmation email within 1 hour
+9. LearnHub support will review and respond within 1-2 business days
+
+**Status Tracking:**
+- After submission, you can track status in "Account" → "Refund Requests"
+- Status updates: Submitted → Under Review → Approved/Denied → Processing → Completed
+
+#### Refund Appeals & Disputes
+
+If your refund request is denied, you can appeal:
+- Submit appeal within 7 days of denial notice
+- Provide additional information or dispute reasoning
+- Appeals are reviewed by senior support team
+- Final decision made within 3-5 business days
+- If still denied, no further appeals available
+
+---
+
+## REFUND POLICY - CONCISE VERSION
+
+### LearnHub Refund Policy at a Glance
+
+**Can I get a refund?**
+
+Yes! LearnHub offers a **7-day refund guarantee** on all courses.
+
+**How long do I have?**
+
+You have 7 days from purchase to request a refund. That's plenty of time to try out your course.
+
+**What are the conditions?**
+
+To get a refund, you need to:
+- Request it within 7 days of purchase
+- Not have spent more than 30 hours in the course
+- Not have completed the course
+
+**What happens next?**
+
+1. Submit refund request in your account
+2. We review it (usually takes 1-2 days)
+3. If approved, you get 100% refund
+4. Refund arrives in 5-10 days
+
+**Questions?** 
+
+Contact our support team at support@learnhub.com or use live chat.
+
+---
+
+
+## ADDITIONAL CONTEXT
+
+**Both documents are officially published by LearnHub and considered equally authoritative.**
+
+---
+
+## USER SCENARIO
+
+"I purchased a course 10 days ago. I have not completed the course and
+have not received a certificate. Am I eligible for a refund?"
+
+## TASK
+
+Using only the provided documentation, determine the user's refund eligibility.
+
+In your answer:
+1. State whether refund eligibility can be determined.
+2. Identify any inconsistency in the provided refund policies.
+3. State what information, if any, is missing to make a definitive determination.

@@ -1,0 +1,18 @@
+## Conclusion: Eligibility cannot be determined definitively
+
+The purchase was made **June 8, 2026**, and the refund was requested **June 20, 2026**—12 days later.
+
+### Relevant policies
+- The **10-day interim policy** was published May 2, and the May 3 blog says it applied “effective immediately” to all new purchases. Under that policy, the request is outside the 10-day window.
+- The **14-day policy** took effect June 15. The June 10 memo says it would apply to “all course purchases,” but the documents do not clearly say whether this includes purchases made before June 15. If it applies, the request is within 14 days.
+
+### Why the answer is uncertain
+The documents conflict or leave a gap about which policy governs a purchase made June 8:
+- The May 3 announcement supports applying the 10-day policy to that purchase.
+- The June 10 memo could mean the 14-day policy applies to all purchases, including earlier ones, but does not explicitly confirm retroactive application.
+- The current policy says it is effective June 15, without stating whether it replaces the prior policy for existing purchases.
+
+The September 8 Help Center answer says 7 days, but it conflicts with the later policy materials and does not establish which policy governs this June purchase.
+
+### Additional information needed
+The decisive missing information is whether the 14-day policy applies to purchases made before June 15. If it does, the user meets the time-window requirement; if the 10-day policy governs, they do not. Even if the 14-day policy applies, eligibility also depends on the user having **less than 30 hours of access, no certificate earned, and no previous refund for that course**.

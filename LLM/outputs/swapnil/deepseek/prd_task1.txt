@@ -1,0 +1,26 @@
+## V1 Product Scope Summary  
+*Based on PRD v3.2, June 4, 2026*
+
+### Approved V1 Features (will ship in V1)
+- Direct Messaging
+- Group Channels
+- User Profiles & Authentication
+- File Sharing
+- Notification System
+- Admin & Moderation Tools
+
+### Features Under Review
+- User Reputation System
+- Email Notifications
+- Advanced Search
+
+### Future Features (Post-Launch)
+- Integrations & Bot Framework
+- Analytics Dashboard
+
+### Video/Voice Calling
+- **Planned for V1?** Not indicated in the PRD. It is not listed under Approved V1 Features, Features Under Review, or Future Features.
+- **Expected release phase:** Not specified in the PRD.
+
+### Launch Target
+- Q3 2026

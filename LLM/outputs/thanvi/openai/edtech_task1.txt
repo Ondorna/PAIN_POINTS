@@ -1,0 +1,5 @@
+Your eligibility **cannot be determined definitively** from the provided information.
+
+The policies conflict: the Terms of Service and checkout footer state a **14-day** refund window, while the Help Center FAQ states **7 days**. At 10 days after purchase, you are within the 14-day period but outside the 7-day period.
+
+The documentation also does not say how to resolve this conflict. And under the Terms of Service, eligibility additionally depends on your course access being under 30 hours, no certificate having been issued, and your original payment method still being valid. The FAQ also requires that you have not completed the course and have not earned a certificate. Your status on these conditions is not provided.
