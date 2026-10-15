@@ -1,0 +1,210 @@
+{
+  "Meeting Notes": {
+    "Task 1": {
+      "project_purpose": {
+        "status": "Present",
+        "evidence": "therapeutic social robot for autistic children who are overwhelmed with stimulation"
+      },
+      "project_lead": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "current_robot_cost": {
+        "status": "Present",
+        "evidence": "$700"
+      },
+      "target_cost": {
+        "status": "Present",
+        "evidence": "$150"
+      },
+      "technology_stack": {
+        "status": "Partial",
+        "evidence": "open source software stack for robotics"
+      },
+      "robotics_meeting_day": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "robotics_meeting_time": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "distribution_plan": {
+        "status": "Present",
+        "evidence": "kit of parts, manufacturers, workshop"
+      },
+      "python_class_time": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "steam_meeting_time": {
+        "status": "Missing",
+        "evidence": null
+      }
+    },
+    "Task 2": {
+      "project_purpose": {
+        "status": "Present",
+        "evidence": "therapeutic social robot for autistic children who are overwhelmed with stimulation"
+      },
+      "project_lead": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "current_robot_cost": {
+        "status": "Present",
+        "evidence": "$700"
+      },
+      "target_cost": {
+        "status": "Present",
+        "evidence": "$150"
+      },
+      "technology_stack": {
+        "status": "Partial",
+        "evidence": "open source software stack"
+      },
+      "robotics_meeting_day": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "robotics_meeting_time": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "distribution_plan": {
+        "status": "Present",
+        "evidence": "kit of parts, manufacturers, workshop"
+      },
+      "python_class_time": {
+        "status": "Distractor",
+        "evidence": "every Monday, 7:00pm to 8:30pm"
+      },
+      "steam_meeting_time": {
+        "status": "Distractor",
+        "evidence": "Thursday at 7"
+      },
+      "programming_meeting_time": {
+        "status": "Distractor",
+        "evidence": "6:30"
+      }
+    },
+    "Task 3": {
+      "project_purpose": {
+        "status": "Present",
+        "evidence": "therapeutic social robot for autistic children who are overwhelmed with stimulation"
+      },
+      "project_lead": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "current_robot_cost": {
+        "status": "Present",
+        "evidence": "$700"
+      },
+      "target_cost": {
+        "status": "Present",
+        "evidence": "$150"
+      },
+      "technology_stack": {
+        "status": "Partial",
+        "evidence": "open source software stack"
+      },
+      "robotics_meeting_day": {
+        "status": "Partial",
+        "evidence": "Sundays meeting to talk about robots"
+      },
+      "robotics_meeting_time": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "distribution_plan": {
+        "status": "Present",
+        "evidence": "kit of parts, manufacturers, workshop"
+      }
+    },
+    "Task 4": {
+      "project_purpose": {
+        "status": "Present",
+        "evidence": "therapeutic social robot for autistic children who are overwhelmed with stimulation"
+      },
+      "project_lead": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "current_robot_cost": {
+        "status": "Present",
+        "evidence": "$700"
+      },
+      "target_cost": {
+        "status": "Present",
+        "evidence": "$150"
+      },
+      "technology_stack": {
+        "status": "Present",
+        "evidence": "node.js with a Blockly component"
+      },
+      "robotics_meeting_day": {
+        "status": "Partial",
+        "evidence": "Sundays meeting to talk about robots"
+      },
+      "robotics_meeting_time": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "distribution_plan": {
+        "status": "Present",
+        "evidence": "kit of parts, manufacturers, workshop"
+      },
+      "proposed_change": {
+        "status": "Present",
+        "evidence": "considering moving the robotics meetings to Saturday afternoons"
+      },
+      "change_effective": {
+        "status": "Missing",
+        "evidence": null
+      }
+    },
+    "Task 5": {
+      "project_purpose": {
+        "status": "Present",
+        "evidence": "therapeutic social robot for autistic children who are overwhelmed with stimulation"
+      },
+      "project_lead": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "current_robot_cost": {
+        "status": "Present",
+        "evidence": "$700"
+      },
+      "target_cost": {
+        "status": "Present",
+        "evidence": "$150"
+      },
+      "technology_stack": {
+        "status": "Partial",
+        "evidence": "open source software stack for robotics"
+      },
+      "robotics_meeting_day": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "robotics_meeting_time": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "distribution_plan": {
+        "status": "Present",
+        "evidence": "kit of parts, manufacturers, workshop"
+      },
+      "python_class_time": {
+        "status": "Missing",
+        "evidence": null
+      },
+      "steam_meeting_time": {
+        "status": "Missing",
+        "evidence": null
+      }
+    }
+  }
+}

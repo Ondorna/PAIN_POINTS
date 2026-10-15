@@ -191,7 +191,10 @@ If any important discussion happens, it should be happening after forward progre
 = End of Meeting =
 
 TASK:
-Using only the information in the meeting notes, prepare a concise project update.
+Using only the information in the meeting notes, prepare a complete project update.
+
+Complete every field below. Do not leave any field blank. Provide a value for every requested field.
+
 Include:
 - Project purpose
 - Project lead

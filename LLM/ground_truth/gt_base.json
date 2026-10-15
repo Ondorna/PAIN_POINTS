@@ -1,0 +1,34 @@
+{
+  "project_purpose": {
+    "status": "Present",
+    "evidence": "therapeutic social robot for autistic children who are overwhelmed with stimulation"
+  },
+  "project_lead": {
+    "status": "Missing",
+    "evidence": null
+  },
+  "current_robot_cost": {
+    "status": "Present",
+    "evidence": "$700"
+  },
+  "target_cost": {
+    "status": "Present",
+    "evidence": "$150"
+  },
+  "technology_stack": {
+    "status": "Present",
+    "evidence": "node.js with a Blockly component"
+  },
+  "robotics_meeting_day": {
+    "status": "Present",
+    "evidence": "every Sunday"
+  },
+  "robotics_meeting_time": {
+    "status": "Present",
+    "evidence": "1pm"
+  },
+  "distribution_plan": {
+    "status": "Present",
+    "evidence": "kit of parts, manufacturers, workshop"
+  }
+}
