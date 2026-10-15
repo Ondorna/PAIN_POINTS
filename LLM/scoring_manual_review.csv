@@ -1,5 +1,5 @@
 Task,Model,Result,Failure Tag,Reason
-Task 1,Gemini,❌ Fail,UNSUPPORTED_CONFIRMATION,"GT for Project lead is Missing, but model answered ""Cory"", presenting unsupported information as confirmed fact."
+Task 1,Gemini,❌ Fail,UNSUPPORTED_CONFIRMATION,"GT for Project lead is Missing, but model answered ""Cory"",  presenting unsupported information as confirmed fact."
 Task 2,DeepSeek,❌ Fail,OVERCLAIM,"For Technology stack (Partial), model expanded limited evidence into definite claim. Also over-interpreted partial robotics meeting evidence."
 Task 2,Gemini,❌ Fail,UNSUPPORTED_CONFIRMATION + OVERCLAIM,"Model identified ""Cory"" as project lead (Missing), and upgraded partial technology-stack evidence into more definite claim."
 Task 2,OpenAI,❌ Fail,UNSUPPORTED_CONFIRMATION,"Model answered ""Cory"" for Project lead (Missing). Other fields handled cautiously, but this field contains unsupported confirmation."
