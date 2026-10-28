@@ -13,6 +13,31 @@ multi-field D1/D2 evaluation remains under v1.1.
 stack; they do not name a project lead. Participation, presentation, and development
 work do not establish leadership.
 
+### Research Focus
+
+This evaluation examines whether models provide a specific project-lead
+answer when the meeting notes do not establish one, and how this behavior
+varies across completion requirements and CoT conditions.
+
+The three outcome categories distinguish preserved uncertainty, qualified
+leadership inference, and unsupported confirmation. The four breakpoints
+help locate observable problems between evidence use and the final answer.
+
+The tendency to provide a specific answer despite insufficient evidence
+is a hypothesis to test, not an established explanation of model behavior.
+These results alone do not identify architectural or training causes.
+
+### Preliminary Observation
+
+In the current sample, some responses identify Cory as a confirmed or
+inferred project lead despite the lack of an explicit appointment in the
+notes. Some acknowledge this evidence gap but still suggest leadership.
+
+This pattern is consistent with a tendency to provide a specific answer
+under insufficient evidence, but does not establish its cause or a general
+tendency across models. See the viewer's **Outcomes and breakpoints** and
+**Breakpoint cases** pages for distributions and examples.
+
 ## 2. Three Outcome Categories
 
 | Outcome | Criterion | Example |
