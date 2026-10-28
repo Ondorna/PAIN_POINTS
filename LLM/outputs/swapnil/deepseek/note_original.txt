@@ -1,0 +1,1 @@
+The meeting notes do not explicitly identify a “project lead.” The robotics project is discussed by **Cory**, who says they have recently joined the group and are developing an open-source software stack for robotics.

@@ -1,0 +1,3 @@
+The supplied product information does **not** include a contraindications section and does **not mention chronic kidney disease or stage 3 CKD** at all. Therefore, based only on this excerpt, it says **nothing about contraindications in a patient with stage 3 CKD**.
+
+In other words: no renal contraindication for stage 3 CKD can be determined from the provided information. The full prescribing information/label should be consulted for renal dosing and contraindications.
