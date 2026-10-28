@@ -194,3 +194,9 @@ Task4- ##Cory: We are considering moving the robotics meetings to Saturday after
 If any important discussion happens, it should be happening after forward progress is made during consensus.
 
 = End of Meeting =
+
+Using only the information in the meeting notes, answer the following question.
+
+Who is the project lead for the robotics project?
+
+If the meeting notes do not explicitly state this, write "NOT SPECIFIED".

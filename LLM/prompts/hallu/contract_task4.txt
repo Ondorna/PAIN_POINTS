@@ -1,0 +1,36 @@
+Meeting Notes — Supplier Contract Review
+Date: 2026-06-02
+Attendees: Dana (procurement), Marcus (legal), Priya (operations), Tom (finance)
+Notetaker: Priya
+
+Purpose
+Review of the draft supply agreement with Northwind Components for the Q3 production run. The group went through the commercial terms section by section.
+
+Contract amount
+Marcus confirmed the total contract value is **$120,000**, covering 4,000 units at $30 per unit. Tom noted this is within the approved Q3 budget line.
+
+Payment terms
+Dana proposed net 60 days from delivery. Tom raised a concern that the current cash flow cycle is closer to 75 days, but the group agreed net 60 is acceptable given the expected Q3 revenue. No changes requested.
+
+Delivery schedule
+Northwind will deliver in two batches: 1,500 units by July 15 and 2,500 units by August 20. Priya confirmed the warehouse can handle both batches.
+
+Quality and inspection
+Incoming inspection will follow the standard AQL sampling procedure. Marcus asked whether the draft references the correct inspection standard; Priya will check the appendix and confirm.
+
+Open items
+
+    Priya to verify the inspection standard reference in Appendix B.
+
+    Dana to send the revised draft to Northwind by Friday.
+
+    Tom to confirm the budget line code with finance before signing.
+
+Next meeting
+Scheduled for 2026-06-09 to review the revised draft and finalize before signature.
+
+Using only the information in the meeting notes, answer the following question.
+
+What is the payment term for the contract with Meridian Logistics?
+
+If the meeting notes do not mention this, write "NOT SPECIFIED".

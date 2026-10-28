@@ -1,0 +1,247 @@
+{
+  "deepseek/note_task1_1.txt": {
+    "sha256": "885e3c7ba9fe9180b3cb416a22b886f0506092353ffee3a38fea67d575370cba",
+    "issues": []
+  },
+  "deepseek/note_task1_2.txt": {
+    "sha256": "95542a723e20eaeb8fb08052fdf9b5f217c3f62a1af93f14c0cc3cc3682a0fe7",
+    "issues": []
+  },
+  "deepseek/note_task1_3.txt": {
+    "sha256": "13eb1d8d38aa2e7bf262ee6f1896212cae84a9beb3316392309333204cf668c1",
+    "issues": []
+  },
+  "deepseek/note_task1_cot_1.txt": {
+    "sha256": "e2580b09b9eff53de31f48de74ffb39f6e61733de1011f9221a8313bb9942410",
+    "issues": []
+  },
+  "deepseek/note_task1_cot_2.txt": {
+    "sha256": "2d1ae86953ca005a7988a92a41bcb157b5c12e41cdffc659a62bd5bc61682f28",
+    "issues": []
+  },
+  "deepseek/note_task1_cot_3.txt": {
+    "sha256": "b4f6f96c4fab9e71d712a5cdee7295531b67cbcb1e0900f39706ca7ed8fc6108",
+    "issues": []
+  },
+  "gemini/note_task1_1.txt": {
+    "sha256": "caf184819025426d730addc32f92f838ae548f64a4f1075552f8499a43eb26d6",
+    "issues": [
+      {
+        "field": "Project lead",
+        "tag": "UNSUPPORTED_CONFIRMATION",
+        "quote": "Project lead: Cory",
+        "reason": "Names Cory as project lead, although the notes only establish his participation and software development role.",
+        "source": "Cory says, “I joined the project to bring the price point down to $150” and “I’m developing an open source software stack for robotics.” The notes do not name a project lead."
+      },
+      {
+        "field": "Distribution/manufacturing plan",
+        "tag": "OVERCLAIM",
+        "quote": "Distribution/manufacturing plan: To create a kit of parts where parts can be purchased, manufactured in a makerspace (such as Noisebridge), and sold through workshops or at the space, with all the money going to Noisebridge for parts and materials.",
+        "reason": "Presents manufacturing and sales arrangements as a plan, although the notes describe proposals without a final decision.",
+        "source": "“How can we go about making a package ...” and “A workshop might be one route.” These are proposals and suggestions."
+      }
+    ]
+  },
+  "gemini/note_task1_2.txt": {
+    "sha256": "2d97bb4db2a84bf5cb8d44fc2c4a2dd36edf866c04270f5a88ca87820538e1a6",
+    "issues": [
+      {
+        "field": "Project lead",
+        "tag": "UNSUPPORTED_CONFIRMATION",
+        "quote": "**Project lead:** Cory",
+        "reason": "Names Cory as project lead, although the notes only establish his participation and software development role.",
+        "source": "Cory says, “I joined the project to bring the price point down to $150” and “I’m developing an open source software stack for robotics.” The notes do not name a project lead."
+      },
+      {
+        "field": "Technology stack",
+        "tag": "OVERCLAIM",
+        "quote": "**Technology stack:** An open-source software stack for robotics (utilizing a pair of wheels, a battery, a brain, and other standard parts; notably replacing the current iPod Touch requirement which costs $350).",
+        "reason": "Treats a general description of robots as the confirmed hardware configuration for this project. Also asserts an iPod Touch replacement that the notes do not confirm.",
+        "source": "“For me most robots are just a pair of wheels, a battery, a brain ...” describes robots in general. The notes mention an existing iPod Touch and a software stack in development."
+      },
+      {
+        "field": "Distribution/manufacturing plan",
+        "tag": "OVERCLAIM",
+        "quote": "**Distribution/manufacturing plan:** Manufacture the robot parts in a makerspace (Noisebridge) as a kit of parts, potentially through holding workshops where participants pay for the kit and work with someone knowledgeable to build it, with proceeds donated to Noisebridge for parts and materials.",
+        "reason": "Presents manufacturing and sales arrangements as a plan, although the notes describe proposals without a final decision.",
+        "source": "“How can we go about making a package ...” and “A workshop might be one route.” These are proposals and suggestions."
+      }
+    ]
+  },
+  "gemini/note_task1_3.txt": {
+    "sha256": "44a004a754d7497d1dbc6767bbeced5a75259023a2593dbb7637be231a695a46",
+    "issues": [
+      {
+        "field": "Project lead",
+        "tag": "UNSUPPORTED_CONFIRMATION",
+        "quote": "Project lead: Cory",
+        "reason": "Names Cory as project lead, although the notes only establish his participation and software development role.",
+        "source": "Cory says, “I joined the project to bring the price point down to $150” and “I’m developing an open source software stack for robotics.” The notes do not name a project lead."
+      },
+      {
+        "field": "Technology stack",
+        "tag": "OVERCLAIM",
+        "quote": "Technology stack: Open source software stack for robotics (the robot utilizes an iPod Touch in the back, and is structured as a pair of wheels, a battery, a brain, and other parts).",
+        "reason": "Treats a general description of robots as the confirmed hardware configuration for this project.",
+        "source": "“For me most robots are just a pair of wheels, a battery, a brain ...” describes robots in general. The notes mention an existing iPod Touch and a software stack in development."
+      },
+      {
+        "field": "Distribution/manufacturing plan",
+        "tag": "OVERCLAIM",
+        "quote": "Distribution/manufacturing plan: Manufacture the parts in a makerspace (Noisebridge) as a package/kit that can be sold, with all the money going to Noisebridge for parts and materials, and potentially holding workshops where people pay for the kit and work with someone knowledgeable to build it.",
+        "reason": "Presents manufacturing and sales arrangements as a plan, although the notes describe proposals without a final decision.",
+        "source": "“How can we go about making a package ...” and “A workshop might be one route.” These are proposals and suggestions."
+      }
+    ]
+  },
+  "gemini/note_task1_cot_1.txt": {
+    "sha256": "dd9d8d5a7f95813c6e1e5836042d9df03b6350c7bb26c6eb92a76fd7b7a89aec",
+    "issues": [
+      {
+        "field": "Project lead",
+        "tag": "UNSUPPORTED_CONFIRMATION",
+        "quote": "* **Project Lead:** Cory",
+        "reason": "Names Cory as project lead, although the notes only establish his participation and software development role.",
+        "source": "Cory says, “I joined the project to bring the price point down to $150” and “I’m developing an open source software stack for robotics.” The notes do not name a project lead."
+      },
+      {
+        "field": "Technology stack",
+        "tag": "OVERCLAIM",
+        "quote": "* **Technology Stack:** An iPod Touch in the back, a pair of wheels, a battery, a brain, and an open-source software stack for robotics.",
+        "reason": "Treats a general description of robots as the confirmed hardware configuration for this project.",
+        "source": "“For me most robots are just a pair of wheels, a battery, a brain ...” describes robots in general. The notes mention an existing iPod Touch and a software stack in development."
+      },
+      {
+        "field": "Distribution/manufacturing plan",
+        "tag": "OVERCLAIM",
+        "quote": "* **Distribution/Manufacturing Plan:** Keep the design open source rather than a standard commercial product; utilize interested external manufacturers and manufacture/assemble kits locally in the makerspace. This can be achieved by holding workshops where participants pay for a kit, work with a knowledgeable person to build it, and have all proceeds donated to Noisebridge to cover parts and materials.",
+        "reason": "Presents manufacturing and sales arrangements as a plan, although the notes describe proposals without a final decision.",
+        "source": "“How can we go about making a package ...” and “A workshop might be one route.” These are proposals and suggestions."
+      }
+    ]
+  },
+  "gemini/note_task1_cot_2.txt": {
+    "sha256": "d6d6b0f63d001dc6a0a86730b0b57e58d27fd6defad6d740ca7e2ce6a8eab495",
+    "issues": [
+      {
+        "field": "Project lead",
+        "tag": "UNSUPPORTED_CONFIRMATION",
+        "quote": "* **Project lead:** Cory",
+        "reason": "Names Cory as project lead, although the notes only establish his participation and software development role.",
+        "source": "Cory says, “I joined the project to bring the price point down to $150” and “I’m developing an open source software stack for robotics.” The notes do not name a project lead."
+      },
+      {
+        "field": "Technology stack",
+        "tag": "OVERCLAIM",
+        "quote": "* **Technology stack:** An open-source software stack for robotics, an iPod Touch (current hardware requirement), a pair of wheels, a battery, a brain, and various other component parts.",
+        "reason": "Treats a general description of robots as the confirmed hardware configuration for this project.",
+        "source": "“For me most robots are just a pair of wheels, a battery, a brain ...” describes robots in general. The notes mention an existing iPod Touch and a software stack in development."
+      },
+      {
+        "field": "Distribution/manufacturing plan",
+        "tag": "OVERCLAIM",
+        "quote": "* **Distribution/manufacturing plan:** To keep the project open source, manufacture the robot kit in the makerspace/Noisebridge so that all money from sales goes to Noisebridge for parts and materials, potentially through organized workshops where people pay for the kit and build it with someone knowledgeable. Additionally, external manufacturers have expressed interest in manufacturing components.",
+        "reason": "Presents manufacturing and sales arrangements as a plan, although the notes describe proposals without a final decision.",
+        "source": "“How can we go about making a package ...” and “A workshop might be one route.” These are proposals and suggestions."
+      }
+    ]
+  },
+  "gemini/note_task1_cot_3.txt": {
+    "sha256": "daaaa1e1b1bc1f92f64d650a3e9f37e0152d96951f19b5a0ca729cf28ac328de",
+    "issues": [
+      {
+        "field": "Project lead",
+        "tag": "UNSUPPORTED_CONFIRMATION",
+        "quote": "2. **Project lead:** \n   * *Derivation:* Cory introduces the project during the meeting, stating, \"today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while\" and \"I joined the project to bring the price point down to $150.\" \n   * *Value:* Cory.",
+        "reason": "Names Cory as project lead, although the notes only establish his participation and software development role.",
+        "source": "Cory says, “I joined the project to bring the price point down to $150” and “I’m developing an open source software stack for robotics.” The notes do not name a project lead."
+      },
+      {
+        "field": "Technology stack",
+        "tag": "OVERCLAIM",
+        "quote": "5. **Technology stack:** \n   * *Derivation:* Cory explains that \"One of the reasons it's so expensive is because it requires an iPod Touch in the back, which is $350\" and mentions that he is \"developing an open source software stack for robotics.\" He also notes that \"most robots are just a pair of wheels, a battery, a brain, and a bunch of other stuff we play with all the time.\"\n   * *Value:* An iPod Touch (traditionally used in the back for $350) and an open-source software stack for robotics (running on a robot consisting of a pair of wheels, a battery, and a brain).",
+        "reason": "Treats a general description of robots as the confirmed hardware configuration for this project.",
+        "source": "“For me most robots are just a pair of wheels, a battery, a brain ...” describes robots in general. The notes mention an existing iPod Touch and a software stack in development."
+      },
+      {
+        "field": "Distribution/manufacturing plan",
+        "tag": "OVERCLAIM",
+        "quote": "7. **Distribution/manufacturing plan:** \n   * *Derivation:* Cory explains, \"We have manufacturers who are interested in manufacturing things. And this stuff can be manufactured in a makerspace... How can we go about making a package that can be sold at Noisebridge, manufactured here, and all the money goes to Noisebridge for parts and materials?\" Trent suggests, \"A workshop might be one route. You can put things in there to sell and have the proceeds donated to Noisebridge.\"\n   * *Value:* To manufacture parts/kits in a makerspace (such as Noisebridge) with the help of interested manufacturers, potentially distribute them via workshops where participants pay for the kit and build it with someone knowledgeable, and sell packages with all proceeds donated to Noisebridge for parts and materials.",
+        "reason": "Presents manufacturing and sales arrangements as a plan, although the notes describe proposals without a final decision.",
+        "source": "“How can we go about making a package ...” and “A workshop might be one route.” These are proposals and suggestions."
+      }
+    ]
+  },
+  "openai/note_task1_1.txt": {
+    "sha256": "cbca3bde0bde2159f42a32ef370d0b0c0985577cdcb3ccf00ce9cf53cb302dcb",
+    "issues": [
+      {
+        "field": "Project lead",
+        "tag": "UNSUPPORTED_CONFIRMATION",
+        "quote": "- **Project lead:** Cory, who recently joined the project and is developing its open-source software stack.",
+        "reason": "Names Cory as project lead, although the notes only establish his participation and software development role.",
+        "source": "Cory says, “I joined the project to bring the price point down to $150” and “I’m developing an open source software stack for robotics.” The notes do not name a project lead."
+      }
+    ]
+  },
+  "openai/note_task1_2.txt": {
+    "sha256": "ecf50039218e2270293563a10ec7fee1302570470c831736c6ceeafdfc7fb5a8",
+    "issues": [
+      {
+        "field": "Project lead",
+        "tag": "UNSUPPORTED_CONFIRMATION",
+        "quote": "- **Project lead:** Cory.",
+        "reason": "Names Cory as project lead, although the notes only establish his participation and software development role.",
+        "source": "Cory says, “I joined the project to bring the price point down to $150” and “I’m developing an open source software stack for robotics.” The notes do not name a project lead."
+      }
+    ]
+  },
+  "openai/note_task1_3.txt": {
+    "sha256": "a664eca555ebdaaba83b59946b537654377e10668fe07eedbf2945d3f63eab05",
+    "issues": [
+      {
+        "field": "Project lead",
+        "tag": "UNSUPPORTED_CONFIRMATION",
+        "quote": "- **Project lead:** Cory, who recently joined the project.",
+        "reason": "Names Cory as project lead, although the notes only establish his participation and software development role.",
+        "source": "Cory says, “I joined the project to bring the price point down to $150” and “I’m developing an open source software stack for robotics.” The notes do not name a project lead."
+      }
+    ]
+  },
+  "openai/note_task1_cot_1.txt": {
+    "sha256": "e8a34eacee21ef65f41a795c3fa388c9d3b764161ff2344d6da3c3a01e2f33d5",
+    "issues": [
+      {
+        "field": "Project lead",
+        "tag": "NEEDS_REVIEW",
+        "quote": "- **Project lead:** **Cory** is the person who introduced the project and said he had joined it and was developing its software stack. *The notes do not explicitly assign him the title of project lead, so this identifies him as the apparent lead from his described role.*",
+        "reason": "Acknowledges the missing title but still infers a leadership role for Cory.",
+        "source": "Cory says, “I joined the project to bring the price point down to $150” and “I’m developing an open source software stack for robotics.” The notes do not name a project lead."
+      }
+    ]
+  },
+  "openai/note_task1_cot_2.txt": {
+    "sha256": "ac1ae51c5a5f4add9d5af22bfc1749a3d359d021b898c3aaadae58ee8dbd7b6d",
+    "issues": [
+      {
+        "field": "Technology stack",
+        "tag": "NEEDS_REVIEW",
+        "quote": "removing this expense is one reason for the cost-reduction effort",
+        "reason": "Infers that the iPod Touch expense will be removed; the notes identify its cost but do not confirm its removal.",
+        "source": "“One of the reasons it’s so expensive is because it requires an iPod Touch in the back, which is $350.”"
+      }
+    ]
+  },
+  "openai/note_task1_cot_3.txt": {
+    "sha256": "d40e01e9fe25b12d5c0659c2d3972d4ad2198c77c57f37831db6f3fdf0f5570c",
+    "issues": [
+      {
+        "field": "Project lead",
+        "tag": "NEEDS_REVIEW",
+        "quote": "- **Project lead:** Cory.  \n  *Derivation:* Cory said he had joined the project and was developing its software stack. The notes do not give a formal project-lead title, so Cory is identified as the person leading the described development work.",
+        "reason": "Acknowledges the missing title but still infers a leadership role for Cory.",
+        "source": "Cory says, “I joined the project to bring the price point down to $150” and “I’m developing an open source software stack for robotics.” The notes do not name a project lead."
+      }
+    ]
+  }
+}
