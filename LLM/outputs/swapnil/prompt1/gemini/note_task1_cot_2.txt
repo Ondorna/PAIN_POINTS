@@ -1,0 +1,41 @@
+To prepare the project update based strictly on the provided meeting notes, let's analyze each required field step-by-step:
+
+1. **Project purpose**
+   * *Source statement:* Cory states, "This is a robot designed to be a therapeutic social robot for autistic children who are overwhelmed with stimulation. This little guy allows a therapist or instructor using a limited vocabulary to drive and interact and actually engage the student who has the speech pathology."
+   * *Derivation:* The purpose is to serve as a therapeutic social robot to help therapists or instructors interact with and engage autistic children dealing with stimulation overload or speech pathology.
+
+2. **Project lead**
+   * *Source statement:* Cory introduces the project during his announcements and discussion, stating, "Cory: I build robots and teach people how to build robots and today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while," and "I joined the project to bring the price point down to $150." 
+   * *Derivation:* Cory is leading/involved in bringing this project to the robotics group.
+
+3. **Current robot cost**
+   * *Source statement:* Cory mentions, "There are about 100 of these out in the wild and their price point is $700." He adds, "One of the reasons it's so expensive is because it requires an iPod Touch in the back, which is $350."
+   * *Derivation:* The current retail price is $700.
+
+4. **Target cost**
+   * *Source statement:* Cory states, "I joined the project to bring the price point down to $150."
+   * *Derivation:* The target price point is $150.
+
+5. **Technology stack**
+   * *Source statement:* Cory notes, "One of the reasons it's so expensive is because it requires an iPod Touch in the back..." and "I'm developing an open source software stack for robotics. For me most robots are just a pair of wheels, a battery, a brain, and a bunch of other stuff we play with all the time."
+   * *Derivation:* The hardware/tech components include an iPod Touch, a pair of wheels, a battery, and a brain, utilizing an open-source software stack being developed by Cory.
+
+6. **Robotics group meeting day and time**
+   * *Source statement:* Cory mentions talking about the robotics meeting ("today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while"), but the notes **do not** specify the exact day and time of the robotics group meeting.
+   * *Derivation:* Not provided in the meeting notes.
+
+7. **Distribution/manufacturing plan**
+   * *Source statement:* Cory says, "...we have manufacturers who are interested in manufacturing things. And this stuff can be manufactured in a makerspace... How can we go about making a package that can be sold at Noisebridge, manufactured here, and all the money goes to Noisebridge for parts and materials?" Trent suggests, "I've seen people in the past hold workshops and pay for the kit and work with someone knowledgeable to build it. A workshop might be one route. You can put things in there to sell and have the proceeds donated to Noisebridge."
+   * *Derivation:* The plan involves manufacturing parts in a makerspace with interested manufacturers, potentially offering them via workshops where participants pay for kits and build them, and selling packages/kits where all proceeds are donated back to Noisebridge.
+
+***
+
+### Project Update
+
+* **Project Purpose:** To serve as a therapeutic social robot that allows therapists or instructors using a limited vocabulary to drive, interact with, and engage autistic children who are overwhelmed with stimulation.
+* **Project Lead:** Cory
+* **Current Robot Cost:** $700 (partially driven by a $350 iPod Touch requirement in the back)
+* **Target Cost:** $150
+* **Technology Stack:** An open-source software stack utilizing an iPod Touch, a pair of wheels, a battery, a brain, and other standard robotics components.
+* **Robotics Group Meeting Day and Time:** *Not specified in the meeting notes.*
+* **Distribution/Manufacturing Plan:** Create a kit of parts to be manufactured in a makerspace with interested manufacturers. Distribution may include hosting workshops where participants pay for kits and build them with knowledgeable guidance, and selling packages where all proceeds are donated to Noisebridge for parts and materials.

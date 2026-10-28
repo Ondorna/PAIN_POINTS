@@ -1,0 +1,20 @@
+- **Project purpose:** Develop an open-source robotics platform and kit that people can build on and learn from at Noisebridge. One intended application is a therapeutic social robot for autistic children who may be overwhelmed by stimulation. The notes describe a robot that lets a therapist or instructor interact with a student using a limited vocabulary.
+  - *Derivation:* Cory described the robot’s therapeutic use and a broader plan to create an open-source, reusable robotics kit. The notes don’t establish whether the kit and the therapeutic robot are exactly the same project.
+
+- **Project lead:** Cory is the person describing the project and says he has joined it and is developing its open-source software stack. The notes do not explicitly assign him the formal title of project lead.
+  - *Derivation:* Cory says, “I joined the project” and “I’m developing” the software stack.
+
+- **Current robot cost:** About **$700**.
+  - *Derivation:* Cory says the robot’s price point is $700.
+
+- **Target cost:** **$150**.
+  - *Derivation:* Cory says he joined the project to bring the price point down to $150.
+
+- **Technology stack:** An open-source robotics software stack is being developed. The robot described has an iPod Touch in the back; Cory also characterizes robots generally as having wheels, a battery, and a “brain.” The specific software, hardware, and components of the proposed kit are not detailed.
+  - *Derivation:* These are the technical details stated in Cory’s description; the notes do not name particular software frameworks or hardware specifications.
+
+- **Robotics group meeting day and time:** **Not stated.**
+  - *Derivation:* The notes mention a robotics group and its interested participants but give no meeting schedule.
+
+- **Distribution/manufacturing plan:** The group is exploring a kit that could be purchased and potentially manufactured in a makerspace. Cory says manufacturers are interested in manufacturing items. Trent suggests holding a workshop where participants pay for kits, or selling items and donating the proceeds to Noisebridge. No final distribution or manufacturing plan is recorded.
+  - *Derivation:* These are ideas raised in the discussion, not confirmed decisions.

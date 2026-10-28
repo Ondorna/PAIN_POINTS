@@ -1,0 +1,13 @@
+- **Project purpose:** Develop an open-source robotics kit and software stack, using the Ro-Mee-Bo robot as an example, to make it easier and less expensive for people to build and experiment with robots. The robot is intended to support therapists working with autistic children who can be overwhelmed by stimulation. *Derived from Cory’s description of the robot and his proposal for a reusable kit and open-source software stack.*
+
+- **Project lead:** Cory. *He said he had joined the project and was developing its software stack. The notes do not explicitly assign him the formal title of project lead.*
+
+- **Current robot cost:** About **$700**. *Cory gave this as the current price point.*
+
+- **Target cost:** About **$150**. *Cory said he was working to bring the price down to this amount.*
+
+- **Technology stack:** An **open-source software stack for robotics**. The notes do not specify programming languages, frameworks, hardware platforms, or other technical components.
+
+- **Robotics group meeting day and time:** **Not stated in the notes.** Cory refers to the robotics group and its interested participants, but gives no meeting day or time.
+
+- **Distribution/manufacturing plan:** The group is exploring a kit that could be purchased and potentially manufactured in a makerspace, with interested manufacturers also involved. Cory asked how it might be packaged and sold through Noisebridge, with proceeds going to Noisebridge for parts and materials. A workshop where participants pay for a kit and build it with an experienced person was also suggested. **No final distribution or manufacturing plan was decided.**

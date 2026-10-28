@@ -1,0 +1,29 @@
+Step-by-step derivation of each requested field based *only* on the meeting notes:
+
+1. **Project purpose**
+   * *Derivation:* The notes state that the project is "a robot designed to be a therapeutic social robot for autistic children who are overwhelmed with stimulation. This little guy allows a therapist or instructor using a limited vocabulary to drive and interact and actually engage the student who has the speech pathology."
+   * *Value:* To serve as a therapeutic social robot for autistic children overwhelmed with stimulation, allowing therapists or instructors to drive, interact, and engage students with speech pathology.
+
+2. **Project lead**
+   * *Derivation:* Cory introduces the project during the discussion section, stating, "I  build robots and teach people how to build robots and today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while," and later says, "I joined the project to bring the price point down to $150." and "I'm developing an open source software stack for robotics."
+   * *Value:* Cory.
+
+3. **Current robot cost**
+   * *Derivation:* Cory states, "There are about 100 of these out in the wild and their price point is $700."
+   * *Value:* $700.
+
+4. **Target cost**
+   * *Derivation:* Cory states, "I joined the project to bring the price point down to $150."
+   * *Value:* $150.
+
+5. **Technology stack**
+   * *Derivation:* The notes mention that "it requires an iPod Touch in the back" and that Cory is "developing an open source software stack for robotics." The notes also describe it conceptually as "just a pair of wheels, a battery, a brain, and a bunch of other stuff we play with all the time."
+   * *Value:* An open-source software stack for robotics, utilizing an iPod Touch in the back, a pair of wheels, a battery, and a brain/parts.
+
+6. **Robotics group meeting day and time**
+   * *Derivation:* Cory mentions talking about "the robotics meeting specifically," but the notes **do not contain** any specific day or time for when the robotics group meets. 
+   * *Value:* Not stated in the meeting notes.
+
+7. **Distribution/manufacturing plan**
+   * *Derivation:* Cory mentions that "There are manufacturers who are interested in manufacturing things. And this stuff can be manufactured in a makerspace." They also pose the question: "How can we go about making a package that can be sold at Noisebridge, manufactured here, and all the money goes to Noisebridge for parts and materials?" Trent suggests holding workshops where people pay for the kit, work with someone knowledgeable to build it, and put things in to sell with proceeds donated to Noisebridge. 
+   * *Value:* Manufacturing the parts/kits within a makerspace (like Noisebridge) with the help of interested manufacturers, and distributing them via workshops where participants pay for the kit and proceeds/money go to Noisebridge for parts and materials.

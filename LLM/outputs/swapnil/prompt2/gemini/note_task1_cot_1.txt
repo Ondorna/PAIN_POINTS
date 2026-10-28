@@ -1,0 +1,41 @@
+**Step-by-Step Analysis and Derivations:**
+
+1. **Project purpose:**
+   * *Derivation:* In the notes, Cory presents the project and states, "This is a robot designed to be a therapeutic social robot for autistic children who are overwhelmed with stimulation. This little guy allows a therapist or instructor using a limited vocabulary to drive and interact and actually engage the student who has the speech pathology."
+   * *Result:* To serve as a therapeutic social robot for autistic children experiencing sensory overload, allowing therapists or instructors to drive, interact, and engage students with speech pathology using a limited vocabulary.
+
+2. **Project lead:**
+   * *Derivation:* Cory introduces the project by saying, "Cory: I build robots and teach people how to build robots and today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while... I joined the project to bring the price point down to $150." He is the one presenting the project details and software development efforts for it.
+   * *Result:* Cory.
+
+3. **Current robot cost:**
+   * *Derivation:* Cory explicitly states, "There are about 100 of these out in the wild and their price point is $700." He notes that a large part of this cost is due to the iPod Touch in the back, which costs $350.
+   * *Result:* $700.
+
+4. **Target cost:**
+   * *Derivation:* Cory states, "I joined the project to bring the price point down to $150."
+   * *Result:* $150.
+
+5. **Technology stack:**
+   * *Derivation:* Cory mentions, "I'm developing an open source software stack for robotics." He also notes that the robot currently requires "an iPod Touch in the back, which is $350," and describes the physical build as "just a pair of wheels, a battery, a brain, and a bunch of other stuff we play with all the time." 
+   * *Result:* An open source software stack for robotics, powered by a "brain," battery, a pair of wheels, and utilizing an iPod Touch in the back.
+
+6. **Robotics group meeting day and time:**
+   * *Derivation:* The meeting notes mention Cory talking about the "robotics meeting specifically," but **do not** contain any specific day or time for when the robotics group meets. 
+   * *Result:* Not stated in the meeting notes.
+
+7. **Distribution/manufacturing plan:**
+   * *Derivation:* Cory states that the creators "don't want to sell them, they don't want to make products, they want to open source it." He mentions, "We have manufacturers who are interested in manufacturing things. And this stuff can be manufactured in a makerspace." Furthermore, regarding selling/manufacturing at Noisebridge, Trent suggests, "A workshop might be one route. You can put things in there to sell and have the proceeds donated to Noisebridge." Cory discusses making a "kit of parts" that can be purchased, manufactured in a makerspace, and sold so that all the money goes to Noisebridge for parts and materials.
+   * *Result:* To keep the project open-source, create a "kit of parts" that can be manufactured by interested manufacturers and within makerspaces like Noisebridge, and potentially sold through workshops or at Noisebridge with all proceeds donated back to Noisebridge for parts and materials.
+
+---
+
+### **Project Update**
+
+* **Project Purpose:** To act as a therapeutic social robot for autistic children overwhelmed with stimulation, allowing a therapist or instructor to use a limited vocabulary to drive, interact, and engage students with speech pathology.
+* **Project Lead:** Cory
+* **Current Robot Cost:** $700 (driven partly by a $350 iPod Touch requirement)
+* **Target Cost:** $150
+* **Technology Stack:** An open-source software stack for robotics, a pair of wheels, a battery, a brain, and an iPod Touch.
+* **Robotics Group Meeting Day and Time:** Not stated in the meeting notes.
+* **Distribution/Manufacturing Plan:** Open-sourcing the design to create a modular "kit of parts" that can be produced by interested manufacturers and assembled/manufactured within makerspaces (such as Noisebridge). The kits could be sold via workshops or at Noisebridge, with all proceeds donated back to Noisebridge for parts and materials.

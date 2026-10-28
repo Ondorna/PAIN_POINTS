@@ -1,0 +1,17 @@
+### Field-by-field derivation
+
+- **Project purpose:** Cory described an open-source robot intended as a therapeutic social tool for autistic children who are overwhelmed by stimulation. It lets a therapist or instructor interact with and engage a student using a limited vocabulary.
+- **Project lead:** Cory said he had recently joined the project and was developing its open-source software stack. The notes do not identify him as the project lead.
+- **Current robot cost:** Cory said the robot costs **$700**.
+- **Target cost:** Cory said he was working to bring the cost down to **$150**.
+- **Technology stack:** The robot currently requires an **iPod Touch** in its back, which Cory said costs **$350**. He is developing an **open-source software stack for robotics**. The notes do not specify further technical details.
+- **Robotics group meeting day and time:** Not stated in the notes.
+- **Distribution/manufacturing plan:** The project aims to be open source rather than sell products directly. Cory proposed making a kit that could be purchased, with interested manufacturers producing it and makerspaces able to manufacture components. He asked about making and selling a kit at Noisebridge, with proceeds supporting Noisebridge’s parts and materials. A workshop was also suggested as a possible way to build kits with participants.
+
+### Project update
+
+Cory is involved in an open-source robotics project for a therapeutic social robot designed to help autistic children who are overwhelmed by stimulation. The robot gives a therapist or instructor a way to interact with and engage a student using a limited vocabulary.
+
+The current robot costs about **$700**, and Cory is working to reduce the price to **$150**. A major cost is the **$350 iPod Touch** used in the robot. Cory is developing an open-source software stack, though the meeting notes do not give further details about the technology.
+
+The proposed approach is to make the project open source and develop a kit that can be manufactured by interested manufacturers or in makerspaces. Cory raised the possibility of producing and selling kits through Noisebridge, with proceeds going toward Noisebridge parts and materials; running a workshop was also suggested. The meeting notes do not specify the robotics group’s meeting day or time, or identify a project lead.

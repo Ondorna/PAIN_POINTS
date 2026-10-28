@@ -1,0 +1,41 @@
+**Step-by-Step Derivation and Reasoning for Each Field:**
+
+1. **Project purpose:**
+   * *Notes reference:* Cory states, "This is a robot designed to be a therapeutic social robot for autistic children who are overwhelmed with stimulation. This little guy allows a therapist or instructor using a limited vocabulary to drive and interact and actually engage the student who has the speech pathology."
+   * *Derivation:* The project's purpose is to act as a therapeutic social robot that helps therapists or instructors interact with and engage autistic children or students with speech pathology who are overwhelmed with stimulation.
+
+2. **Project lead:**
+   * *Notes reference:* Cory says, "I joined the project to bring the price point down to $150... I'm developing an open source software stack for robotics."
+   * *Derivation:* Cory is leading/driving the effort to lower the price and develop the open source software stack for the project at Noisebridge.
+
+3. **Current robot cost:**
+   * *Notes reference:* Cory states, "There are about 100 of these out in the wild and their price point is $700."
+   * *Derivation:* The current retail/wild price point mentioned is $700.
+
+4. **Target cost:**
+   * *Notes reference:* Cory states, "I joined the project to bring the price point down to $150."
+   * *Derivation:* The target price point is $150.
+
+5. **Technology stack:**
+   * *Notes reference:* Cory mentions, "One of the reasons it's so expensive is because it requires an iPod Touch in the back..." and "I'm developing an open source software stack for robotics. For me most robots are just a pair of wheels, a battery, a brain, and a bunch of other stuff we play with all the time."
+   * *Derivation:* The stack relies on an iPod Touch in the back, a pair of wheels, a battery, a brain, and a newly developed open-source software stack for robotics.
+
+6. **Robotics group meeting day and time:**
+   * *Notes reference:* Cory mentions the robotics meeting earlier in the notes ("today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while"), but looking through the entire text, the specific *day and time* of the robotics group meeting are never mentioned.
+   * *Derivation:* The meeting notes do *not* contain the day and time of the robotics group meeting. Therefore, the value is stated as not provided in the text.
+
+7. **Distribution/manufacturing plan:**
+   * *Notes reference:* Cory states, "They don't want to sell them, they don't want to make products, they want to open source it... and we have manufacturers who are interested in manufacturing things. And this stuff can be manufactured in a makerspace... How can we go about making a package that can be sold at Noisebridge, manufactured here, and all the money goes to Noisebridge for parts and materials?" Trent replies, "I've seen people in the past hold workshops and pay for the kit and work with someone knowledgeable to build it. A workshop might be one route. You can put things in there to sell and have the proceeds donated to Noisebridge."
+   * *Derivation:* The project is intended to be open-sourced with interested manufacturers. Locally, the plan discussed involves manufacturing/assembling kits in the makerspace (Noisebridge), potentially through workshops where people pay for the kit and build it with someone knowledgeable, with all proceeds/money going to Noisebridge for parts and materials.
+
+---
+
+### **Project Update**
+
+* **Project Purpose:** To serve as a therapeutic social robot designed to help therapists and instructors use a limited vocabulary to drive, interact with, and engage autistic children or students with speech pathologies who are overwhelmed with stimulation.
+* **Project Lead:** Cory
+* **Current Robot Cost:** $700
+* **Target Cost:** $150
+* **Technology Stack:** An iPod Touch in the back, a pair of wheels, a battery, a brain, and an open-source software stack for robotics.
+* **Robotics Group Meeting Day and Time:** Not specified in the meeting notes (the notes mention the robotics meeting/group exist and discuss a project within it, but do not state the specific day and time).
+* **Distribution/Manufacturing Plan:** Keep the design open source rather than a standard commercial product; utilize interested external manufacturers and manufacture/assemble kits locally in the makerspace. This can be achieved by holding workshops where participants pay for a kit, work with a knowledgeable person to build it, and have all proceeds donated to Noisebridge to cover parts and materials.

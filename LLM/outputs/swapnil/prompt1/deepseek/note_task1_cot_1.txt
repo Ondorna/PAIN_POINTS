@@ -1,0 +1,27 @@
+## Field-by-field extraction from the meeting notes
+
+| Field | Relevant statement(s) from notes | Derived value |
+|---|---|---|
+| **Project purpose** | “This is a robot designed to be a therapeutic social robot for autistic children who are overwhelmed with stimulation… allows a therapist or instructor using a limited vocabulary to drive and interact and actually engage the student who has the speech pathology.” | Therapeutic social robot for autistic children overwhelmed by stimulation, enabling therapist/instructor interaction with a student who has speech pathology. |
+| **Project lead** | Cory presented the project and said, “a project I've been involved in for a while,” “I've recently joined this group,” “I joined the project to bring the price point down to $150,” and “I'm developing an open source software stack for robotics.” | No formal lead title is recorded. **Cory** is the named project representative/contributor in the notes. |
+| **Current robot cost** | “their price point is $700.” Also: “it requires an iPod Touch in the back, which is $350.” | **$700** current price point. |
+| **Target cost** | “bring the price point down to $150.” | **$150** target cost. |
+| **Technology stack** | “I'm developing an open source software stack for robotics.” The robot “requires an iPod Touch in the back.” Notes do not list specific languages/frameworks. | **Open-source software stack for robotics**; existing design requires an **iPod Touch**. Detailed stack not specified in notes. |
+| **Robotics group meeting day and time** | No day or time is given in the notes. | **Not specified in the meeting notes.** |
+| **Distribution/manufacturing plan** | “They don't want to sell them, they don't want to make products, they want to open source it.” “The idea is to make a kit of parts… we have manufacturers who are interested in manufacturing things. And this stuff can be manufactured in a makerspace.” “a package that can be sold at Noisebridge, manufactured here, and all the money goes to Noisebridge for parts and materials.” Trent suggested “hold workshops and pay for the kit.” | Open-source the robot rather than sell it as a product; explore a purchasable kit-of-parts, interested manufacturers, makerspace/Noisebridge manufacturing, packages sold at Noisebridge with proceeds to Noisebridge, and possible workshop build sessions. |
+
+## Project Update
+
+**Project:** Therapeutic social robot for autistic children who are overwhelmed by stimulation, designed to let a therapist or instructor use limited vocabulary to drive and interact with a student who has speech pathology.
+
+**Project lead/representative:** Cory presented the project and described their involvement—joining the project to reduce cost and developing an open-source software stack. No formal lead title is recorded in the notes.
+
+**Cost:** Current robot price point is **$700**; target cost is **$150**. A major cost driver noted is the required **$350 iPod Touch**.
+
+**Technology stack:** The project is developing an **open-source software stack for robotics**. The current robot requires an **iPod Touch**. No specific programming languages, frameworks, or additional detailed hardware stack are listed in the meeting notes.
+
+**Robotics group meeting day/time:** **Not specified in the meeting notes.**
+
+**Distribution/manufacturing plan:** The project intends to **open source** the robot rather than sell it as a product. Proposed paths include a purchasable **kit of parts**, interested manufacturers, manufacturing in a makerspace/at Noisebridge, selling a package at Noisebridge with proceeds going to Noisebridge for parts and materials, and potentially running paid kit-building workshops.
+
+**Follow-up needed:** Confirm the actual project lead and the robotics group meeting day/time, since those are not recorded in the notes.

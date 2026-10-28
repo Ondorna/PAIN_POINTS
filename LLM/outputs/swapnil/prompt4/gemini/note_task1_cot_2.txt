@@ -1,0 +1,21 @@
+**Step-by-Step Derivation:**
+
+* **Project purpose:** Derived from Cory's statement: "This is a robot designed to be a therapeutic social robot for autistic children who are overwhelmed with stimulation. This little guy allows a therapist or instructor using a limited vocabulary to drive and interact and actually engage the student who has the speech pathology."
+* **Project lead:** Derived from Cory's statements: "today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while" and "I joined the project to bring the price point down to $150."
+* **Current robot cost:** Derived from Cory's statement: "There are about 100 of these out in the wild and their price point is $700."
+* **Target cost:** Derived from Cory's statement: "I joined the project to bring the price point down to $150."
+* **Technology stack:** Derived from Cory's statements: "One of the reasons it's so expensive is because it requires an iPod Touch in the back, which is $350" and "I'm developing an open source software stack for robotics."
+* **Robotics group meeting day and time:** The meeting notes mention Cory talking about the robotics meeting, but **do not** contain any information about the specific day or time of the robotics group meeting. Therefore, the value is noted as not specified in the meeting notes.
+* **Distribution/manufacturing plan:** Derived from Cory and Trent's discussion: "How can we go about making a package that can be sold at Noisebridge, manufactured here, and all the money goes to Noisebridge for parts and materials?" and Trent's response regarding holding workshops, paying for kits, manufacturing/selling items with proceeds donated to Noisebridge, and making a kit of parts where manufacturers are interested in manufacturing things.
+
+***
+
+**Project Update:**
+
+* **Project purpose:** A therapeutic social robot designed for autistic children who are overwhelmed with stimulation, allowing a therapist or instructor to drive, interact, and engage students with speech pathology using a limited vocabulary.
+* **Project lead:** Cory
+* **Current robot cost:** $700
+* **Target cost:** $150
+* **Technology stack:** Includes an iPod Touch (costing $350, which contributes to the current high price) and an open-source software stack for robotics currently being developed.
+* **Robotics group meeting day and time:** Not specified in the meeting notes.
+* **Distribution/manufacturing plan:** Develop a kit of parts that can be manufactured in a makerspace (with interested manufacturers), sold as packages/workshops at Noisebridge where people pay for the kit, and have all proceeds donated to Noisebridge for parts and materials.

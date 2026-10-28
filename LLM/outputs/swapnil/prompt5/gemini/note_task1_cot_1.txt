@@ -1,0 +1,41 @@
+**Step-by-Step Derivation of Project Details:**
+
+1. **Project purpose:**
+   * *Derivation:* In the notes, Cory describes the robot ("Ro-Mee-Bo") as "designed to be a therapeutic social robot for autistic children who are overwhelmed with stimulation. This little guy allows a therapist or instructor using a limited vocabulary to drive and interact and actually engage the student who has the speech pathology."
+   * *Field Value:* A therapeutic social robot designed for autistic children overwhelmed with stimulation, allowing a therapist or instructor to drive, interact, and engage students with speech pathology using a limited vocabulary.
+
+2. **Project lead:**
+   * *Derivation:* Cory states, "I joined the project to bring the price point down to $150... I'm developing an open source software stack for robotics." While he is a contributor/leader driving this effort at Noisebridge, the notes do not explicitly title him as the sole "project lead" of the overarching external project, but he is the one presenting the initiative and development efforts at the meeting.
+   * *Field Value:* Cory (presented the project and is developing the open-source software stack).
+
+3. **Current robot cost:**
+   * *Derivation:* Cory states, "There are about 100 of these out in the wild and their price point is $700."
+   * *Field Value:* $700
+
+4. **Target cost:**
+   * *Derivation:* Cory states, "I joined the project to bring the price point down to $150."
+   * *Field Value:* $150
+
+5. **Technology stack:**
+   * *Derivation:* Cory mentions that the robot requires an iPod Touch in the back (costing $350) and notes, "I'm developing an open source software stack for robotics." He also describes the general hardware anatomy: "a pair of wheels, a battery, a brain, and a bunch of other stuff".
+   * *Field Value:* Includes an iPod Touch in the back and an open-source software stack for robotics (running on a hardware base featuring a pair of wheels, a battery, and a brain).
+
+6. **Robotics group meeting day and time:**
+   * *Derivation:* Cory mentions, "...today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while." However, looking through the rest of the text, the specific day and time of the robotics group meeting are never stated.
+   * *Field Value:* Not specified in the meeting notes.
+
+7. **Distribution/manufacturing plan:**
+   * *Derivation:* Cory states, "...we have manufacturers who are interested in manufacturing things. And this stuff can be manufactured in a makerspace... How can we go about making a package that can be sold at Noisebridge, manufactured here, and all the money goes to Noisebridge for parts and materials? We're trying to give the robotics group something to start playing with and iterating on." Trent responds regarding workshops: "I've seen people in the past hold workshops and pay for the kit and work with someone knowledgeable to build it. A workshop might be one route. You can put things in there to sell and have the proceeds donated to Noisebridge."
+   * *Field Value:* Manufactured via interested manufacturers and/or within the makerspace, potentially distributed and built through workshops where people pay for the kit and work with someone knowledgeable, with proceeds/money going to Noisebridge for parts and materials.
+
+***
+
+### Completed Project Update
+
+* **Project purpose:** A therapeutic social robot designed for autistic children overwhelmed with stimulation, allowing a therapist or instructor to drive, interact, and engage students with speech pathology using a limited vocabulary.
+* **Project lead:** Cory
+* **Current robot cost:** $700
+* **Target cost:** $150
+* **Technology stack:** Utilizes an iPod Touch in the back and an open-source software stack for robotics (operating on a hardware base consisting of a pair of wheels, a battery, and a brain).
+* **Robotics group meeting day and time:** Not specified in the meeting notes.
+* **Distribution/manufacturing plan:** To be manufactured via interested manufacturers and potentially inside the makerspace, with a plan to package and sell kits (possibly through workshops where builders pay for the kit and work with a knowledgeable person) so that all proceeds go to Noisebridge for parts and materials.

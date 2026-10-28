@@ -1,0 +1,9 @@
+## Robotics Project Update
+
+- **Purpose:** Develop an open-source robotics platform, using the therapeutic robot Ro-Mee-Bo as an example, to make robotics more accessible and help robotics-group members learn and build.
+- **Project lead:** Cory, who recently joined the project.
+- **Current robot cost:** About **$700**.
+- **Target cost:** About **$150**.
+- **Technology stack:** Cory is developing an **open-source software stack for robotics**. The robot is described generally as a pair of wheels, a battery, a brain, and other components. The current design uses an iPod Touch, which costs about $350.
+- **Robotics group meeting day and time:** Not stated in the notes.
+- **Distribution/manufacturing plan:** Create a kit of parts that people can purchase and build on or through a makerspace. Manufacturers have expressed interest, and some parts could be made at Noisebridge. One possibility discussed was selling kits or holding workshops, with proceeds donated to Noisebridge for parts and materials.

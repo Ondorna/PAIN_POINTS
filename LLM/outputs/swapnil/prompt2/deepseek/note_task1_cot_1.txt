@@ -1,0 +1,34 @@
+## Step-by-step source check
+
+- **Project purpose:** Cory describes a small fuzzy therapeutic social robot for autistic children who are overwhelmed by stimulation. A therapist/instructor can use a limited vocabulary to drive and interact with it to engage a student with speech pathology. Cory also describes developing an open-source robotics software stack and lowering the cost.
+- **Project lead:** The notes do **not** explicitly name a project lead. Cory is the person presenting the robotics project, says he joined the project, and is developing an open-source software stack. So Cory is the reporting contributor, but no formal lead is stated.
+- **Current robot cost:** The notes state the price point is **$700**.
+- **Target cost:** Cory says he joined the project to bring the price point down to **$150**.
+- **Technology stack:** The notes describe an **open-source software stack for robotics**. The robot is described as having wheels, a battery, a brain, and other parts, and it requires an **iPod Touch** in the back, costing $350. No specific languages, frameworks, or platforms are named.
+- **Robotics group meeting day and time:** The notes refer to the robotics group and a robotics meeting, but they do **not** state a meeting day or time.
+- **Distribution/manufacturing plan:** The project does not want to sell robots or make products; it wants to open source the effort. There are interested manufacturers, and the work can be manufactured in a makerspace. The idea is to make a kit of parts that can be purchased, potentially sold at Noisebridge and manufactured there, with money going to Noisebridge for parts/materials. Trent suggests workshops where people pay for a kit and build it with someone knowledgeable, with proceeds donated to Noisebridge.
+
+## Project Update
+
+**Project:** Robotics project / “Ro-Mee-Bo (?)” therapeutic social robot
+
+**Project purpose:**  
+Build a therapeutic social robot for autistic children who are overwhelmed by stimulation. A therapist or instructor can use a limited vocabulary to drive and interact with the robot to engage a student with speech pathology. The broader effort includes developing an open-source robotics software stack, lowering cost, and giving the robotics group a kit to build, play with, and iterate on.
+
+**Project lead:**  
+Not explicitly stated in the notes. **Cory** is the presenter/contributor reporting on the project and says he joined it to bring the price down and is developing an open-source software stack.
+
+**Current robot cost:**  
+**$700**
+
+**Target cost:**  
+**$150**
+
+**Technology stack:**  
+**Open-source software stack for robotics.** The robot requires an **iPod Touch** in the back, which costs **$350**. The notes do not name specific languages, frameworks, or other technical components.
+
+**Robotics group meeting day and time:**  
+**Not specified in the meeting notes.**
+
+**Distribution/manufacturing plan:**  
+The project wants to **open source** the robot rather than sell it as a product. Interested manufacturers exist, and the robot/kit can be manufactured in a makerspace. The idea is to create a **kit of parts** that can be purchased, potentially sold at Noisebridge and manufactured there, with money going to Noisebridge for parts and materials. Trent suggested running workshops where people pay for a kit and build it with a knowledgeable person, with proceeds donated to Noisebridge.

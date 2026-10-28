@@ -1,0 +1,36 @@
+**Project:** Ro-Mee-Bo (spelling marked uncertain in the notes as “Ro-Mee-Bo (?)”)
+
+**Project purpose:**  
+A therapeutic social robot for autistic children who are overwhelmed with stimulation. It lets a therapist or instructor with a limited vocabulary drive and interact with the robot to engage a student with speech pathology. The project also aims to make the robot more affordable and open source.
+
+*Evidence:* Cory described the robot as a “therapeutic social robot for autistic children who are overwhelmed with stimulation” and explained its use by therapists/instructors to engage students with speech pathology.
+
+**Project lead:**  
+Not explicitly named. Cory presented the update and said he had recently joined the project and was developing an open-source software stack; the notes do not identify a formal project lead.
+
+*Evidence:* Cory said, “I’ve recently joined this group” and “I’m developing an open source software stack for robotics.” No formal lead title is given.
+
+**Current robot cost:**  
+$700.
+
+*Evidence:* The notes state the robot’s “price point is $700.” It also notes that an iPod Touch in the back costs $350 and is one reason the robot is expensive.
+
+**Target cost:**  
+$150.
+
+*Evidence:* Cory said, “I joined the project to bring the price point down to $150.”
+
+**Technology stack:**  
+Not fully specified. The notes mention an “open source software stack for robotics,” current use of an iPod Touch in the back, and general robot components described as “a pair of wheels, a battery, a brain, and a bunch of other stuff.” No specific programming languages, frameworks, or hardware platforms beyond the iPod Touch are named.
+
+*Evidence:* Cory said he is developing an open-source software stack for robotics and described the robot generally as wheels, battery, brain, and other parts. The notes specifically identify the iPod Touch as a current component.
+
+**Robotics group meeting day and time:**  
+Not stated in the meeting notes. The notes mention the robotics group/meeting but provide no day or time.
+
+*Evidence:* Cory referred to “the robotics meeting” and “the robotics group,” but no schedule is listed.
+
+**Distribution/manufacturing plan:**  
+The project does not want to sell the robots or make products in the usual commercial sense; it wants to open source the robot. The idea is to make a kit of parts that can be purchased. Interested manufacturers exist, and the parts could be manufactured in a makerspace. There is also discussion of making a package that could be sold at Noisebridge, manufactured there, with money going to Noisebridge for parts and materials. Trent suggested a workshop model where people pay for a kit and build it with someone knowledgeable, with proceeds donated to Noisebridge.
+
+*Evidence:* Cory said the project does not want to sell or make products and wants to open source it; he described a kit-of-parts idea, interested manufacturers, makerspace manufacturing, and possible sales at Noisebridge with proceeds to Noisebridge. Trent suggested workshops and having proceeds donated to Noisebridge.

@@ -1,0 +1,21 @@
+### Field derivation
+
+- **Project purpose:** Cory described an open-source robotics project centered on a therapeutic social robot for autistic children who may be overwhelmed by stimulation. The robot helps a therapist or instructor engage a student using a limited vocabulary.
+- **Project lead:** Cory said he had joined the project and was developing an open-source software stack for robotics. The notes do not explicitly identify him as the project lead, so that role cannot be confirmed.
+- **Current robot cost:** Cory said the robot’s price point is $700.
+- **Target cost:** Cory said he joined the project to bring the price point down to $150.
+- **Technology stack:** Cory said he is developing an open-source software stack for robotics. The notes do not name specific software, hardware platforms, or programming languages.
+- **Robotics group meeting day and time:** The notes refer to a robotics group but give no meeting day or time.
+- **Distribution/manufacturing plan:** Cory proposed a kit that could be purchased and manufactured in a makerspace, with interested manufacturers available. He asked how to make a package that could be sold at Noisebridge and manufactured there, with proceeds going to Noisebridge for parts and materials. Trent suggested a workshop as one possible route, with kits paid for by participants and proceeds from items sold donated to Noisebridge.
+
+### Project update
+
+| Field | Update |
+|---|---|
+| **Project purpose** | Develop an open-source therapeutic social robot to help therapists or instructors engage autistic children who may be overwhelmed by stimulation. |
+| **Project lead** | Not specified in the meeting notes. Cory is involved in the project and is developing its open-source robotics software stack, but the notes do not explicitly name a project lead. |
+| **Current robot cost** | $700 |
+| **Target cost** | $150 |
+| **Technology stack** | An open-source robotics software stack is under development. Specific technologies are not specified in the meeting notes. |
+| **Robotics group meeting day and time** | Not specified in the meeting notes. |
+| **Distribution/manufacturing plan** | Proposed plan: create a kit that can be purchased and manufactured in a makerspace, potentially at Noisebridge, with proceeds supporting Noisebridge’s parts and materials. Interested manufacturers have expressed interest. A workshop was also suggested as a possible way to build kits. The final plan is not specified in the meeting notes. |

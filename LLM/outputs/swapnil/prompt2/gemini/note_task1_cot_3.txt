@@ -1,0 +1,41 @@
+### Step-by-Step Analysis and Derivation
+
+*   **Project purpose:**
+    *   *Meeting Notes Analysis:* Cory states, "This is a robot designed to be a therapeutic social robot for autistic children who are overwhelmed with stimulation. This little guy allows a therapist or instructor using a limited vocabulary to drive and interact and actually engage the student who has the speech pathology."
+    *   *Derivation:* The purpose is to provide a therapeutic social robot to assist therapists or instructors in engaging autistic children with speech pathology who are overwhelmed with stimulation.
+
+*   **Project lead:**
+    *   *Meeting Notes Analysis:* Cory introduces the project by saying, "Cory: I build robots and teach people how to build robots and today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while," and later elaborates, "I joined the project to bring the price point down to $150... I'm developing an open source software stack for robotics."
+    *   *Derivation:* Cory is leading/presenting the project updates and development efforts for the robotics group at Noisebridge.
+
+*   **Current robot cost:**
+    *   *Meeting Notes Analysis:* Cory mentions, "There are about 100 of these out in the wild and their price point is $700." He also explains part of the expense: "...it requires an iPod Touch in the back, which is $350."
+    *   *Derivation:* The current price point is explicitly stated as $700.
+
+*   **Target cost:**
+    *   *Meeting Notes Analysis:* Cory states, "I joined the project to bring the price point down to $150."
+    *   *Derivation:* The target cost is explicitly stated as $150.
+
+*   **Technology stack:**
+    *   *Meeting Notes Analysis:* Cory mentions, "it requires an iPod Touch in the back..." and "I'm developing an open source software stack for robotics." He also describes the physical components generally: "For me most robots are just a pair of wheels, a battery, a brain, and a bunch of other stuff we play with all the time."
+    *   *Derivation:* The notes explicitly mention an iPod Touch component and an "open source software stack for robotics" being developed, alongside basic hardware like a pair of wheels, a battery, and a brain. Specific software languages or frameworks beyond this are *not* provided in the text.
+
+*   **Robotics group meeting day and time:**
+    *   *Meeting Notes Analysis:* Cory mentions "today I'm going to be talking about the robotics meeting specifically," but the notes do *not* state any specific day or time for when the robotics group regularly meets.
+    *   *Derivation:* The meeting notes contain no information regarding the day and time of the robotics group meeting.
+
+*   **Distribution/manufacturing plan:**
+    *   *Meeting Notes Analysis:* Cory notes, "...we have manufacturers who are interested in manufacturing things. And this stuff can be manufactured in a makerspace... How can we go about making a package that can be sold at Noisebridge, manufactured here, and all the money goes to Noisebridge for parts and materials?" Trent suggests holding workshops where people pay for the kit and work with someone knowledgeable to build it, and selling items with proceeds donated to Noisebridge.
+    *   *Derivation:* The plan involves manufacturing parts through interested manufacturers and/or within the makerspace (Noisebridge), offering kits/packages to be built via workshops, selling them, and donating all proceeds back to Noisebridge for parts and materials.
+
+***
+
+### Project Update
+
+*   **Project Purpose:** To serve as a therapeutic social robot for autistic children who are overwhelmed with stimulation, allowing therapists or instructors using a limited vocabulary to drive, interact, and engage students with speech pathology.
+*   **Project Lead:** Cory (working with the robotics group).
+*   **Current Robot Cost:** $700 (which includes a $350 iPod Touch component).
+*   **Target Cost:** $150.
+*   **Technology Stack:** An iPod Touch (used in the back), an open-source software stack for robotics currently under development, a pair of wheels, a battery, and a brain. (Note: The meeting notes do not specify any other technical frameworks or programming languages).
+*   **Robotics Group Meeting Day and Time:** Not stated in the meeting notes.
+*   **Distribution/Manufacturing Plan:** To create a kit of parts manufactured via interested manufacturers and/or locally within the Noisebridge makerspace. The finished packages can be sold through workshops where participants build them with knowledgeable guidance, with all proceeds donated back to Noisebridge to cover parts and materials.

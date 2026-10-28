@@ -1,0 +1,904 @@
+{
+  "prompt1/openai/note_task1_1.txt": {
+    "sha256": "3b234388ee4f268e00af70b97f7458fe815788b03b049bb5d022ee33e58ffe57",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory joined the project and is developing its open-source software stack.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/openai/note_task1_2.txt": {
+    "sha256": "060a410f383cac24bf08af8f151747633d85d426da521d174b4bb3aa98a68810",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory, who recently joined the project.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/openai/note_task1_3.txt": {
+    "sha256": "174658fc7ecf74f294a916dd87e57a5566aeff6b2c04af58d42c904df586840d",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory, who recently joined the project.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/openai/note_task1_cot_1.txt": {
+    "sha256": "67b4589f394927539b32b76b56f87fda048b7d31abee9fede5afa3a89835a229",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Cory said he had recently joined the project and was developing its software stack. The notes do not identify him as the project lead.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "- **Project lead:** Cory said he had recently joined the project and was developing its software stack. The notes do not identify him as the project lead."
+  },
+  "prompt1/openai/note_task1_cot_2.txt": {
+    "sha256": "5a7bca580f920f1068ac788d1efdc495f3a8af3d937c7d70b1f3ed909e371b64",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Cory said he had recently joined the project and was developing its open-source software stack. The notes don’t identify him as the project lead.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/openai/note_task1_cot_3.txt": {
+    "sha256": "3ab969e266174917a857e25019c5c850b9a3e4145d11ade35718e216fcede528",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Cory said he had recently joined the project and was developing its open-source software stack. The notes do not identify him as the project lead.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/deepseek/note_task1_1.txt": {
+    "sha256": "ce63a9cc09374d9eefeed7a28ff419462de342fa2bf3df4ca3c19947b5272f0d",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "**Project lead:**  \nCory presented the update and said he recently joined the group and is developing an open source software stack for robotics. The notes do not explicitly name a formal project lead.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/deepseek/note_task1_2.txt": {
+    "sha256": "3c280d8c32ba2bcd9814308d19d4bce284bd79acd907bfd9886713fc63d06d24",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "**Project lead:**  \nNot explicitly identified in the meeting notes. **Cory** presented/described the project, said they recently joined the group, and is developing an open source software stack for robotics.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/deepseek/note_task1_3.txt": {
+    "sha256": "2adceb2bf00eff499822015d48577e616c6da67ea3dca0ec60f705e4c661d6b6",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Not explicitly identified in the notes. Cory presented the update and said they recently joined the project.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/deepseek/note_task1_cot_1.txt": {
+    "sha256": "e1901f88aeac23e66b15f02886b10d77fc923f04c232edeba75dbeeef7e1d730",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "| **Project lead** | Cory presented the project and said, “a project I've been involved in for a while,” “I've recently joined this group,” “I joined the project to bring the price point down to $150,” and “I'm developing an open source software stack for robotics.” | No formal lead title is recorded. **Cory** is the named project representative/contributor in the notes. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "| **Project lead** | Cory presented the project and said, “a project I've been involved in for a while,” “I've recently joined this group,” “I joined the project to bring the price point down to $150,” and “I'm developing an open source software stack for robotics.” | No formal lead title is recorded. **Cory** is the named project representative/contributor in the notes. |\n\n**Project lead/representative:** Cory presented the project and described their involvement—joining the project to reduce cost and developing an open-source software stack. No formal lead title is recorded in the notes."
+  },
+  "prompt1/deepseek/note_task1_cot_2.txt": {
+    "sha256": "111113670bab733b57948a7dc856219664df0fa27c744d6bfafff9060d8c3b02",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "**Project lead:** Cory presented and described involvement in the project. The meeting notes do not explicitly identify a project lead.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/deepseek/note_task1_cot_3.txt": {
+    "sha256": "b8a71979ddd6b9eddb82e167cff04766ddcb3ec25f45d1c272db523f2cbb07d0",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "**Project lead:** Cory is the presenter/developer named in the notes and says he is developing an open source software stack for robotics. A formal project lead is not explicitly stated.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/gemini/note_task1_1.txt": {
+    "sha256": "a34ee83c12b0f52d5f1a2a6f7b9ff33319ebecf61358b8d0112ad73746b56e39",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project Lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/gemini/note_task1_2.txt": {
+    "sha256": "3dcc0ad07f2e10f784763a0e3483deaf7a0bc0970174c0e8ce831fbd2f359de2",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project Lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/gemini/note_task1_3.txt": {
+    "sha256": "d94eaef3878a61167df66b4659dfbc4b9b59c2aecd7806af4dc365e0ef6d2ba1",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project Lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/gemini/note_task1_cot_1.txt": {
+    "sha256": "4c69f56a0cd96998bb5810c45db924bda7273afa7bde261a197d602a06af9088",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project Lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "B",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "2. **Project lead**: \n   - *Meeting notes statement:* \"Cory: ...today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while... I joined the project to bring the price point down to $150.\"\n   - *Derivation:* Cory is leading/involved in bringing down the price and presenting the project.\n\n* **Project Lead:** Cory"
+  },
+  "prompt1/gemini/note_task1_cot_2.txt": {
+    "sha256": "fb672344c13cdbb56c520cea472db5f2fc6a10737c94e29f7fefa937f800c7d3",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project Lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt1/gemini/note_task1_cot_3.txt": {
+    "sha256": "810ab3573d290e6121c5346927acecd532da9a5a77519b9f65c617f87ef853fe",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project Lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/openai/note_task1_1.txt": {
+    "sha256": "4c69fdf3b5f79b13e6ede447a806d7b2cbd0b4c8b6d3072f13601e241d15fd92",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory, who recently joined the project.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/openai/note_task1_2.txt": {
+    "sha256": "053f9fdf08fd266b039a89c5f203ee520b600542a8e6b5fe79d0acfe09f6ed51",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory, who recently joined the project.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/openai/note_task1_3.txt": {
+    "sha256": "6f1519ccb79552d1fda3a193cba294496822ba29b90b056425dc754876c5fe85",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory, who recently joined the project.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/openai/note_task1_cot_1.txt": {
+    "sha256": "60c5b65209582abfa9305de1c823bbac83c5085ab9b2cce58d78bbd5efb3cec7",
+    "status": "Partially correct",
+    "note": "Acknowledges the unconfirmed role but still offers Cory as the lead or infers leadership.",
+    "evidence": "| **Project lead** | **Cory** appears to be leading or contributing to the project: he said he had recently joined it and was developing the open-source software stack. The notes do not explicitly assign him the title of project lead. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "C",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "| **Project lead** | **Cory** appears to be leading or contributing to the project: he said he had recently joined it and was developing the open-source software stack. The notes do not explicitly assign him the title of project lead. |"
+  },
+  "prompt2/openai/note_task1_cot_2.txt": {
+    "sha256": "743b2351bcb9957d1d6d0775dd48d315333df28b288e0d3db345069e2ad81feb",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Cory is the person describing the project and says he has joined it and is developing its open-source software stack. The notes do not explicitly assign him the formal title of project lead.\n  - *Derivation:* Cory says, “I joined the project” and “I’m developing” the software stack.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/openai/note_task1_cot_3.txt": {
+    "sha256": "545646a49006ef92c3ee5e92a58575ae2caad5a0265b867c602c023e6ae6d63c",
+    "status": "Partially correct",
+    "note": "Acknowledges the unconfirmed role but still offers Cory as the lead or infers leadership.",
+    "evidence": "- **Project lead:** Cory. *He said he had joined the project and was developing its software stack. The notes do not explicitly assign him the formal title of project lead.*",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/deepseek/note_task1_1.txt": {
+    "sha256": "6636e5553720a4b60d628ef24957c70b08fc8a34d76d72fb3156f54dba5e8edf",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "**Project lead:**  \nCory presented the project, said they recently joined the group, and are developing an open source software stack for robotics. The notes do not explicitly name a formal “project lead.”",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/deepseek/note_task1_2.txt": {
+    "sha256": "5ba076af2118c3ebcf903c71395517a0286c91b6d99cb5e893c3ceec96c77653",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Cory presented/discussed the project. The notes do not explicitly name a formal project lead. Cory said they recently joined the group and are developing an open source software stack for robotics.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/deepseek/note_task1_3.txt": {
+    "sha256": "1853d4bbe4730cae2b391cf84e11025c219269fa1e3cfd62c2098bcf96f41401",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Cory presented the update, recently joined the group, and is developing an open-source software stack for robotics. The notes do not explicitly name a formal overall project lead.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/deepseek/note_task1_cot_1.txt": {
+    "sha256": "26bc7f70aa1d930d231d21a9a30432b303c894b129641d789ffcb376167e5cd1",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "**Project lead:**  \nNot explicitly stated in the notes. **Cory** is the presenter/contributor reporting on the project and says he joined it to bring the price down and is developing an open-source software stack.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/deepseek/note_task1_cot_2.txt": {
+    "sha256": "44d9bd9b93889f70bc7c44007ede6b462e63eaff7a54e394dd0df1aeabd64d16",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** The notes do not name one. Cory is the presenter and says he joined the project, but that does not establish him as lead.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "- **Project lead:** Not explicitly stated. Cory presented the update and said “I’ve recently joined this group” and “I joined the project,” but the notes do not identify a project lead.\n\n- **Project lead:** The notes do not name one. Cory is the presenter and says he joined the project, but that does not establish him as lead."
+  },
+  "prompt2/deepseek/note_task1_cot_3.txt": {
+    "sha256": "1338bd849a997f08757c6a738e44847c44e12b7e6cef5eae6f91ae30f38a6ca9",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "**Project lead:**  \nNot explicitly stated in the notes. Cory is the presenter and named contributor; Cory says they joined the project to lower the cost and are developing the open-source robotics software stack.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/gemini/note_task1_1.txt": {
+    "sha256": "751b4b0961cfc1d8d57d37f499ce8740c04502f86eeb93a42ef3afce8bbea660",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/gemini/note_task1_2.txt": {
+    "sha256": "109cfe24dc299d729e84dfb977b9d8ebeb898c009773ab49febb0c900a99cddc",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project Lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/gemini/note_task1_3.txt": {
+    "sha256": "c01ccec4f46dc5265609d3b7f1253dac9cb195addfa880a6389eb9edf97c66bd",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/gemini/note_task1_cot_1.txt": {
+    "sha256": "5ce30edeb8d86a60ce4b5f20fb76c61c982fa2b373c80f0884ec9a4b3cbe7755",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project Lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt2/gemini/note_task1_cot_2.txt": {
+    "sha256": "40890e8c5f5cf25e259c371d57457ad3c7a02132e391e1f4ca53c19692544b6f",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "2. **Project lead**\n   * *Derivation:* Cory introduces the project during the discussion section, stating, \"I  build robots and teach people how to build robots and today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while,\" and later says, \"I joined the project to bring the price point down to $150.\" and \"I'm developing an open source software stack for robotics.\"\n   * *Value:* Cory.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "B/C unresolved",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "2. **Project lead**\n   * *Derivation:* Cory introduces the project during the discussion section, stating, \"I  build robots and teach people how to build robots and today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while,\" and later says, \"I joined the project to bring the price point down to $150.\" and \"I'm developing an open source software stack for robotics.\"\n   * *Value:* Cory."
+  },
+  "prompt2/gemini/note_task1_cot_3.txt": {
+    "sha256": "345955ce7b5c4e764453030334f04dfb243f2ff4f9ca238606d2667592921fb2",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "*   **Project Lead:** Cory (working with the robotics group).",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/openai/note_task1_1.txt": {
+    "sha256": "cbca3bde0bde2159f42a32ef370d0b0c0985577cdcb3ccf00ce9cf53cb302dcb",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory, who recently joined the project and is developing its open-source software stack.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/openai/note_task1_2.txt": {
+    "sha256": "ecf50039218e2270293563a10ec7fee1302570470c831736c6ceeafdfc7fb5a8",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/openai/note_task1_3.txt": {
+    "sha256": "a664eca555ebdaaba83b59946b537654377e10668fe07eedbf2945d3f63eab05",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory, who recently joined the project.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/openai/note_task1_cot_1.txt": {
+    "sha256": "e8a34eacee21ef65f41a795c3fa388c9d3b764161ff2344d6da3c3a01e2f33d5",
+    "status": "Partially correct",
+    "note": "Acknowledges the unconfirmed role but still offers Cory as the lead or infers leadership.",
+    "evidence": "- **Project lead:** **Cory** is the person who introduced the project and said he had joined it and was developing its software stack. *The notes do not explicitly assign him the title of project lead, so this identifies him as the apparent lead from his described role.*",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "C",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "- **Project lead:** **Cory** is the person who introduced the project and said he had joined it and was developing its software stack. *The notes do not explicitly assign him the title of project lead, so this identifies him as the apparent lead from his described role.*"
+  },
+  "prompt3/openai/note_task1_cot_2.txt": {
+    "sha256": "ac1ae51c5a5f4add9d5af22bfc1749a3d359d021b898c3aaadae58ee8dbd7b6d",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "2. **Project lead**  \n   **Cory** is the person presenting the project and says he has joined the project. The notes do not explicitly assign him the formal role of project lead, so this identifies him as the apparent project contact, not a confirmed title.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/openai/note_task1_cot_3.txt": {
+    "sha256": "d40e01e9fe25b12d5c0659c2d3972d4ad2198c77c57f37831db6f3fdf0f5570c",
+    "status": "Partially correct",
+    "note": "Acknowledges the unconfirmed role but still offers Cory as the lead or infers leadership.",
+    "evidence": "- **Project lead:** Cory.  \n  *Derivation:* Cory said he had joined the project and was developing its software stack. The notes do not give a formal project-lead title, so Cory is identified as the person leading the described development work.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/deepseek/note_task1_1.txt": {
+    "sha256": "885e3c7ba9fe9180b3cb416a22b886f0506092353ffee3a38fea67d575370cba",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "| **Project lead** | Not explicitly stated in the notes. **Cory** presented the project, said he recently joined the group, and is developing an open-source software stack for robotics. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/deepseek/note_task1_2.txt": {
+    "sha256": "95542a723e20eaeb8fb08052fdf9b5f217c3f62a1af93f14c0cc3cc3682a0fe7",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Not explicitly identified in the meeting notes. Cory presented and described the project, said he had “recently joined this group,” and said he is developing an open-source software stack for robotics.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/deepseek/note_task1_3.txt": {
+    "sha256": "ade1aa500832cba711ae7e8d90e9f06d304d3a10cab2aefa456257c6607a29ca",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Not explicitly named in the meeting notes. Cory presented the project, said he recently joined the group/project, and is developing an open source software stack for robotics.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/deepseek/note_task1_cot_1.txt": {
+    "sha256": "e2580b09b9eff53de31f48de74ffb39f6e61733de1011f9221a8313bb9942410",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "| **Project lead** | **Not explicitly stated** in the meeting notes. Cory is the person presenting/discussing the project and says he “recently joined this group” and is “developing an open source software stack for robotics.” | The notes do not name a formal project lead. They identify Cory as the presenter and recent participant in the project/group, so Cory is the only named involved person, but not explicitly as lead. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "| **Project lead** | **Not explicitly stated** in the meeting notes. Cory is the person presenting/discussing the project and says he “recently joined this group” and is “developing an open source software stack for robotics.” | The notes do not name a formal project lead. They identify Cory as the presenter and recent participant in the project/group, so Cory is the only named involved person, but not explicitly as lead. |"
+  },
+  "prompt3/deepseek/note_task1_cot_2.txt": {
+    "sha256": "2d1ae86953ca005a7988a92a41bcb157b5c12e41cdffc659a62bd5bc61682f28",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "**Project lead:**  \nNot explicitly named. Cory presented the update and said he had recently joined the project and was developing an open-source software stack; the notes do not identify a formal project lead.\n\n*Evidence:* Cory said, “I’ve recently joined this group” and “I’m developing an open source software stack for robotics.” No formal lead title is given.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/deepseek/note_task1_cot_3.txt": {
+    "sha256": "b4f6f96c4fab9e71d712a5cdee7295531b67cbcb1e0900f39706ca7ed8fc6108",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "**Project lead:**  \nNot explicitly stated in the meeting notes. Cory is the presenter discussing the project and says he recently joined the group, but no formal project lead is named.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/gemini/note_task1_1.txt": {
+    "sha256": "caf184819025426d730addc32f92f838ae548f64a4f1075552f8499a43eb26d6",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "Project lead: Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/gemini/note_task1_2.txt": {
+    "sha256": "2d97bb4db2a84bf5cb8d44fc2c4a2dd36edf866c04270f5a88ca87820538e1a6",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "**Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/gemini/note_task1_3.txt": {
+    "sha256": "44a004a754d7497d1dbc6767bbeced5a75259023a2593dbb7637be231a695a46",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "Project lead: Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/gemini/note_task1_cot_1.txt": {
+    "sha256": "dd9d8d5a7f95813c6e1e5836042d9df03b6350c7bb26c6eb92a76fd7b7a89aec",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project Lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "B",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "2. **Project lead:**\n   * *Notes reference:* Cory says, \"I joined the project to bring the price point down to $150... I'm developing an open source software stack for robotics.\"\n   * *Derivation:* Cory is leading/driving the effort to lower the price and develop the open source software stack for the project at Noisebridge.\n\n* **Project Lead:** Cory"
+  },
+  "prompt3/gemini/note_task1_cot_2.txt": {
+    "sha256": "d6d6b0f63d001dc6a0a86730b0b57e58d27fd6defad6d740ca7e2ce6a8eab495",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt3/gemini/note_task1_cot_3.txt": {
+    "sha256": "daaaa1e1b1bc1f92f64d650a3e9f37e0152d96951f19b5a0ca729cf28ac328de",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "2. **Project lead:** \n   * *Derivation:* Cory introduces the project during the meeting, stating, \"today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while\" and \"I joined the project to bring the price point down to $150.\" \n   * *Value:* Cory.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/openai/note_task1_1.txt": {
+    "sha256": "9e01d4ba21a9d65acd4fb3efc532ba3051d9011f13c1922a25c9f8403d7d4f3d",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/openai/note_task1_2.txt": {
+    "sha256": "c13a5eab14db931e8ee77d78eced0de6dd4bd0722f7e09f014d4895fd9ddb989",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory, who recently joined the project.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/openai/note_task1_3.txt": {
+    "sha256": "076c5ef8cb736048649bb888dd7355a8b51a212eb5e01c147f56442d5453ffa7",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory is leading the effort described in the notes. He recently joined the robot project and is developing its software stack.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/openai/note_task1_cot_1.txt": {
+    "sha256": "49a6c77450b6cb4928cdca62301a43c308cf0e44999a588ac4c3065c4f8c842f",
+    "status": "Partially correct",
+    "note": "Acknowledges the unconfirmed role but still offers Cory as the lead or infers leadership.",
+    "evidence": "| **Project lead** | Cory. He said he had joined the robot project and was developing its open-source software stack. The notes do not explicitly identify him as the project’s formal lead. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/openai/note_task1_cot_2.txt": {
+    "sha256": "758547cb7504d2f58316dd708c933a1a4b5ccfce1d813b1f58e88304cfc5a7e2",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Cory is the person who described joining the project and developing its software stack. The notes do not explicitly assign him the formal title of project lead.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/openai/note_task1_cot_3.txt": {
+    "sha256": "edc04cae90134e436209e67c088cba2017b6bbe79061f4a1ca1cc45ac7c84470",
+    "status": "Partially correct",
+    "note": "Acknowledges the unconfirmed role but still offers Cory as the lead or infers leadership.",
+    "evidence": "- **Project lead:** Cory says he recently joined the robot project and is developing an open-source software stack for robotics. The notes do not identify a formal project lead, so Cory is the person most directly associated with leading its development.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "C",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "- **Project lead:** Cory says he recently joined the robot project and is developing an open-source software stack for robotics. The notes do not identify a formal project lead, so Cory is the person most directly associated with leading its development."
+  },
+  "prompt4/deepseek/note_task1_1.txt": {
+    "sha256": "68e65665f21c8f927cfa593bdfeba4263898d3c7db5c8541e5195269b53cdc84",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "| **Project lead** | Not explicitly named as “project lead” in the meeting notes. Cory presented the robotics project, recently joined the group, and is developing an open-source software stack for robotics. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/deepseek/note_task1_2.txt": {
+    "sha256": "31dcc5cd603cf9ab149c9deddd6ae3147785e8e51d92144f9cb7c273b62828ae",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Cory is the person presenting the project update in the meeting notes; no formal “project lead” title is stated.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/deepseek/note_task1_3.txt": {
+    "sha256": "47e1b000700eb2bc2fca04b5dc12aba1ca8667ab56b23f83e1a2708a007c544a",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Not specified in the meeting notes. Cory presented the robotics update and said he recently joined the project/group.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/deepseek/note_task1_cot_1.txt": {
+    "sha256": "32da1a51eb382264974e5fb06c0d292997e15a76b36c597d4173b3690adc3729",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "| **Project lead** | **Not explicitly stated in the notes.** Cory is the presenter/representative for the project and says he recently joined the group; the notes do not name a formal project lead. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/deepseek/note_task1_cot_2.txt": {
+    "sha256": "650ca049d508c7e066476aa3d02921a26b8152bb5acc5fb562ea209fc83c1d14",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "**Project lead:**  \nNot explicitly stated in the meeting notes. Cory is the named presenter/involved participant and says he is developing an open-source software stack for robotics, but the notes do not identify him as project lead.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "- **Project lead:** The notes do **not** explicitly identify a project lead. Cory is the named presenter and says he recently joined the project and is developing an open-source software stack, but the notes do not state that he is the lead.\n\n**Project lead:**  \nNot explicitly stated in the meeting notes. Cory is the named presenter/involved participant and says he is developing an open-source software stack for robotics, but the notes do not identify him as project lead."
+  },
+  "prompt4/deepseek/note_task1_cot_3.txt": {
+    "sha256": "24246cecc0bddc8a47ff5a15c6cbea7a5fbcf265f9bd8b3949546681f37b6e02",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "| **Project lead** | Not explicitly stated. Cory is the presenter/participant who says he recently joined the project and is developing an open-source software stack. The notes do not name a formal project lead. | Cory says: “I've recently joined this group” and “I'm developing an open source software stack for robotics.” No formal leader is named. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/gemini/note_task1_1.txt": {
+    "sha256": "9f8c2837aa50146b1c46b0622080f9aed1ebfd3e7f4a5986a457a5c34e7f9ab5",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/gemini/note_task1_2.txt": {
+    "sha256": "bae86265ae7fb6b6a2e06f4d384dff8b11bd46a6d6ef4d7ce12c456269981d19",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/gemini/note_task1_3.txt": {
+    "sha256": "a345a2a71ea5776d7f2ec76ad195a684f44d6c29d0358dfc94f166d0d948c2b6",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/gemini/note_task1_cot_1.txt": {
+    "sha256": "8c0f0b64f052f3b9620362789c78dda1f246d7fab4d1e9e8f675d5f257c948d9",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/gemini/note_task1_cot_2.txt": {
+    "sha256": "b00f26bc3a2af9eac449d2fd041b16f006297e318d95abdb9abeab74c057066f",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt4/gemini/note_task1_cot_3.txt": {
+    "sha256": "1f6d7894293553ecb5ba5ccb0b24191c28c3cd2fd24d3fdd74eb1a5b86063a28",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project lead:** Cory (who joined the project to develop an open-source software stack and bring down the price point).",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "B",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "2. **Project lead:** \n   * *Derivation from notes:* Cory mentions, \"I'm developing an open source software stack for robotics\" and \"I joined the project to bring the price point down to $150,\" indicating he is leading the effort within the group. No other lead is named for this specific project.\n\n* **Project lead:** Cory (who joined the project to develop an open-source software stack and bring down the price point)."
+  },
+  "prompt5/openai/note_task1_1.txt": {
+    "sha256": "280a1f73737e2b04f89051e22db680e9fbebfcdfb7987ff50d2093f79b402e71",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory (he said he had joined the project and was developing its software stack).",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/openai/note_task1_2.txt": {
+    "sha256": "128be015f32b5e77ac20d7ead6a3656356436661d0aa96b9b9757c48b7b6fb9a",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory, who has joined the project and is developing its open-source software stack.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/openai/note_task1_3.txt": {
+    "sha256": "46d8f41a565894cd4cdacc5592de71367c11987c8086a1835b23c8e81be7bc1e",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Cory is involved in the project and is developing its open-source software stack. The notes do not identify a formal project lead.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/openai/note_task1_cot_1.txt": {
+    "sha256": "4914077dc227ad53ab8245888abd7bb6bb468d07eed2c2a0a8e8ba1efaedffca",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "| **Project lead** | Not specified in the meeting notes. Cory is involved in the project and is developing its open-source robotics software stack, but the notes do not explicitly name a project lead. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "- **Project lead:** Cory said he had joined the project and was developing an open-source software stack for robotics. The notes do not explicitly identify him as the project lead, so that role cannot be confirmed.\n\n| **Project lead** | Not specified in the meeting notes. Cory is involved in the project and is developing its open-source robotics software stack, but the notes do not explicitly name a project lead. |"
+  },
+  "prompt5/openai/note_task1_cot_2.txt": {
+    "sha256": "e21fd814140a41437e3fc563f1e0a904afe0274c301398702b37f42e66971ba0",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "| **Project lead** | Cory is developing the project’s open-source software stack. A formal project lead is **not specified in the meeting notes**. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/openai/note_task1_cot_3.txt": {
+    "sha256": "e7190c6ffeea723c689506a90945dee744a4a27b120a37d2b2ee25f752800026",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "| **Project lead** | Not specified in the meeting notes. Cory is involved and is developing the software stack, but was not identified as project lead. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/deepseek/note_task1_1.txt": {
+    "sha256": "d146edb14bc83eb9e63243938130f0e5b947afe9e9dddfb6d0e19282b386754a",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Cory presented the project and said he recently joined it; the meeting notes do not explicitly designate a project lead.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/deepseek/note_task1_2.txt": {
+    "sha256": "2883750369b303182781fed2343b76a9ab35de26c99caf99a837faf381afb3ba",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "| **Project lead** | Not explicitly stated in the meeting notes. **Cory** presented/described the project and said he recently joined the group; no designated project lead is named. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/deepseek/note_task1_3.txt": {
+    "sha256": "7467c195ac305b5af3cc8611d6e893825f4280812e6e7275523ecc0cbe09357d",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "| Project lead | Cory presented the robotics project and said he recently joined the group and is developing an open source software stack for robotics. The meeting notes do not explicitly name a formal project lead. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/deepseek/note_task1_cot_1.txt": {
+    "sha256": "41d096fccf1402f3a6d95664de499d6f02c1dc04cbdb5423d6ca1430bbf0e859",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "| **Project lead** | **Not specified in the meeting notes.** Cory is the presenter and says he joined the project and is developing an open source software stack, but no formal project lead is named. |",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": [],
+    "breakpoint_evidence": "2. **Project lead**: The notes do **not** explicitly name a project lead. Cory is the person presenting the project and says, “I’ve recently joined this group,” “I joined the project to bring the price point down to $150,” and “I’m developing an open source software stack for robotics.” This shows involvement, but no formal lead is stated.\n\n| **Project lead** | **Not specified in the meeting notes.** Cory is the presenter and says he joined the project and is developing an open source software stack, but no formal project lead is named. |"
+  },
+  "prompt5/deepseek/note_task1_cot_2.txt": {
+    "sha256": "c4c5be617a7e54a6d888a4f43397e4b67926a0e765ca9244721054e04c6d43ea",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Not specified in the meeting notes; Cory is the presenter/involved contributor and says he is developing an open-source software stack. No formal project-lead designation is recorded.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/deepseek/note_task1_cot_3.txt": {
+    "sha256": "1d99d6c68a328c322e2a6d22e0109f5b05d00985c642c2e2926288844d9a45d9",
+    "status": "Correct",
+    "note": "The lead remains unknown; Cory’s participation or development work is background only.",
+    "evidence": "- **Project lead:** Not explicitly specified in the meeting notes. Cory presented the update and described his involvement, including developing an open source software stack for robotics; no formal lead is named.",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/gemini/note_task1_1.txt": {
+    "sha256": "9d45145c9d39041e26b563410acc7a03b468cc63e1d2f30afd62d460f47da3cb",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/gemini/note_task1_2.txt": {
+    "sha256": "3e4a002fbe90e4d177451610bc3fe19973fe62981badfc6de77e8d3681dfcc65",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "Project lead: Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/gemini/note_task1_3.txt": {
+    "sha256": "1a630c335661617bae4169a9d5eef1723aaa1e40cad04579c78a7f0db08da795",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "- **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Unlocatable",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/gemini/note_task1_cot_1.txt": {
+    "sha256": "87cef7b6977202f521f96526b8aa299d9bd57efbacbb92e09a76408ab22954d1",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "C",
+    "other_breakpoints": [
+      "D"
+    ],
+    "breakpoint_evidence": "2. **Project lead:**\n   * *Derivation:* Cory states, \"I joined the project to bring the price point down to $150... I'm developing an open source software stack for robotics.\" While he is a contributor/leader driving this effort at Noisebridge, the notes do not explicitly title him as the sole \"project lead\" of the overarching external project, but he is the one presenting the initiative and development efforts at the meeting.\n   * *Field Value:* Cory (presented the project and is developing the open-source software stack).\n\n* **Project lead:** Cory"
+  },
+  "prompt5/gemini/note_task1_cot_2.txt": {
+    "sha256": "494a31f02f46f2efa58ee8824c764c4a300b891a16c22958c15d1fb56807dc4e",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  },
+  "prompt5/gemini/note_task1_cot_3.txt": {
+    "sha256": "4ef541e59abb8cd38e8f2be6d86b87f25b71fe64d3f6856c3f7337300768f627",
+    "status": "Incorrect",
+    "note": "The final answer names Cory as lead without preserving uncertainty about that role.",
+    "evidence": "* **Project lead:** Cory",
+    "rubric": "cory_outcome_breakpoints_v3",
+    "first_breakpoint": "Pending analysis",
+    "other_breakpoints": [],
+    "breakpoint_evidence": ""
+  }
+}

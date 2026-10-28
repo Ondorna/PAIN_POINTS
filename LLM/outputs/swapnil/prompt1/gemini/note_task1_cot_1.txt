@@ -1,0 +1,41 @@
+Step-by-step derivation:
+
+1. **Project purpose**: 
+   - *Meeting notes statement:* "This is a robot designed to be a therapeutic social robot for autistic children who are overwhelmed with stimulation. This little guy allows a therapist or instructor using a limited vocabulary to drive and interact and actually engage the student who has the speech pathology."
+   - *Derivation:* The purpose is to serve as a therapeutic social robot for autistic children, allowing therapists or instructors to drive, interact, and engage students with speech pathology who are overwhelmed with stimulation.
+
+2. **Project lead**: 
+   - *Meeting notes statement:* "Cory: ...today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while... I joined the project to bring the price point down to $150."
+   - *Derivation:* Cory is leading/involved in bringing down the price and presenting the project.
+
+3. **Current robot cost**: 
+   - *Meeting notes statement:* "There are about 100 of these out in the wild and their price point is $700. One of the reasons it's so expensive is because it requires an iPod Touch in the back, which is $350."
+   - *Derivation:* The current price point is $700.
+
+4. **Target cost**: 
+   - *Meeting notes statement:* "I joined the project to bring the price point down to $150."
+   - *Derivation:* The target cost is $150.
+
+5. **Technology stack**: 
+   - *Meeting notes statement:* "One of the reasons it's so expensive is because it requires an iPod Touch in the back... I'm developing an open source software stack for robotics."
+   - *Derivation:* The tech stack includes an iPod Touch in the back and an open-source software stack for robotics.
+
+6. **Robotics group meeting day and time**: 
+   - *Meeting notes statement:* The meeting notes mention Cory talking about "the robotics meeting specifically," but do *not* state the specific day and time of the robotics group meeting.
+   - *Derivation:* Not specified in the meeting notes.
+
+7. **Distribution/manufacturing plan**: 
+   - *Meeting notes statement:* "The idea is to make a kit of parts -- one can be purchased, and we have manufacturers who are interested in manufacturing things. And this stuff can be manufactured in a makerspace... How can we go about making a package that can be sold at Noisebridge, manufactured here, and all the money goes to Noisebridge for parts and materials?" / "I've seen people in the past hold workshops and pay for the kit and work with someone knowledgeable to build it. A workshop might be one route. You can put things in there to sell and have the proceeds donated to Noisebridge."
+   - *Derivation:* The plan involves creating a kit of parts that can be manufactured at a makerspace/Noisebridge, possibly sold through workshops where people pay for the kit and work with someone knowledgeable, with proceeds donated back to Noisebridge. Interested manufacturers also exist.
+
+***
+
+### Project Update: Ro-Mee-Bo (Therapeutic Social Robot)
+
+* **Project Purpose:** To act as a therapeutic social robot for autistic children who are overwhelmed with stimulation, allowing a therapist or instructor using a limited vocabulary to drive, interact, and engage students with speech pathology.
+* **Project Lead:** Cory
+* **Current Robot Cost:** $700 (partially due to requiring a $350 iPod Touch in the back)
+* **Target Cost:** $150
+* **Technology Stack:** Utilizes an iPod Touch in the back and an open-source software stack for robotics.
+* **Robotics Group Meeting Day and Time:** Not specified in the meeting notes.
+* **Distribution/Manufacturing Plan:** Create a kit of parts to be manufactured in a makerspace (such as Noisebridge) or by interested manufacturers. Potential distribution routes include holding workshops where participants pay for kits and build them with knowledgeable guidance, with all proceeds donated to Noisebridge for parts and materials.

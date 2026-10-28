@@ -1,0 +1,253 @@
+[
+  {
+    "model": "openai",
+    "group": 1,
+    "sample": 1,
+    "variant": "cot",
+    "tag": "No clear breakpoint",
+    "title": "Qualification retained",
+    "analysis": "States that the notes do not identify a project lead and retains that uncertainty later. Mentioning Cory alone does not establish a reasoning error.",
+    "file": "prompt1/openai/note_task1_cot_1.txt",
+    "sha256": "67b4589f394927539b32b76b56f87fda048b7d31abee9fede5afa3a89835a229",
+    "evidence": [
+      "- **Project lead:** Cory said he had recently joined the project and was developing its software stack. The notes do not identify him as the project lead."
+    ],
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": []
+  },
+  {
+    "model": "openai",
+    "group": 2,
+    "sample": 1,
+    "variant": "cot",
+    "tag": "C",
+    "title": "Unconfirmed role, but leadership still suggested",
+    "analysis": "Says no project-lead title was assigned, yet describes Cory as appearing to lead. This is a qualified inference beyond the evidence.",
+    "file": "prompt2/openai/note_task1_cot_1.txt",
+    "sha256": "60c5b65209582abfa9305de1c823bbac83c5085ab9b2cce58d78bbd5efb3cec7",
+    "evidence": [
+      "| **Project lead** | **Cory** appears to be leading or contributing to the project: he said he had recently joined it and was developing the open-source software stack. The notes do not explicitly assign him the title of project lead. |"
+    ],
+    "first_breakpoint": "C",
+    "other_breakpoints": []
+  },
+  {
+    "model": "openai",
+    "group": 3,
+    "sample": 1,
+    "variant": "cot",
+    "tag": "C",
+    "title": "From unassigned title to apparent lead",
+    "analysis": "Acknowledges that the notes do not assign the title, then calls Cory the apparent lead. The evidence gap is recognized before the inference.",
+    "file": "prompt3/openai/note_task1_cot_1.txt",
+    "sha256": "e8a34eacee21ef65f41a795c3fa388c9d3b764161ff2344d6da3c3a01e2f33d5",
+    "evidence": [
+      "- **Project lead:** **Cory** is the person who introduced the project and said he had joined it and was developing its software stack. *The notes do not explicitly assign him the title of project lead, so this identifies him as the apparent lead from his described role.*"
+    ],
+    "first_breakpoint": "C",
+    "other_breakpoints": []
+  },
+  {
+    "model": "openai",
+    "group": 4,
+    "sample": 3,
+    "variant": "cot",
+    "tag": "C",
+    "title": "Missing role becomes leading development",
+    "analysis": "Says no formal lead is identified, then uses “so” to associate Cory with leading development. Contribution substitutes for the requested role.",
+    "file": "prompt4/openai/note_task1_cot_3.txt",
+    "sha256": "edc04cae90134e436209e67c088cba2017b6bbe79061f4a1ca1cc45ac7c84470",
+    "evidence": [
+      "- **Project lead:** Cory says he recently joined the robot project and is developing an open-source software stack for robotics. The notes do not identify a formal project lead, so Cory is the person most directly associated with leading its development."
+    ],
+    "first_breakpoint": "C",
+    "other_breakpoints": []
+  },
+  {
+    "model": "openai",
+    "group": 5,
+    "sample": 1,
+    "variant": "cot",
+    "tag": "No clear breakpoint",
+    "title": "Explanation and answer both preserve unknown",
+    "analysis": "The explanation says the role cannot be confirmed; the final field answers Not specified. A consistent comparison case.",
+    "file": "prompt5/openai/note_task1_cot_1.txt",
+    "sha256": "4914077dc227ad53ab8245888abd7bb6bb468d07eed2c2a0a8e8ba1efaedffca",
+    "evidence": [
+      "- **Project lead:** Cory said he had joined the project and was developing an open-source software stack for robotics. The notes do not explicitly identify him as the project lead, so that role cannot be confirmed.",
+      "| **Project lead** | Not specified in the meeting notes. Cory is involved in the project and is developing its open-source robotics software stack, but the notes do not explicitly name a project lead. |"
+    ],
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": []
+  },
+  {
+    "model": "deepseek",
+    "group": 1,
+    "sample": 1,
+    "variant": "cot",
+    "tag": "No clear breakpoint",
+    "title": "Roles merged, uncertainty retained",
+    "analysis": "The final heading merges Project lead/representative. This risks substituting a representative for a lead, but the response retains the missing-title caveat and asks for confirmation. No clear B/C/D is established.",
+    "file": "prompt1/deepseek/note_task1_cot_1.txt",
+    "sha256": "e1901f88aeac23e66b15f02886b10d77fc923f04c232edeba75dbeeef7e1d730",
+    "evidence": [
+      "| **Project lead** | Cory presented the project and said, “a project I've been involved in for a while,” “I've recently joined this group,” “I joined the project to bring the price point down to $150,” and “I'm developing an open source software stack for robotics.” | No formal lead title is recorded. **Cory** is the named project representative/contributor in the notes. |",
+      "**Project lead/representative:** Cory presented the project and described their involvement—joining the project to reduce cost and developing an open-source software stack. No formal lead title is recorded in the notes."
+    ],
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": []
+  },
+  {
+    "model": "deepseek",
+    "group": 2,
+    "sample": 2,
+    "variant": "cot",
+    "tag": "No clear breakpoint",
+    "title": "Participant distinguished from lead",
+    "analysis": "Explicitly says Cory is the presenter and joining the project does not establish him as lead.",
+    "file": "prompt2/deepseek/note_task1_cot_2.txt",
+    "sha256": "44d9bd9b93889f70bc7c44007ede6b462e63eaff7a54e394dd0df1aeabd64d16",
+    "evidence": [
+      "- **Project lead:** Not explicitly stated. Cory presented the update and said “I’ve recently joined this group” and “I joined the project,” but the notes do not identify a project lead.",
+      "- **Project lead:** The notes do not name one. Cory is the presenter and says he joined the project, but that does not establish him as lead."
+    ],
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": []
+  },
+  {
+    "model": "deepseek",
+    "group": 3,
+    "sample": 1,
+    "variant": "cot",
+    "tag": "No clear breakpoint",
+    "title": "Evidence supports participation only",
+    "analysis": "Answers Not explicitly stated and distinguishes presenter from lead.",
+    "file": "prompt3/deepseek/note_task1_cot_1.txt",
+    "sha256": "e2580b09b9eff53de31f48de74ffb39f6e61733de1011f9221a8313bb9942410",
+    "evidence": [
+      "| **Project lead** | **Not explicitly stated** in the meeting notes. Cory is the person presenting/discussing the project and says he “recently joined this group” and is “developing an open source software stack for robotics.” | The notes do not name a formal project lead. They identify Cory as the presenter and recent participant in the project/group, so Cory is the only named involved person, but not explicitly as lead. |"
+    ],
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": []
+  },
+  {
+    "model": "deepseek",
+    "group": 4,
+    "sample": 2,
+    "variant": "cot",
+    "tag": "No clear breakpoint",
+    "title": "Unknown retained under no-blank instruction",
+    "analysis": "Both explanation and final answer retain the missing role rather than turning software development into a lead appointment.",
+    "file": "prompt4/deepseek/note_task1_cot_2.txt",
+    "sha256": "650ca049d508c7e066476aa3d02921a26b8152bb5acc5fb562ea209fc83c1d14",
+    "evidence": [
+      "- **Project lead:** The notes do **not** explicitly identify a project lead. Cory is the named presenter and says he recently joined the project and is developing an open-source software stack, but the notes do not state that he is the lead.",
+      "**Project lead:**  \nNot explicitly stated in the meeting notes. Cory is the named presenter/involved participant and says he is developing an open-source software stack for robotics, but the notes do not identify him as project lead."
+    ],
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": []
+  },
+  {
+    "model": "deepseek",
+    "group": 5,
+    "sample": 1,
+    "variant": "cot",
+    "tag": "No clear breakpoint",
+    "title": "Missing-data safeguard and consistent answer",
+    "analysis": "Both explanation and final answer state that the lead is unspecified; Cory is background.",
+    "file": "prompt5/deepseek/note_task1_cot_1.txt",
+    "sha256": "41d096fccf1402f3a6d95664de499d6f02c1dc04cbdb5423d6ca1430bbf0e859",
+    "evidence": [
+      "2. **Project lead**: The notes do **not** explicitly name a project lead. Cory is the person presenting the project and says, “I’ve recently joined this group,” “I joined the project to bring the price point down to $150,” and “I’m developing an open source software stack for robotics.” This shows involvement, but no formal lead is stated.",
+      "| **Project lead** | **Not specified in the meeting notes.** Cory is the presenter and says he joined the project and is developing an open source software stack, but no formal project lead is named. |"
+    ],
+    "first_breakpoint": "No clear breakpoint",
+    "other_breakpoints": []
+  },
+  {
+    "model": "gemini",
+    "group": 1,
+    "sample": 1,
+    "variant": "cot",
+    "tag": "B",
+    "title": "Participation treated as leadership evidence",
+    "analysis": "Quotes participation and cost-reduction work, interprets them as leading/involved, and finally names Cory. The earliest visible issue is the sufficiency judgment.",
+    "file": "prompt1/gemini/note_task1_cot_1.txt",
+    "sha256": "4c69f56a0cd96998bb5810c45db924bda7273afa7bde261a197d602a06af9088",
+    "evidence": [
+      "2. **Project lead**: \n   - *Meeting notes statement:* \"Cory: ...today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while... I joined the project to bring the price point down to $150.\"\n   - *Derivation:* Cory is leading/involved in bringing down the price and presenting the project.",
+      "* **Project Lead:** Cory"
+    ],
+    "first_breakpoint": "B",
+    "other_breakpoints": []
+  },
+  {
+    "model": "gemini",
+    "group": 2,
+    "sample": 2,
+    "variant": "cot",
+    "tag": "B/C unresolved",
+    "title": "Participation evidence directly becomes Cory",
+    "analysis": "Lists presentation, participation, and software development, then gives Cory. It does not show whether the evidence gap was recognized, so B and C cannot be reliably separated.",
+    "file": "prompt2/gemini/note_task1_cot_2.txt",
+    "sha256": "40890e8c5f5cf25e259c371d57457ad3c7a02132e391e1f4ca53c19692544b6f",
+    "evidence": [
+      "2. **Project lead**\n   * *Derivation:* Cory introduces the project during the discussion section, stating, \"I  build robots and teach people how to build robots and today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while,\" and later says, \"I joined the project to bring the price point down to $150.\" and \"I'm developing an open source software stack for robotics.\"\n   * *Value:* Cory."
+    ],
+    "first_breakpoint": "B/C unresolved",
+    "other_breakpoints": []
+  },
+  {
+    "model": "gemini",
+    "group": 3,
+    "sample": 1,
+    "variant": "cot",
+    "tag": "B",
+    "title": "Development and cost reduction imply lead",
+    "analysis": "Interprets joining and developing software as leading/driving, then names Cory. Those facts do not establish the role.",
+    "file": "prompt3/gemini/note_task1_cot_1.txt",
+    "sha256": "dd9d8d5a7f95813c6e1e5836042d9df03b6350c7bb26c6eb92a76fd7b7a89aec",
+    "evidence": [
+      "2. **Project lead:**\n   * *Notes reference:* Cory says, \"I joined the project to bring the price point down to $150... I'm developing an open source software stack for robotics.\"\n   * *Derivation:* Cory is leading/driving the effort to lower the price and develop the open source software stack for the project at Noisebridge.",
+      "* **Project Lead:** Cory"
+    ],
+    "first_breakpoint": "B",
+    "other_breakpoints": []
+  },
+  {
+    "model": "gemini",
+    "group": 4,
+    "sample": 3,
+    "variant": "cot",
+    "tag": "B",
+    "title": "No other named lead does not establish Cory",
+    "analysis": "Infers leadership from software development and cost reduction and adds No other lead is named. This does not establish an appointment.",
+    "file": "prompt4/gemini/note_task1_cot_3.txt",
+    "sha256": "1f6d7894293553ecb5ba5ccb0b24191c28c3cd2fd24d3fdd74eb1a5b86063a28",
+    "evidence": [
+      "2. **Project lead:** \n   * *Derivation from notes:* Cory mentions, \"I'm developing an open source software stack for robotics\" and \"I joined the project to bring the price point down to $150,\" indicating he is leading the effort within the group. No other lead is named for this specific project.",
+      "* **Project lead:** Cory (who joined the project to develop an open-source software stack and bring down the price point)."
+    ],
+    "first_breakpoint": "B",
+    "other_breakpoints": []
+  },
+  {
+    "model": "gemini",
+    "group": 5,
+    "sample": 1,
+    "variant": "cot",
+    "tag": "C + D",
+    "title": "Recognized gap, qualification dropped",
+    "analysis": "The explanation acknowledges that the title is not explicitly assigned but still infers contributor/leader (C). The final field only names Cory and drops that qualification (D).",
+    "file": "prompt5/gemini/note_task1_cot_1.txt",
+    "sha256": "87cef7b6977202f521f96526b8aa299d9bd57efbacbb92e09a76408ab22954d1",
+    "evidence": [
+      "2. **Project lead:**\n   * *Derivation:* Cory states, \"I joined the project to bring the price point down to $150... I'm developing an open source software stack for robotics.\" While he is a contributor/leader driving this effort at Noisebridge, the notes do not explicitly title him as the sole \"project lead\" of the overarching external project, but he is the one presenting the initiative and development efforts at the meeting.\n   * *Field Value:* Cory (presented the project and is developing the open-source software stack).",
+      "* **Project lead:** Cory"
+    ],
+    "first_breakpoint": "C",
+    "other_breakpoints": [
+      "D"
+    ]
+  }
+]

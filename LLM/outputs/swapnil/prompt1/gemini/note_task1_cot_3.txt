@@ -1,0 +1,41 @@
+To prepare the project update based strictly on the provided meeting notes, let's step through each required field:
+
+1. **Project purpose**
+   * *Source statement:* Cory states, "This is a robot designed to be a therapeutic social robot for autistic children who are overwhelmed with stimulation. This little guy allows a therapist or instructor using a limited vocabulary to drive and interact and actually engage the student who has the speech pathology."
+   * *Derivation:* The robot is designed to serve as a therapeutic social tool for autistic children experiencing sensory overload, helping therapists or instructors engage students with speech pathology using a limited vocabulary.
+
+2. **Project lead**
+   * *Source statement:* Cory says, "I'm talking about the robotics meeting specifically about a project I've been involved in for a while... I joined the project to bring the price point down to $150."
+   * *Derivation:* Cory is the person driving/involved in this project and presenting it at the meeting.
+
+3. **Current robot cost**
+   * *Source statement:* Cory states, "There are about 100 of these out in the wild and their price point is $700. One of the reasons it's so expensive is because it requires an iPod Touch in the back, which is $350."
+   * *Derivation:* The current market price point is $700.
+
+4. **Target cost**
+   * *Source statement:* Cory states, "I joined the project to bring the price point down to $150."
+   * *Derivation:* The goal is to reduce the cost to $150.
+
+5. **Technology stack**
+   * *Source statement:* Cory notes, "One of the reasons it's so expensive is because it requires an iPod Touch in the back... I'm developing an open source software stack for robotics. For me most robots are just a pair of wheels, a battery, a brain, and a bunch of other stuff we play with all the time."
+   * *Derivation:* The stack involves an iPod Touch in the back and an open-source software stack for robotics, utilizing a pair of wheels, a battery, a brain, and associated parts.
+
+6. **Robotics group meeting day and time**
+   * *Source statement:* Searching the notes for "robotics meeting" reveals: "Cory: I build robots and teach people how to build robots and today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while." 
+   * *Derivation:* The meeting notes do *not* state a specific day and time for the robotics group meeting.
+
+7. **Distribution/manufacturing plan**
+   * *Source statement:* Cory asks/proposes: "How can we go about making a package that can be sold at Noisebridge, manufactured here, and all the money goes to Noisebridge for parts and materials? We're trying to give the robotics group something to start playing with and iterating on." Trent replies: "I've seen people in the past hold workshops and pay for the kit and work with someone knowledgeable to build it. A workshop might be one route. You can put things in there to sell and have the proceeds donated to Noisebridge."
+   * *Derivation:* The plan involves creating a kit of parts to be manufactured at Noisebridge, potentially distributed and built through workshops where participants pay for the kit and work with someone knowledgeable, with proceeds donated back to Noisebridge.
+
+***
+
+### Project Update
+
+* **Project Purpose:** Designed to be a therapeutic social robot for autistic children overwhelmed with stimulation, allowing a therapist or instructor to use a limited vocabulary to drive, interact, and engage students with speech pathology.
+* **Project Lead:** Cory
+* **Current Robot Cost:** $700 (partially driven by a $350 iPod Touch required in the back)
+* **Target Cost:** $150
+* **Technology Stack:** An iPod Touch combined with an open-source software stack for robotics, consisting of a pair of wheels, a battery, a brain, and other buildable parts.
+* **Robotics Group Meeting Day and Time:** Not specified in the meeting notes.
+* **Distribution/Manufacturing Plan:** Package the robot as a kit of parts to be manufactured locally at Noisebridge, distributed via workshops where participants pay for the kit and build it with a knowledgeable person, with all proceeds donated to Noisebridge for parts and materials.

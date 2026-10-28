@@ -1,0 +1,9 @@
+Based on the meeting notes provided, here is the project update:
+
+* **Project Purpose:** To build a therapeutic social robot designed to help therapists or instructors engage and interact with autistic children who are overwhelmed with stimulation.
+* **Project Lead:** Cory
+* **Current Robot Cost:** $700
+* **Target Cost:** $150
+* **Technology Stack:** An open-source software stack for robotics (the project also relies on a pair of wheels, a battery, a brain, and an iPod Touch in the back).
+* **Robotics Group Meeting Day and Time:** The provided text does not mention the specific day and time for the robotics group meeting.
+* **Distribution/Manufacturing plan:** Manufacturers are interested in making the parts, and the components can be manufactured in a makerspace (like Noisebridge). The project aims to create a kit of parts that can be sold as a package at Noisebridge and manufactured there, with all the proceeds going to Noisebridge for parts and materials. Additionally, workshops could be held where people pay for the kit and work with someone knowledgeable to build it.

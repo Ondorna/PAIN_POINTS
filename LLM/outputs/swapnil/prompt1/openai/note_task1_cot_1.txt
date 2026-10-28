@@ -1,0 +1,15 @@
+### Field-by-field derivation
+
+- **Project purpose:** Cory described a robot designed to support therapists working with autistic children who can be overwhelmed by stimulation. It uses a limited vocabulary to let a therapist or instructor drive and interact with the student.
+- **Project lead:** Cory said he had recently joined the project and was developing its software stack. The notes do not identify him as the project lead.
+- **Current robot cost:** Cory said the robot currently costs **$700**.
+- **Target cost:** Cory said he is working to bring the price down to **$150**.
+- **Technology stack:** Cory is developing an **open-source software stack for robotics**. The notes do not name specific software, hardware, or programming technologies.
+- **Robotics group meeting day and time:** The notes mention a robotics group but give no meeting day or time.
+- **Distribution/manufacturing plan:** The project’s creators want it to be open source rather than make products themselves. Cory proposed developing a kit that could be purchased and manufactured at a makerspace, with interested manufacturers potentially involved. He also asked about making and selling a kit through Noisebridge, with proceeds going to Noisebridge for parts and materials. A workshop where participants build kits was suggested as another possible route.
+
+### Project update
+
+Cory is contributing to an open-source therapeutic social robot intended to help therapists engage autistic children who may be overwhelmed by stimulation. The robot currently costs about **$700**, and Cory is working toward a **$150** target. He is developing an open-source robotics software stack, though the specific technologies have not been stated.
+
+The notes do not specify a project lead or the robotics group’s meeting day and time. Possible distribution approaches discussed include a purchasable kit manufactured at a makerspace, potentially with interested manufacturers, or workshops where participants build the kits. Cory also raised selling kits through Noisebridge and directing proceeds toward the space’s parts and materials.
