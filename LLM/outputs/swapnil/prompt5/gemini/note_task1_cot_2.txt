@@ -1,0 +1,41 @@
+**Step-by-Step Derivation:**
+
+1. **Project purpose:** 
+   - *Source text:* "This is a robot designed to be a therapeutic social robot for autistic children who are overwhelmed with stimulation. This little guy allows a therapist or instructor using a limited vocabulary to drive and interact and actually engage the student who has the speech pathology."
+   - *Explanation:* The notes explicitly state that the robot is designed as a therapeutic social robot for autistic children experiencing overwhelming stimulation, allowing therapists/instructors to interact with and engage students with speech pathology.
+
+2. **Project lead:** 
+   - *Source text:* "Cory: ...today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while... I joined the project to bring the price point down to $150... I'm developing an open source software stack for robotics."
+   - *Explanation:* Cory discusses joining the project to lower the price, develop the software stack, and presents the project during the meeting, identifying him as the project lead/representative present.
+
+3. **Current robot cost:** 
+   - *Source text:* "There are about 100 of these out in the wild and their price point is $700."
+   - *Explanation:* The notes state the current price point is $700.
+
+4. **Target cost:** 
+   - *Source text:* "I joined the project to bring the price point down to $150."
+   - *Explanation:* Cory states the goal is to bring the price point down to $150.
+
+5. **Technology stack:** 
+   - *Source text:* "One of the reasons it's so expensive is because it requires an iPod Touch in the back... I'm developing an open source software stack for robotics. For me most robots are just a pair of wheels, a battery, a brain..."
+   - *Explanation:* The notes mention it uses an iPod Touch in the back, a pair of wheels, a battery, a brain, and an open-source software stack being developed by Cory.
+
+6. **Robotics group meeting day and time:** 
+   - *Source text:* Checked the entire text for "robotics meeting", "day", "time", or specific weekdays associated with the robotics meeting.
+   - *Explanation:* Not mentioned anywhere in the meeting notes.
+
+7. **Distribution/manufacturing plan:** 
+   - *Source text:* "They don't want to sell them, they don't want to make products, they want to open source it... We have manufacturers who are interested in manufacturing things. And this stuff can be manufactured in a makerspace... How can we go about making a package that can be sold at Noisebridge, manufactured here, and all the money goes to Noisebridge for parts and materials? ... A workshop might be one route. You can put things in there to sell and have the proceeds donated to Noisebridge."
+   - *Explanation:* The plan involves open-sourcing the project, utilizing interested manufacturers, potentially manufacturing and packaging items at Noisebridge to be sold there with proceeds going to Noisebridge, and potentially holding workshops where people pay for the kit and build it with a knowledgeable person.
+
+***
+
+**Project Update:**
+
+* **Project purpose:** Designed as a therapeutic social robot for autistic children who are overwhelmed with stimulation, allowing a therapist or instructor using a limited vocabulary to drive, interact, and engage students with speech pathology.
+* **Project lead:** Cory
+* **Current robot cost:** $700
+* **Target cost:** $150
+* **Technology stack:** An iPod Touch in the back, a pair of wheels, a battery, a brain, and an open-source software stack being developed for robotics.
+* **Robotics group meeting day and time:** Not specified in the meeting notes
+* **Distribution/manufacturing plan:** Keep the project open-source rather than commercial product sales; utilize interested manufacturers; manufacture parts/packages in a makerspace like Noisebridge to be sold with proceeds donated to Noisebridge for parts and materials; and potentially host workshops where participants pay for kits and build them with knowledgeable guidance.

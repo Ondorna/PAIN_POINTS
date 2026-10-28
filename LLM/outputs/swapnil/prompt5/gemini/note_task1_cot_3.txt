@@ -1,0 +1,41 @@
+**Step-by-Step Derivation:**
+
+1. **Project purpose:** 
+   - *Source text:* "This is a robot designed to be a therapeutic social robot for autistic children who are overwhelmed with stimulation. This little guy allows a therapist or instructor using a limited vocabulary to drive and interact and actually engage the student who has the speech pathology."
+   - *Derivation:* Directly stated in the notes regarding the robot's function and target audience.
+
+2. **Project lead:** 
+   - *Source text:* "Cory: ...today I'm going to be talking about the robotics meeting specifically about a project I've been involved in for a while." and "I joined the project to bring the price point down to $150."
+   - *Derivation:* Cory is presenting the project and actively working on reducing its cost, indicating his leadership/involvement role in this project update.
+
+3. **Current robot cost:** 
+   - *Source text:* "There are about 100 of these out in the wild and their price point is $700."
+   - *Derivation:* Explicitly stated as $700.
+
+4. **Target cost:** 
+   - *Source text:* "I joined the project to bring the price point down to $150."
+   - *Derivation:* Explicitly stated as $150.
+
+5. **Technology stack:** 
+   - *Source text:* "One of the reasons it's so expensive is because it requires an iPod Touch in the back, which is $350." and "I'm developing an open source software stack for robotics."
+   - *Derivation:* Mentions an iPod Touch and an open-source software stack for robotics.
+
+6. **Robotics group meeting day and time:** 
+   - *Source text:* Checked the entire meeting notes. While Cory mentions talking about the robotics meeting, no specific day or time is provided.
+   - *Derivation:* Not stated in the notes.
+
+7. **Distribution/manufacturing plan:** 
+   - *Source text:* "There are manufacturers who are interested in manufacturing things. And this stuff can be manufactured in a makerspace... How can we go about making a package that can be sold at Noisebridge, manufactured here, and all the money goes to Noisebridge for parts and materials?" and Trent's suggestion: "I've seen people in the past hold workshops and pay for the kit and work with someone knowledgeable to build it. A workshop might be one route. You can put things in there to sell and have the proceeds donated to Noisebridge."
+   - *Derivation:* Involves interested manufacturers, potential manufacturing and kit sales at Noisebridge where proceeds go to the space, and hosting workshops.
+
+***
+
+**Project Update:**
+
+* **Project purpose:** To act as a therapeutic social robot for autistic children who are overwhelmed with stimulation, allowing a therapist or instructor using a limited vocabulary to drive, interact, and engage students with speech pathology.
+* **Project lead:** Cory
+* **Current robot cost:** $700
+* **Target cost:** $150
+* **Technology stack:** An iPod Touch and an open-source software stack for robotics.
+* **Robotics group meeting day and time:** Not specified in the meeting notes
+* **Distribution/manufacturing plan:** Partnering with interested manufacturers, manufacturing parts in a makerspace, potentially holding workshops where participants pay for kits, and selling packages/kits at Noisebridge with all proceeds donated to Noisebridge for parts and materials.

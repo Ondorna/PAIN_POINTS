@@ -1,0 +1,13 @@
+- **Project purpose:** Develop an open-source, lower-cost robotics platform and parts kit, with the Ro-Mee-Bo robot as an example. Ro-Mee-Bo is designed to help therapists engage autistic children who are overwhelmed by stimulation, using a limited vocabulary. The broader aim is to give Noisebridge’s robotics group a kit to build, learn from, and iterate on. *The notes describe these goals in Cory’s discussion of the project.*
+
+- **Project lead:** **Cory** is the person who introduced the project and said he had joined it and was developing its software stack. *The notes do not explicitly assign him the title of project lead, so this identifies him as the apparent lead from his described role.*
+
+- **Current robot cost:** **About $700.** *Cory gave this as the current price point.*
+
+- **Target cost:** **$150.** *Cory said he had joined the project to bring the price down to this amount.*
+
+- **Technology stack:** **An open-source software stack for robotics**, intended to support a platform built from components such as wheels, a battery, a brain, and other parts. *The notes do not name specific languages, hardware platforms, or software frameworks.*
+
+- **Robotics group meeting day and time:** **Not stated in the notes.** *Cory refers to the robotics group and its interested participants, but gives no meeting day or time.*
+
+- **Distribution/manufacturing plan:** Create a kit that people can purchase, with interested manufacturers potentially producing components; some parts could also be made at a makerspace. One possibility raised was to sell kits through Noisebridge, manufacture them there, and direct proceeds to Noisebridge for parts and materials. A workshop where participants pay for a kit and build it with someone knowledgeable was also suggested. *These are ideas discussed, not a finalized plan.*

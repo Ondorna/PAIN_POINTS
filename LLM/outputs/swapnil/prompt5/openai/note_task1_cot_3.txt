@@ -1,0 +1,21 @@
+### Field-by-field basis
+
+- **Project purpose:** Cory described an open-source robotics project, including a therapeutic social robot intended to help autistic children who are overwhelmed by stimulation. The robot lets a therapist or instructor interact with a student using a limited vocabulary.
+- **Project lead:** Cory said he had recently joined the project and was developing its software stack. The notes do not identify him as the project lead, so a lead cannot be confirmed.
+- **Current robot cost:** Cory said the robot costs $700.
+- **Target cost:** Cory said he aims to reduce the price to $150.
+- **Technology stack:** Cory said he is developing an open-source software stack for robotics. The notes do not specify particular languages, platforms, or components.
+- **Robotics group meeting day and time:** Not mentioned.
+- **Distribution/manufacturing plan:** Cory described a kit of parts that could be purchased and manufactured by interested manufacturers or in a makerspace. He asked how to make a package that could be sold at Noisebridge, manufactured there, and have proceeds go to Noisebridge for parts and materials. Trent suggested a workshop as one possible route, but no plan was finalized.
+
+### Project update
+
+| Field | Update |
+|---|---|
+| **Project purpose** | Develop an open-source robotics platform and lower-cost kit, with the discussion featuring a therapeutic social robot intended to help autistic children who are overwhelmed by stimulation. |
+| **Project lead** | Not specified in the meeting notes. Cory is involved and is developing the software stack, but was not identified as project lead. |
+| **Current robot cost** | $700 |
+| **Target cost** | $150 |
+| **Technology stack** | An open-source software stack for robotics; specific technologies are not specified in the meeting notes. |
+| **Robotics group meeting day and time** | Not specified in the meeting notes. |
+| **Distribution/manufacturing plan** | The proposal is to create a purchasable kit that could be manufactured by interested manufacturers or at a makerspace, potentially sold at Noisebridge, with proceeds supporting Noisebridge’s parts and materials. A workshop was suggested as one possible way to build and distribute kits; no final plan was stated. |

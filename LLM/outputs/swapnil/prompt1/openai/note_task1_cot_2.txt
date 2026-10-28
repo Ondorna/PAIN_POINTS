@@ -1,0 +1,17 @@
+### Field-by-field derivation
+
+- **Project purpose:** Cory described a robot designed to support autistic children who are overwhelmed by stimulation. A therapist or instructor can use its limited vocabulary to drive it and engage a student with speech pathology.
+- **Project lead:** Cory said he had recently joined the project and was developing its open-source software stack. The notes don’t identify him as the project lead.
+- **Current robot cost:** Cory said the robots cost **$700**.
+- **Target cost:** Cory said he was working to bring the price down to **$150**.
+- **Technology stack:** Cory described the robot as having wheels, a battery, a brain, and other components, and said he was developing an **open-source software stack for robotics**. The notes do not give further technical details.
+- **Robotics group meeting day and time:** The notes mention a robotics group but do not state its meeting day or time.
+- **Distribution/manufacturing plan:** Cory said the project’s creators want it to be open source, not to sell products themselves. He proposed a kit that could be purchased and manufactured at a makerspace, noting that manufacturers were interested. He also asked about selling kits through Noisebridge, with proceeds going to the space for parts and materials. Trent suggested a workshop as one possible route.
+
+### Project update
+
+Cory is contributing to an open-source robotics project focused on a therapeutic social robot for autistic children who can be overwhelmed by stimulation. The robot is intended to help a therapist or instructor engage a student with speech pathology. Its current price is about **$700**, with a target of **$150**.
+
+Cory is developing an open-source software stack. The robot is described as using wheels, a battery, a brain, and other components; no specific platform or software details were given. The project’s creators do not want to sell products themselves. A proposed approach is to develop a purchasable kit that can be manufactured at a makerspace, potentially with interested manufacturers. Cory raised the possibility of making and selling kits through Noisebridge, with proceeds supporting the space’s parts and materials. Trent suggested workshops as another possible way to build and distribute kits.
+
+The notes do not specify a project lead or the robotics group’s meeting day and time.

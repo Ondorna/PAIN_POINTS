@@ -1,0 +1,18 @@
+- **Project purpose:** Develop a lower-cost, open-source robotics platform and kit, with the Ro-Mee-Bo therapeutic social robot as an example. The robot is intended to help therapists or instructors engage autistic children who may be overwhelmed by stimulation.  
+  *Derivation:* Cory described Ro-Mee-Bo’s therapeutic use and said he was developing an open-source software stack and a kit of parts for people to build and iterate on robots.
+
+- **Project lead:** Cory.  
+  *Derivation:* Cory said he had joined the project and was developing its software stack. The notes do not give a formal project-lead title, so Cory is identified as the person leading the described development work.
+
+- **Current robot cost:** Approximately **$700**.  
+  *Derivation:* Cory gave this as the price point for existing robots “out in the wild.”
+
+- **Target cost:** **$150**.  
+  *Derivation:* Cory said he had joined the project to bring the price point down to $150.
+
+- **Technology stack:** An **open-source software stack for robotics**; the notes do not name specific software, hardware platforms, or programming languages. Cory described a typical robot as wheels, a battery, a “brain,” and other components.
+
+- **Robotics group meeting day and time:** **Not stated in the notes.** The notes mention a robotics group and Cory’s project discussion, but give no meeting schedule.
+
+- **Distribution/manufacturing plan:** Create a purchasable kit of parts, with interested manufacturers potentially producing components and makerspaces able to manufacture items. Cory asked how to package and sell it through Noisebridge, make it there, and direct the money to Noisebridge for parts and materials. Trent suggested workshops as one possible route: participants could pay for kits and build them with someone knowledgeable; items could also be sold with proceeds donated to Noisebridge.  
+  *Derivation:* These are proposals and possibilities discussed, not a finalized distribution or manufacturing plan.

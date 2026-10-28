@@ -1,0 +1,9 @@
+**Project Update: Ro-Mee-Bo (?) Robotics Project**
+
+- **Project purpose:** Develop a therapeutic social robot for autistic children who are overwhelmed by stimulation, allowing a therapist or instructor to drive and interact with the student using a limited vocabulary to help engage a student with speech pathology. The project also aims to bring the robot’s price point down and develop an open source software stack for robotics.
+- **Project lead:** Not specified in the meeting notes. Cory presented the robotics update and said he recently joined the project/group.
+- **Current robot cost:** $700.
+- **Target cost:** $150.
+- **Technology stack:** Open source software stack for robotics. The current robot design requires an iPod Touch in the back and is described generally as “a pair of wheels, a battery, a brain, and a bunch of other stuff.”
+- **Robotics group meeting day and time:** Not specified in the meeting notes.
+- **Distribution/manufacturing plan:** The project wants to open source the robot. Plans discussed include a kit of parts that can be purchased, manufacturers who are interested in manufacturing things, and the possibility of manufacturing in a makerspace. Cory also discussed exploring a package that could be sold at Noisebridge, manufactured there, with money going to Noisebridge for parts and materials, and giving the robotics group something to start playing with and iterating on. Trent noted a possible workshop route where people pay for the kit and build it with someone knowledgeable.

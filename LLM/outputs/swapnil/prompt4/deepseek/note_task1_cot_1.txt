@@ -1,0 +1,12 @@
+## Project Update — Ro-Mee-Bo (?) Robot Project  
+**Source/date:** Meeting notes dated 2026-06-04. Spelling of “Ro-Mee-Bo” is marked with a question mark in the notes.
+
+| Requested field | Complete update |
+|---|---|
+| **Project purpose** | The project is for a therapeutic social robot intended to help autistic children who are overwhelmed by stimulation. A therapist or instructor can use a limited vocabulary to drive and interact with the robot and engage a student with speech pathology. The project also aims to lower the robot’s cost through an open-source approach. |
+| **Project lead** | **Not explicitly stated in the notes.** Cory is the presenter/representative for the project and says he recently joined the group; the notes do not name a formal project lead. |
+| **Current robot cost** | **$700** price point. The notes also state that about 100 of these robots are “out in the wild.” |
+| **Target cost** | **$150**. |
+| **Technology stack** | An **open-source software stack for robotics** is being developed by Cory. The hardware is described as “a pair of wheels, a battery, a brain, and a bunch of other stuff.” The current robot requires an **iPod Touch in the back**, which is cited as a reason for the high cost. No specific programming language, framework, processor, or OS is named in the notes. |
+| **Robotics group meeting day and time** | **Not stated in the notes.** The notes mention a robotics meeting/group but do not give a day or time. |
+| **Distribution/manufacturing plan** | The project wants to **open source** the robot rather than simply make and sell products. The plan discussed is to create a **kit of parts** that can be purchased; manufacturers have expressed interest, and the parts can be manufactured in a makerspace. Specifically, they discussed making a package sold at Noisebridge, manufactured there, with money going to Noisebridge for parts and materials. Trent suggested running workshops where people pay for a kit and build it with a knowledgeable person, with proceeds donated to Noisebridge. The notes describe this as an exploratory plan, not a finalized decision. |

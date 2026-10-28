@@ -1,0 +1,9 @@
+## Robotics Project Update
+
+- **Purpose:** Develop an open-source, lower-cost version of a therapeutic social robot for autistic children who are overwhelmed by stimulation. The robot can be driven by a therapist or instructor using a limited vocabulary to engage a student with speech pathology.
+- **Project lead:** Cory, who recently joined the project.
+- **Current robot cost:** About **$700**.
+- **Target cost:** **$150**.
+- **Technology stack:** An open-source robotics software stack. The robot is described as having wheels, a battery, a “brain,” and other components. The current design uses an iPod Touch, which costs about $350; the project aims to avoid that expense.
+- **Robotics group meeting day and time:** Not specified in the notes.
+- **Distribution/manufacturing plan:** Make the design open source, develop a kit that people can buy and build, and work with interested manufacturers. Some components could be made at a makerspace. The group discussed selling kits through Noisebridge, with proceeds going toward parts and materials, and possibly running build workshops.
